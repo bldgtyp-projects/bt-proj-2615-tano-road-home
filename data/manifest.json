@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "phpp_version": "10.6",
-  "generated_at": "2026-08-05T15:33:05.641027Z",
+  "generated_at": "2026-08-13T14:13:28.400101Z",
   "generator": "btwr@0.0.1",
   "status": "ok",
   "variants": [
@@ -56,8 +56,8 @@
   ],
   "recommended_variant_id": "phius_core_2024",
   "source_workbook": {
-    "path": "/Users/em/Dropbox/bldgtyp/2615 Tano Road/07_PHPP/2615-Tano-Rd-260805.xlsx",
-    "sha256": "ed0ea99bb51090ff29592a17d1b3e9fb5a466c8a43f3b3169bd5b80c359825f4",
-    "size_bytes": 13430787
+    "path": "/Users/em/Dropbox/bldgtyp/2615 Tano Road/07_PHPP/2615-Tano-Rd-260811.xlsx",
+    "sha256": "0a4e071e33bf421e5cace1b88a943916fe5b355c35205b435ff80031723b2b1a",
+    "size_bytes": 13438583
   }
 }

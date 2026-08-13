@@ -1,12 +1,12 @@
 ---
 kicker: "06"
 title: "Appendix"
-dek: "Keep traceability available, but out of the primary decision narrative."
+dek: "Sources, open assumptions, and unit conversions."
 ---
 
 ### Sources and model provenance
 
-All energy results in this report are drawn from a single PHPP 10.6 workbook (`2615-Tano-Rd-260805.xlsx`). Building
+All energy results in this report are drawn from a single PHPP 10.6 workbook (`2615-Tano-Rd-260811.xlsx`). Building
 geometry is based on the architectural drawings and models received on
 <Var k="source_files.cad_files_received_date" />. Climate data is the
 <Var k="narrative.climate.weather_station_name" /> dataset. CO<sub>2e</sub> emission factors are from the
@@ -24,9 +24,13 @@ relied on for procurement:
 - Window product. Modeled as generic U-0.24 (B.Public variants) and U-0.15 (Phius CORE variant) installed
   assemblies with SHGC 0.48. Whole-window performance data for the actual specified product, including frame and
   spacer psi-values, will change these results.
-- Thermal bridges. Carried as a percentage allowance (10% / 5%) rather than calculated psi-values. Given this
-  building's perimeter and junction count, explicit 2D modeling of the slab edge, wall-to-roof, and panel-to-panel
-  junctions is recommended if certification is pursued.
+- Thermal bridges. Carried as a percentage allowance (10% for the B.Public variants, 2% for the Phius CORE variant)
+  rather than calculated psi-values. The Phius heating-demand margin depends on the 2% figure, so explicit 2D
+  modeling of the slab edge, wall-to-roof, and panel-to-panel junctions is required before the certification path is
+  committed to. This is the largest single open item in the model.
+- Casita ventilation. Modeled at 25% of design flow when the wing is unoccupied. This assumes zone control on the
+  main ERV, which is not yet in the mechanical scope. See
+  [Ventilation System Balancing](/mechanical/#ventilation-system-balancing).
 - Ventilation duct routing. The Phius CORE variant assumes exterior duct runs are halved and insulation doubled
   relative to the other variants. This needs to be verified as buildable once the ERV location is fixed.
 - Heating and cooling equipment. All variants model generic air-source heat pumps for space conditioning and

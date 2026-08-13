@@ -7,28 +7,41 @@ dek: "Document the selected H/ERV basis and commissioning expectations."
 For this building, we recommend a high-performance ERV with better than 80% rated heat recovery and better than 60%
 moisture recovery. The [Zehnder America ComfoAir Q600 ERV](https://zehnderamerica.com/products/ventilator/comfoair-q/)
 would be a good selection and provide excellent indoor air quality while minimizing energy consumption and occupant
-comfort issues. These units are outfitted with excellent air filtration, MERV 13 by default, which matters a great deal
+comfort issues. These units are outfitted with excellent air filtration, MERV 13 by default, which matters
 for clean and healthy indoor air.
 
 The **effective** heat recovery efficiency in the energy model runs lower than the unit's rated figure, because
 it accounts for heat lost from the ducting that runs outside the thermal envelope. As modeled, that effective value is
-**76%** for the B.Public variants and **79%** for the Phius CORE 2024 variant. The difference between those two numbers
+**75%** for the B.Public variants and **78%** for the Phius CORE 2024 variant. The difference between those two numbers
 comes entirely from shortening the exterior duct runs from roughly 16 ft to 8 ft each and doubling their insulation
 from 1" to 2". That is a low-cost, high-return change and we recommend it whichever envelope package is
 selected. Locate the ERV so that the outdoor-air and exhaust-air ducts are as short as physically possible.
 
-**Note on the Casita:** the casita is a wing of the main house rather than a separate structure, and the model assumes
-it is served by the same ERV as the rest of the home. That is the right default. The open question is usage rather
-than distance. If the space functions as a normal guest room, unoccupied much of the time, then ventilating it
-continuously at its design rate wastes energy and over-dries the space, while ventilating it at a reduced rate leaves
-it stale when guests do arrive.
+### Casita zone control
 
-We would solve that with **zone control on the main unit** instead of a second ERV: a motorized damper on the casita
+The casita is a wing of the main house rather than a separate structure, and it is served by the same ERV as the rest
+of the home. Following discussion with the team, the model now assumes the wing is used intermittently: guests stay
+occasionally, and the rest of the year the casita ventilation **ramps down to 25% of design flow**. In airflow terms
+that is 8 CFM supply to the casita bedroom and 16 CFM total extract from the casita bathroom and living/kitchen,
+against 32 CFM each at high speed.
+
+<div class="btwr-callout btwr-callout--critical">
+  <span>
+    The reduced casita flow is now a performance requirement: it is one of the two changes that brought the
+    Phius CORE 2024 heating-demand result under its limit. The zone control described here has to be installed and
+    commissioned for the modeled performance to be achieved.
+  </span>
+</div>
+
+Deliver it with **zone control on the main unit** instead of a second ERV: a motorized damper on the casita
 supply and extract branches, switched by an occupancy sensor or a simple manual boost, with the main unit stepping its
 total airflow to match. That costs considerably less than a dedicated unit and avoids a second piece of equipment to
 filter, service, and commission. A dedicated ERV only becomes the better answer if the casita is eventually intended to
-operate as an independent dwelling with its own kitchen and its own schedule. Worth confirming with the owners before
-the ducting is laid out.
+operate as an independent dwelling with its own kitchen and its own schedule.
+
+Two things to confirm during design development. The boost control needs to be obvious and reachable for guests, or
+the wing will simply run stale. And the reduced-flow condition should be verified at commissioning alongside the
+full-flow balance, since it is now a performance assumption rather than a convenience feature.
 
 The values used in this analysis are assumed only. <Var k="narrative.mechanical.erv.manufacturer_name" /> should be
 retained to fully design, specify, and balance the system after installation. This matters for proper operation and is

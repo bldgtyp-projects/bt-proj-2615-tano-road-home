@@ -14,40 +14,27 @@ that improvements are possible.
 
 For **Phius CORE 2024**, all four space-conditioning limits are hard pass/fail criteria, and they are calculated
 specifically for this building by the Phius Criteria Calculator based on its enclosure area, floor area, occupant
-density, and location. For this project they are:
-
-| Criterion | Phius CORE 2024 limit |
-| --- | --- |
-| Annual heating demand | ≤ <Var k="narrative.certification.phius_hd_limit" /> kBtu/ft²·yr |
-| Annual cooling demand (sensible + latent) | ≤ <Var k="narrative.certification.phius_cd_limit" /> kBtu/ft²·yr |
-| Peak heating load | ≤ <Var k="narrative.certification.phius_hl_limit" /> Btu/hr·ft² |
-| Peak cooling load (sensible) | ≤ <Var k="narrative.certification.phius_cl_limit" /> Btu/hr·ft² |
-
-Shown below are results for these assessment metrics, for each of the tested variants.
+density, and location. Shown below are results for these assessment metrics, for each of the tested variants.
 
 ### Reading the results
 
 Cooling is a non-issue here. Every variant except the code-minimum baseline passes both cooling criteria by a wide
-margin. Even the code-minimum baseline uses only about 2.0 kBtu/ft²·yr against an 8.4 allowance, and the Phius CORE
-variant about 1.1. Santa Fe's dry air and large day-to-night temperature swing do most of that work, and the model
-shows no latent cooling demand at all.
+margin. Even the code-minimum baseline uses only about 2.0 kBtu/ft²·yr of cooling against an 8.4 allowance, and the
+Phius CORE variant about 1.1. Santa Fe's dry air and large day-to-night temperature swing do most of that work, and
+the model shows no latent cooling demand at all.
 
-Heating is the whole story. Annual heating demand runs from 49.7 kBtu/ft²·yr at code-minimum down to 18.2 with the
-full B.Public package. That is an excellent result in absolute terms, and still roughly double the 9.2 limit. Only the
-Phius CORE 2024 variant approaches it, at **9.45 kBtu/ft²·yr**, which is a 3% miss.
-
-Peak heating load behaves differently. The Phius variant lands at 5.6 Btu/hr·ft² against a 5.7 limit, so it **passes**.
-That combination, passing peak load while missing annual demand, is characteristic of a building with little useful
-solar gain. Peak load is set by the design-day temperature, which the envelope handles well. Annual demand is set by
-the whole heating season, where a compact, south-facing house would be harvesting free solar heat that this plan
-cannot. See the [Winter Radiation](/windows/#winter-radiation) section for that analysis.
+Heating is where the variants separate. Annual heating demand runs from 48.5 kBtu/ft²·yr at code-minimum down to 18.1
+with the full B.Public package. That is an excellent result in absolute terms, and still roughly double the 9.2 limit.
+Only the Phius CORE 2024 variant clears it, at **8.90 kBtu/ft²·yr**, a margin of 3.2%. Peak heating load follows the
+same pattern, with the Phius variant at 5.42 Btu/hr·ft² against a 5.71 limit, a margin of 5.1%.
 
 <div class="btwr-callout">
   <strong>Design implication</strong>
   <span>
-    The remaining heating-demand gap cannot be closed by mechanical equipment, by PV, or by better controls. Only two
-    things close it: further reducing envelope losses, or increasing useful winter solar gain. Since the massing and
-    glazing layout are fixed, that means more insulation and better glass, which is exactly the part of the budget
-    where each additional dollar buys the least.
+    The heating-demand and peak-load results pass, with margins of 3.2% and 5.1%. Margins that size do not survive
+    much slippage. Before the certification path is committed to, the slab edge, wall-to-roof, and panel-to-panel
+    junctions should be modeled explicitly in 2D so the 2% thermal-bridge allowance is backed by calculation.
+    The same caution applies to the window package: the modeled U-0.15 assembly needs to be matched by an
+    actual specified product.
   </span>
 </div>
