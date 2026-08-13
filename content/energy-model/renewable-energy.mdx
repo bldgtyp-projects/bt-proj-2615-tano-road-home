@@ -1,40 +1,49 @@
 ---
 kicker: "08"
 title: "Renewable Energy"
-dek: "Assess on-site PV now that the source-energy limit is met without it."
+dek: "Size the on-site PV that closes the carbon gap on the recommended package."
 ---
 
 No solar PV is included in any of the variants modeled in this report. The site is unshaded, high in altitude, and
 sits under one of the best solar resources in the country, so it is worth being specific about what PV would and
 would not change.
 
-Phius CORE 2024 sets its source-energy limit on a **net** basis, at
-<Var k="narrative.certification.phius_nse_limit" /> kWh/person·yr, or 25,875 kWh/yr for the five-person occupancy
-modeled here. On-site renewable generation is credited against that total.
+Because this report does not recommend pursuing certification, PV here is not a compliance instrument. It is the
+cheapest remaining way to move the building's carbon and utility numbers, and on this site it is unusually
+cost-effective.
 
-**The Phius CORE variant already meets that limit with no PV at all**, at 25,260 kWh/yr against the 25,875 allowance.
-Certification does not depend on an array. The **+R-80 Roof** variant models at 34,725 kWh/yr, about 8,850 kWh/yr over
-the limit. At the modeled all-electric source factor of 1.8, closing that gap would take roughly 4,900 kWh/yr of
-production, which in Santa Fe is a **3.0 kW** array, small by residential standards.
+Two independent gaps land on almost the same array size:
+
+- **Carbon.** The recommended **+R-52 Walls** package emits 6.6 tons-CO<sub>2e</sub>/yr against the
+  <Var k="narrative.co2.target_tons" />-ton benchmark used in the [CO2 Emissions](#co2-emissions) section. Closing
+  that 1.6-ton gap takes roughly 4,800 kWh/yr of production.
+- **Source energy.** For reference, Phius CORE 2024 sets its source-energy limit on a **net** basis at
+  <Var k="narrative.certification.phius_nse_limit" /> kWh/person·yr, or 25,875 kWh/yr for the five-person occupancy
+  modeled here. The recommended package models at 34,841 kWh/yr, about 8,970 kWh/yr over. At the modeled all-electric
+  source factor of 1.8, closing that gap would take roughly 5,000 kWh/yr of production.
+
+Either way the answer is about a **3 kW** array, small by residential standards. For context, the Phius CORE variant
+is the only one that meets the source-energy limit with no PV at all, at 25,260 kWh/yr against the 25,875 allowance,
+and it does so with only 2.4% to spare.
 
 <div class="btwr-callout">
   <span>
-    The source-energy margin on the Phius variant is 2.4%, thinner than it looks. Source energy scales with everything
-    the occupants plug in, and the fixed loads (lighting, appliances, plug loads, hot water) already account for about
-    half of site energy. An additional freezer, a hot tub, or an EV charged at home would erase that margin. A modest
-    PV array is the cheapest insurance against the model being right and the building still missing.
+    A 3 kW array is a modest, well-understood scope item on a roof this size, and it does more for this building's
+    operating carbon than any remaining envelope upgrade available to it. The step from the recommended package to the
+    full B.Public package saves about 0.16 tons-CO<sub>2e</sub>/yr; the array saves roughly 1.6, ten times as much.
   </span>
 </div>
 
-Independent of certification, we recommend the design team carry PV in the scope for these reasons:
+We recommend the design team carry PV in the scope for these reasons:
 
 1. The roof area is there. A spread-out single-storey plan has a poor surface-to-floor-area ratio for heat loss,
    but the same geometry gives an unusually large, well-oriented roof for collection.
-2. Phius CORE requires PV-ready detailing regardless. Conduit, structural provision, and electrical panel space
-   should be built in even if panels are deferred.
+2. It is the only remaining lever on operational carbon, as described above. Every envelope upgrade still available
+   to this project returns a small fraction of what the array does.
 3. Battery and outage performance. The [Resilience](/resilience/) results assume no power at all. A modest PV and
    storage system would turn an already very safe outage performance into a comfortable one.
-4. Headroom against the source-energy limit, as described above.
+4. PV-ready detailing costs almost nothing at this stage and a great deal later. Conduit, structural provision, and
+   electrical panel space should be built in even if the panels themselves are deferred to a later phase.
 
 Array sizing, inverter selection, and interconnection with the local utility fall outside the scope of this report and
 should be coordinated with a solar designer during design development.

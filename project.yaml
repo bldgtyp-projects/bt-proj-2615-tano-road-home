@@ -4,13 +4,13 @@ project_title: Tano Road Home
 client_name: B.Public
 building_name: Tano Road Home
 phase: Design Analysis
-report_date: '2026-08-04'
+report_date: '2026-08-14'
 prepared_by: bldgtyp, llc
 contact_email: ed@bldgtyp.com
 target_standard: Phius CORE 2024
 certification_program: Phius CORE 2024
 certification_path: Phius CORE 2024
-recommended_variant_id: phius_core_2024
+recommended_variant_id: r_52_walls
 building:
   address: 90 Tano Rd
   city: Santa Fe
@@ -19,8 +19,8 @@ building:
   building_type: single-family residential
   total_num_occupants: '5'
 source_files:
-  phpp_path: ../07_PHPP/2615-Tano-Rd-260811.xlsx
-  cad_files_received_date: July 31, 2026 
+  phpp_path: ../07_PHPP/2615-Tano-Rd-260813.xlsx
+  cad_files_received_date: July 31, 2026
   data_dir: data
   assets_dir: public/assets
 publishing:
@@ -47,7 +47,7 @@ narrative:
     phius_cd_limit: '8.4'
     phius_hl_limit: '5.7'
     phius_cl_limit: '3.1'
-    phius_nse_limit: '5,175'
+    phius_nse_limit: 5,175
     phius_cfm50_limit: '0.06'
   climate:
     weather_station_name: 'US0141a-Santa Fe :: 723656 :: PHPP'
@@ -85,8 +85,8 @@ narrative:
       type_name: ComfoAir Q600 ERV
       link: https://zehnderamerica.com/products/ventilator/comfoair-q/
   user_defined:
-    icfa_ft2: '2,740'
-    envelope_area_ft2: '12,008'
+    icfa_ft2: 2,740
+    envelope_area_ft2: 12,008
     envelope_to_icfa_ratio: '4.4'
     window_area_total_ft2: '638'
     window_area_north_ft2: '132'

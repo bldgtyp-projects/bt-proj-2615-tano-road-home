@@ -7,8 +7,9 @@ callout_body: >-
   This home is spread out. Its enclosure area is 4.4 times its interior floor area, roughly double a compact
   house of the same size, and the wings and garage shade most of the south-facing glass. Both conditions are
   fixed by the site plan and the program, and both work against the Passive House heating-demand target.
-  The envelope has to make up the difference. Certification is achievable, and the margins are thin enough
-  that the assumptions behind them need to hold.
+  The envelope has to make up the difference. Certification is achievable, but only on margins of 2% to 5%
+  and at a cost that is out of proportion to what it buys. We recommend building to the +R-52 Walls package
+  and not pursuing certification.
 hero_image: "/assets/cover/hero.optimized.png"
 hero_image_full: "/assets/cover/hero.full.png"
 hero_alt: "Isometric line rendering of the proposed building massing."
@@ -20,13 +21,24 @@ Tano Road home under six design variants, ranging from a code-minimum baseline t
 **B.Public** panel packages to a full **Phius CORE 2024** configuration. The following pages document the
 modeling assumptions, the results, and our recommendations.
 
+### What we recommend
+
+Build to the **+R-52 Walls** package: the **B.Public** R-52 wall panel (effective R-49.5), the R-59 roof panel
+(effective R-58.5), an R-25 sub-slab assembly, U-0.22 windows, 1.0 ACH50 airtightness, and a balanced ERV. Do not
+pursue Phius certification. The reasoning for both halves of that recommendation is below.
+
 ### What the model shows
 
 The B.Public panel system works well for this building and climate. Moving from the code-minimum baseline to the base
-**R-35 wall / R-59 roof** package cuts total site energy roughly in half, from 50.6 to 26.7 kBtu/ft²·yr.
-Upgrading to the **R-52 walls** and then the **R-80 roof** takes that to 24.0 kBtu/ft²·yr, and drops annual
-CO<sub>2e</sub> emissions from 15.2 to 6.6 tons/year. This improvement results in an excellent building: comfortable,
-durable, quiet, with very low energy consumption.
+**R-35 wall / R-59 roof** package cuts total site energy roughly in half, from 50.6 to 26.1 kBtu/ft²·yr. Upgrading the
+walls to the **R-52 panel** takes that to **24.1 kBtu/ft²·yr** and drops annual CO<sub>2e</sub> emissions from 15.2 to
+6.6 tons/year. That is an excellent building: comfortable, durable, quiet, and less than half the energy use of a
+code-compliant house on the same plan.
+
+Past that point the curve flattens hard. Adding the **R-80 roof** panel on top of the R-52 walls saves a further
+0.6 kBtu/ft²·yr, the smallest return of any upgrade tested in this report. It is worth taking if the panel premium
+is small, since it is a factory substitution with no detailing consequences, but it should be decided on price rather
+than on energy. See [Ext. Roof](/building_envelope/#recommended-assemblies).
 
 The full **Phius CORE 2024** variant goes further still, with site energy down to 17.5 kBtu/ft²·yr and only 4.7 tons
 CO<sub>2e</sub>/year. That sits inside the 5-ton benchmark described in the
@@ -34,13 +46,38 @@ CO<sub>2e</sub>/year. That sits inside the 5-ton benchmark described in the
 sub-slab assembly, U-0.15 windows, 0.6 ACH50 airtightness, and a shortened, heavily insulated ventilation
 duct run.
 
-### Phius certification?
+### Why we do not recommend pursuing certification
 
-While Phius certification is possible, we do not necessarily recommend it for this project. Due to the spread-out nature 
-of the floor plan and the limited solar gain, this home has higher heating demand than normal. This means that while it
-is still possible to get to Phius level, it means more insulation than usual, and better windows than usual. Phius CORE 2024
-should be evaluated and considered carefully before committing to it. 
+Certification is achievable on this building. We do not think it is worth what it costs here, for three reasons.
 
+1. **The margins are very thin.** The Phius CORE 2024 variant passes heating demand by 3.1% (8.90 against
+   9.19 kBtu/ft²·yr), peak heating load by 5.0%, and net source energy by 2.4%. Source-energy margin can be bought
+   back with PV. The other two cannot: they are pure envelope, and there is no design move left that recovers them.
+2. **One of those margins rests on an uncalculated assumption.** The heating-demand result carries thermal bridges as
+   a 2% allowance rather than as calculated psi-values. On a single-storey pinwheel plan with this much slab perimeter
+   and this many roof-to-wall transitions, explicit 2D modeling could plausibly consume the entire 3.1% margin. That
+   work would need to happen before, not after, committing to the path.
+3. **The cause is fixed by the site plan.** The 4.4 enclosure-to-floor-area ratio and the self-shaded south glass are
+   consequences of the program and the massing, not of the specification. The envelope is being asked to compensate
+   for geometry, which is why the Phius package needs 3" of site-applied mineral wool over already-complete panels,
+   roughly double the sub-slab foam, and a considerably more expensive window.
+
+The practical consequence is that the decision cannot be deferred. The sub-slab insulation depth and the window plane
+are both early, irreversible commitments, so certification is not something this project can add back later at the
+incremental cost of the difference.
+
+### Two things that carry more weight without certification
+
+**Windows.** All three B.Public variants are now modeled at an installed U-0.22, which is exactly the glazing
+performance that Passive House comfort guidance recommends for this climate's winter design conditions. That is a
+deliberate choice: it puts the recommended package on the right side of the radiant-asymmetry threshold without
+reaching for the U-0.15 product the certification path requires. See
+[Window Thermal Comfort](/windows/#window-thermal-comfort).
+
+**Solar PV.** At 6.6 tons CO<sub>2e</sub>/year the recommended package sits above the 5-ton benchmark this report
+uses, and only the Phius variant clears that benchmark on envelope alone. Without certification, on-site PV becomes
+the mechanism that closes the carbon gap rather than an optional extra. A modest array, roughly 3 kW, offsets the
+difference. We recommend carrying PV in the scope; see [Renewable Energy](/energy_model/#renewable-energy).
 
 ### Resilience
 

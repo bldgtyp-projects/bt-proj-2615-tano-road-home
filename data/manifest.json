@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "phpp_version": "10.6",
-  "generated_at": "2026-08-13T14:13:28.400101Z",
+  "generated_at": "2026-08-13T22:00:24.024851Z",
   "generator": "btwr@0.0.1",
   "status": "ok",
   "variants": [
@@ -34,7 +34,7 @@
       "name": "+R-52 Walls",
       "order": 3,
       "color": "auto",
-      "recommended": false,
+      "recommended": true,
       "source_column": "J"
     },
     {
@@ -50,14 +50,14 @@
       "name": "Phius CORE 2024",
       "order": 5,
       "color": "auto",
-      "recommended": true,
+      "recommended": false,
       "source_column": "L"
     }
   ],
-  "recommended_variant_id": "phius_core_2024",
+  "recommended_variant_id": "r_52_walls",
   "source_workbook": {
-    "path": "/Users/em/Dropbox/bldgtyp/2615 Tano Road/07_PHPP/2615-Tano-Rd-260811.xlsx",
-    "sha256": "0a4e071e33bf421e5cace1b88a943916fe5b355c35205b435ff80031723b2b1a",
-    "size_bytes": 13438583
+    "path": "/Users/em/Dropbox/bldgtyp/2615 Tano Road/07_PHPP/2615-Tano-Rd-260813.xlsx",
+    "sha256": "e9587ce1a510b6ac5e5dc909c9607fd8af6e9a4788f54974ca07dd5fade1b7b1",
+    "size_bytes": 13438277
   }
 }
