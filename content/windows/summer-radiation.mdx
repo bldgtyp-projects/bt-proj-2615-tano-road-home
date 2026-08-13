@@ -8,11 +8,29 @@ radiation_alt: "Summer solar radiation study on the modeled windows."
 radiation_caption: "Summer solar radiation by window orientation."
 ---
 
-- Even taking into account the street trees, fairly high solar radiation is observed along the 
-south facade's upper floors which will reduce thermal comfort.
-- The most radiation is apparent on the upper floors, which receive the least amount of shading from the 
-neighboring buildings or street trees. 
-- Coupled to the inevitable internal temperature stratification, this upper level solar radiation is 
-the are most likely to see low thermal comfort in summer and early fall. It is recommended to prioritize
-shading for the dormer windows at minimum, and the top two floors if possible. Use robust user-operable interior blinds
-with high opacity and solar reflectance. Specify glazing with low SHGC (g-Value) for all south facing glazing. 
+Because of its orientation and its four-sided glazing distribution, the building sees meaningful solar radiation on
+every facade during the summer months. The summer risk concentrates on the **east and west** elevations rather than
+the south. In June a vertical east or west surface in Santa Fe receives roughly 12 to 13.5 kWh/ft² per month, while
+the south surface receives only about 7.3. The sun climbs high enough at midday that south glass is largely
+self-shaded by its own head detail, but low morning and afternoon sun strikes the east and west glass directly.
+
+The results here are reassuring:
+
+- The deep overhangs on the east and west, together with the dedicated horizontal overhangs and covered portals, cut the
+  overheating risk substantially. The same self-shading that hurts the winter balance helps here.
+- Modeled cooling demand is very low, about 1.1 kBtu/ft²·yr against a Phius CORE 2024 limit of
+  <Var k="narrative.certification.phius_cd_limit" />, with no latent load at all. Every variant except the
+  code-minimum baseline also passes the peak cooling load criterion comfortably.
+- The [Resilience](/resilience/) simulation confirms this from a different direction. Through a seven-day summer
+  outage with no mechanical cooling at all, the peak Heat Index in any zone reaches only 80.3 °F.
+
+Some exposed and unshaded windows would still benefit from additional shading measures. The home does not appear to be
+at significant risk of overheating, but we still recommend prioritizing shading on all windows and glazed doors where
+it is feasible:
+
+- Use sturdy, user-operable interior blinds with high opacity and solar reflectance, particularly on the east and west
+  elevations.
+- Where exterior shading is possible, it works roughly three times as well as interior shading for the same
+  visual result, since it stops the radiation before it enters the building.
+- Provide operable windows and a night-flush strategy. Santa Fe's large day-to-night swing means the most
+  effective cooling measure available here costs nothing to run.

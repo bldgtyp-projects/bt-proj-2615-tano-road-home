@@ -9,7 +9,25 @@ typical energy use figure assessed when considering a site "Net-Zero" building e
 annual cost of energy for the building. This site-energy total is made up of 6 main groups: heating, cooling, hot-water,
 lighting, electric equipment (appliances, electric-vehicles, etc), and pumps / fans.
 
-In order to assess the performance of the home across a range of options, we have simulated 5 distinct variants with
+In order to assess the performance of the home across a range of options, we have simulated six variants with
 different energy efficiency measures (see the [Model Variants](#model-variants) section for all the details on the
-specific variant inputs). In this case, compared to the "existing" home any of the variants assessed are likely to
-provide significant reductions in site energy consumption.
+specific variant inputs). All variants are modeled as all-electric.
+
+The results follow the pattern we would expect for a heating-dominated, high-surface-area building. Heating is the
+dominant end use in every case, and it is where nearly all of the savings come from. Total site energy falls
+from **51.8 kBtu/ft²·yr** at code-minimum to **26.9** with the base B.Public package, **24.3** with the full
+B.Public upgrade, and **18.0** in the Phius CORE 2024 configuration.
+
+Two points stand out in the chart. The first move is the big one: going from code-minimum to the "Improved"
+specification cuts site energy by 44%. Most of that comes from two changes that cost comparatively little, namely
+going from 3.0 to 1.0 ACH50 and replacing extract-only bath fans with a balanced ERV. Auxiliary electricity alone
+drops from 5,126 to 596 kWh/yr.
+
+Returns then flatten quickly. The R-52 wall and R-80 roof upgrades together save a further 2.6 kBtu/ft²·yr beyond the
+base B.Public package. That is still worth doing, but the R-80 roof on its own contributes only about
+0.6 kBtu/ft²·yr and should be evaluated on cost.
+
+Everything unrelated to heating, cooling, and ventilation (lighting, appliances, plug loads, and hot water) stays
+effectively identical across the variants at roughly 7,100 kWh/yr. In the Phius CORE case those fixed loads account for
+about half of total site energy. Past a certain point the envelope stops being the lever, and appliance selection,
+lighting design, and occupant behavior become the larger share of the utility bill.

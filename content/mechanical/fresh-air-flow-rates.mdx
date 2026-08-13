@@ -7,3 +7,19 @@ dek: "Show the room-by-room fresh-air assumptions used by the model."
 The fresh-air system should be sized around the room-by-room supply, transfer, and extract strategy rather than around a
 single whole-building ventilation rate. The table below keeps the modeled airflow assumptions visible for design
 coordination and commissioning.
+
+As modeled, the system moves **260 CFM** at high speed and **200 CFM** at its normal operating (medium) speed, balanced
+supply to extract. Supply is delivered to the living, dining, gym, office, bedrooms, and casita bedroom; extract is
+drawn from the kitchen, all bathrooms and WCs, and the casita living/kitchen. Halls, closets, the pantry, the
+mud/laundry room, and the entry act as transfer zones and receive no dedicated supply or extract.
+
+Two coordination notes follow from the plan.
+
+Duct runs are long. The wings are strung out, so this system carries considerably more duct than a compact house
+would. Duct length and insulation quality are not just an installation detail here. They directly affect the
+effective heat recovery efficiency, and they are one of the differences between the B.Public and Phius CORE variants
+in the model.
+
+The casita's occupancy is intermittent. It is a wing of the main house and is served by the same ERV in the model, but
+if it functions as a guest room it will sit empty much of the year. See the
+[Ventilation System Balancing](#ventilation-system-balancing) section for the zone-control recommendation.

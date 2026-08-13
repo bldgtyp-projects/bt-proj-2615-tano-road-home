@@ -1,9 +1,63 @@
 {
-  "status": "pending",
-  "project": {
-    "slug": "0000-example-report",
-    "name": "Example Passive House Report"
-  },
-  "schema_version": "0.1.0",
-  "variants": []
+  "schema_version": "1.0.0",
+  "phpp_version": "10.6",
+  "generated_at": "2026-08-05T15:33:05.641027Z",
+  "generator": "btwr@0.0.1",
+  "status": "ok",
+  "variants": [
+    {
+      "id": "code_minumum",
+      "name": "Code Minumum",
+      "order": 0,
+      "color": "auto",
+      "recommended": false,
+      "source_column": "G"
+    },
+    {
+      "id": "improved",
+      "name": "Improved",
+      "order": 1,
+      "color": "auto",
+      "recommended": false,
+      "source_column": "H"
+    },
+    {
+      "id": "r_35_walls_r_59_roof",
+      "name": "R-35 Walls / R-59 Roof",
+      "order": 2,
+      "color": "auto",
+      "recommended": false,
+      "source_column": "I"
+    },
+    {
+      "id": "r_52_walls",
+      "name": "+R-52 Walls",
+      "order": 3,
+      "color": "auto",
+      "recommended": false,
+      "source_column": "J"
+    },
+    {
+      "id": "r_80_roof",
+      "name": "+R-80 Roof",
+      "order": 4,
+      "color": "auto",
+      "recommended": false,
+      "source_column": "K"
+    },
+    {
+      "id": "phius_core_2024",
+      "name": "Phius CORE 2024",
+      "order": 5,
+      "color": "auto",
+      "recommended": true,
+      "source_column": "L"
+    }
+  ],
+  "recommended_variant_id": "phius_core_2024",
+  "source_workbook": {
+    "path": "/Users/em/Dropbox/bldgtyp/2615 Tano Road/07_PHPP/2615-Tano-Rd-260805.xlsx",
+    "sha256": "ed0ea99bb51090ff29592a17d1b3e9fb5a466c8a43f3b3169bd5b80c359825f4",
+    "size_bytes": 13430787
+  }
 }

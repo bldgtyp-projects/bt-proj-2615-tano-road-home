@@ -1,0 +1,1015 @@
+section,field_id,phpp_label,variant_id,variant_name,datatype,units,value,excel_row
+geometry,geometry.tfa,TFA,code_minumum,Code Minumum,TFA,m2,254.58787792,316
+geometry,geometry.tfa,TFA,improved,Improved,TFA,m2,254.58787792,316
+geometry,geometry.tfa,TFA,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,TFA,m2,254.58787792,316
+geometry,geometry.tfa,TFA,r_52_walls,+R-52 Walls,TFA,m2,254.58787792,316
+geometry,geometry.tfa,TFA,r_80_roof,+R-80 Roof,TFA,m2,254.58787792,316
+geometry,geometry.tfa,TFA,phius_core_2024,Phius CORE 2024,TFA,m2,254.58787792,316
+geometry,geometry.vv,VV,code_minumum,Code Minumum,VV,m3,636.4696948,317
+geometry,geometry.vv,VV,improved,Improved,VV,m3,636.4696948,317
+geometry,geometry.vv,VV,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,VV,m3,636.4696948,317
+geometry,geometry.vv,VV,r_52_walls,+R-52 Walls,VV,m3,636.4696948,317
+geometry,geometry.vv,VV,r_80_roof,+R-80 Roof,VV,m3,636.4696948,317
+geometry,geometry.vv,VV,phius_core_2024,Phius CORE 2024,VV,m3,636.4696948,317
+geometry,geometry.vn50,Vn50,code_minumum,Code Minumum,Vn50,m3,750,318
+geometry,geometry.vn50,Vn50,improved,Improved,Vn50,m3,750,318
+geometry,geometry.vn50,Vn50,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Vn50,m3,750,318
+geometry,geometry.vn50,Vn50,r_52_walls,+R-52 Walls,Vn50,m3,750,318
+geometry,geometry.vn50,Vn50,r_80_roof,+R-80 Roof,Vn50,m3,750,318
+geometry,geometry.vn50,Vn50,phius_core_2024,Phius CORE 2024,Vn50,m3,750,318
+geometry,geometry.building_envelope_area,Building Envelope Area,code_minumum,Code Minumum,Building Envelope Area,m2,1115.56702395,319
+geometry,geometry.building_envelope_area,Building Envelope Area,improved,Improved,Building Envelope Area,m2,1115.56702395,319
+geometry,geometry.building_envelope_area,Building Envelope Area,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Building Envelope Area,m2,1115.56702395,319
+geometry,geometry.building_envelope_area,Building Envelope Area,r_52_walls,+R-52 Walls,Building Envelope Area,m2,1115.56702395,319
+geometry,geometry.building_envelope_area,Building Envelope Area,r_80_roof,+R-80 Roof,Building Envelope Area,m2,1115.56702395,319
+geometry,geometry.building_envelope_area,Building Envelope Area,phius_core_2024,Phius CORE 2024,Building Envelope Area,m2,1115.56702395,319
+geometry,geometry.gross_volume,Gross Volume,code_minumum,Code Minumum,Gross Volume,m3,975,320
+geometry,geometry.gross_volume,Gross Volume,improved,Improved,Gross Volume,m3,975,320
+geometry,geometry.gross_volume,Gross Volume,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Gross Volume,m3,975,320
+geometry,geometry.gross_volume,Gross Volume,r_52_walls,+R-52 Walls,Gross Volume,m3,975,320
+geometry,geometry.gross_volume,Gross Volume,r_80_roof,+R-80 Roof,Gross Volume,m3,975,320
+geometry,geometry.gross_volume,Gross Volume,phius_core_2024,Phius CORE 2024,Gross Volume,m3,975,320
+geometry,geometry.window_area_north,Window Area (North),code_minumum,Code Minumum,Window Area (North),m2,12.2621729961,321
+geometry,geometry.window_area_north,Window Area (North),improved,Improved,Window Area (North),m2,12.2621729961,321
+geometry,geometry.window_area_north,Window Area (North),r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Window Area (North),m2,12.2621729961,321
+geometry,geometry.window_area_north,Window Area (North),r_52_walls,+R-52 Walls,Window Area (North),m2,12.2621729961,321
+geometry,geometry.window_area_north,Window Area (North),r_80_roof,+R-80 Roof,Window Area (North),m2,12.2621729961,321
+geometry,geometry.window_area_north,Window Area (North),phius_core_2024,Phius CORE 2024,Window Area (North),m2,12.2621729961,321
+geometry,geometry.window_area_east,Window Area (East),code_minumum,Code Minumum,Window Area (East),m2,20.0347575835,322
+geometry,geometry.window_area_east,Window Area (East),improved,Improved,Window Area (East),m2,20.0347575835,322
+geometry,geometry.window_area_east,Window Area (East),r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Window Area (East),m2,20.0347575835,322
+geometry,geometry.window_area_east,Window Area (East),r_52_walls,+R-52 Walls,Window Area (East),m2,20.0347575835,322
+geometry,geometry.window_area_east,Window Area (East),r_80_roof,+R-80 Roof,Window Area (East),m2,20.0347575835,322
+geometry,geometry.window_area_east,Window Area (East),phius_core_2024,Phius CORE 2024,Window Area (East),m2,20.0347575835,322
+geometry,geometry.window_area_south,Window Area (South),code_minumum,Code Minumum,Window Area (South),m2,13.6892014648,323
+geometry,geometry.window_area_south,Window Area (South),improved,Improved,Window Area (South),m2,13.6892014648,323
+geometry,geometry.window_area_south,Window Area (South),r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Window Area (South),m2,13.6892014648,323
+geometry,geometry.window_area_south,Window Area (South),r_52_walls,+R-52 Walls,Window Area (South),m2,13.6892014648,323
+geometry,geometry.window_area_south,Window Area (South),r_80_roof,+R-80 Roof,Window Area (South),m2,13.6892014648,323
+geometry,geometry.window_area_south,Window Area (South),phius_core_2024,Phius CORE 2024,Window Area (South),m2,13.6892014648,323
+geometry,geometry.window_area_west,Window Area (West),code_minumum,Code Minumum,Window Area (West),m2,13.3084094474,324
+geometry,geometry.window_area_west,Window Area (West),improved,Improved,Window Area (West),m2,13.3084094474,324
+geometry,geometry.window_area_west,Window Area (West),r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Window Area (West),m2,13.3084094474,324
+geometry,geometry.window_area_west,Window Area (West),r_52_walls,+R-52 Walls,Window Area (West),m2,13.3084094474,324
+geometry,geometry.window_area_west,Window Area (West),r_80_roof,+R-80 Roof,Window Area (West),m2,13.3084094474,324
+geometry,geometry.window_area_west,Window Area (West),phius_core_2024,Phius CORE 2024,Window Area (West),m2,13.3084094474,324
+geometry,geometry.window_area_horiz,Window Area (Horiz),code_minumum,Code Minumum,Window Area (Horiz),m2,0,325
+geometry,geometry.window_area_horiz,Window Area (Horiz),improved,Improved,Window Area (Horiz),m2,0,325
+geometry,geometry.window_area_horiz,Window Area (Horiz),r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Window Area (Horiz),m2,0,325
+geometry,geometry.window_area_horiz,Window Area (Horiz),r_52_walls,+R-52 Walls,Window Area (Horiz),m2,0,325
+geometry,geometry.window_area_horiz,Window Area (Horiz),r_80_roof,+R-80 Roof,Window Area (Horiz),m2,0,325
+geometry,geometry.window_area_horiz,Window Area (Horiz),phius_core_2024,Phius CORE 2024,Window Area (Horiz),m2,0,325
+envelope,envelope.floor_bg,Ext_Wall,code_minumum,Code Minumum,Ext_Wall,hr-ft2-F/Btu,22.2,328
+envelope,envelope.floor_bg,Ext_Wall,improved,Improved,Ext_Wall,hr-ft2-F/Btu,28,328
+envelope,envelope.floor_bg,Ext_Wall,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Ext_Wall,hr-ft2-F/Btu,33.5,328
+envelope,envelope.floor_bg,Ext_Wall,r_52_walls,+R-52 Walls,Ext_Wall,hr-ft2-F/Btu,49.5,328
+envelope,envelope.floor_bg,Ext_Wall,r_80_roof,+R-80 Roof,Ext_Wall,hr-ft2-F/Btu,49.5,328
+envelope,envelope.floor_bg,Ext_Wall,phius_core_2024,Phius CORE 2024,Ext_Wall,hr-ft2-F/Btu,62.1,328
+envelope,envelope.wall_bg,Ext_Roof,code_minumum,Code Minumum,Ext_Roof,hr-ft2-F/Btu,38.5,329
+envelope,envelope.wall_bg,Ext_Roof,improved,Improved,Ext_Roof,hr-ft2-F/Btu,45,329
+envelope,envelope.wall_bg,Ext_Roof,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Ext_Roof,hr-ft2-F/Btu,58.5,329
+envelope,envelope.wall_bg,Ext_Roof,r_52_walls,+R-52 Walls,Ext_Roof,hr-ft2-F/Btu,58.5,329
+envelope,envelope.wall_bg,Ext_Roof,r_80_roof,+R-80 Roof,Ext_Roof,hr-ft2-F/Btu,75.8,329
+envelope,envelope.wall_bg,Ext_Roof,phius_core_2024,Phius CORE 2024,Ext_Roof,hr-ft2-F/Btu,75.8,329
+envelope,envelope.wall_ag,Ground_Floor,code_minumum,Code Minumum,Ground_Floor,hr-ft2-F/Btu,10,331
+envelope,envelope.wall_ag,Ground_Floor,improved,Improved,Ground_Floor,hr-ft2-F/Btu,25,331
+envelope,envelope.wall_ag,Ground_Floor,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Ground_Floor,hr-ft2-F/Btu,25,331
+envelope,envelope.wall_ag,Ground_Floor,r_52_walls,+R-52 Walls,Ground_Floor,hr-ft2-F/Btu,25,331
+envelope,envelope.wall_ag,Ground_Floor,r_80_roof,+R-80 Roof,Ground_Floor,hr-ft2-F/Btu,25,331
+envelope,envelope.wall_ag,Ground_Floor,phius_core_2024,Phius CORE 2024,Ground_Floor,hr-ft2-F/Btu,41.3,331
+envelope,envelope.thermal_bridge_allowance_increase,Thermal Bridge Allowance (% increase),code_minumum,Code Minumum,Thermal Bridge Allowance (% increase),% Increase,0.2,343
+envelope,envelope.thermal_bridge_allowance_increase,Thermal Bridge Allowance (% increase),improved,Improved,Thermal Bridge Allowance (% increase),% Increase,0.1,343
+envelope,envelope.thermal_bridge_allowance_increase,Thermal Bridge Allowance (% increase),r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Thermal Bridge Allowance (% increase),% Increase,0.1,343
+envelope,envelope.thermal_bridge_allowance_increase,Thermal Bridge Allowance (% increase),r_52_walls,+R-52 Walls,Thermal Bridge Allowance (% increase),% Increase,0.1,343
+envelope,envelope.thermal_bridge_allowance_increase,Thermal Bridge Allowance (% increase),r_80_roof,+R-80 Roof,Thermal Bridge Allowance (% increase),% Increase,0.1,343
+envelope,envelope.thermal_bridge_allowance_increase,Thermal Bridge Allowance (% increase),phius_core_2024,Phius CORE 2024,Thermal Bridge Allowance (% increase),% Increase,0.05,343
+envelope,envelope.volumetric_air_leakage_rate_n50,Volumetric Air Leakage Rate (n50),code_minumum,Code Minumum,Volumetric Air Leakage Rate (n50),ACH@50,3,344
+envelope,envelope.volumetric_air_leakage_rate_n50,Volumetric Air Leakage Rate (n50),improved,Improved,Volumetric Air Leakage Rate (n50),ACH@50,1,344
+envelope,envelope.volumetric_air_leakage_rate_n50,Volumetric Air Leakage Rate (n50),r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Volumetric Air Leakage Rate (n50),ACH@50,1,344
+envelope,envelope.volumetric_air_leakage_rate_n50,Volumetric Air Leakage Rate (n50),r_52_walls,+R-52 Walls,Volumetric Air Leakage Rate (n50),ACH@50,1,344
+envelope,envelope.volumetric_air_leakage_rate_n50,Volumetric Air Leakage Rate (n50),r_80_roof,+R-80 Roof,Volumetric Air Leakage Rate (n50),ACH@50,1,344
+envelope,envelope.volumetric_air_leakage_rate_n50,Volumetric Air Leakage Rate (n50),phius_core_2024,Phius CORE 2024,Volumetric Air Leakage Rate (n50),ACH@50,0.6,344
+envelope,envelope.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),code_minumum,Code Minumum,Envelope Air Leakage Rate (q50),m3/hr-m2,2.0169115362,345
+envelope,envelope.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),improved,Improved,Envelope Air Leakage Rate (q50),m3/hr-m2,0.672303845399,345
+envelope,envelope.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Envelope Air Leakage Rate (q50),m3/hr-m2,0.672303845399,345
+envelope,envelope.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),r_52_walls,+R-52 Walls,Envelope Air Leakage Rate (q50),m3/hr-m2,0.672303845399,345
+envelope,envelope.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),r_80_roof,+R-80 Roof,Envelope Air Leakage Rate (q50),m3/hr-m2,0.672303845399,345
+envelope,envelope.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),phius_core_2024,Phius CORE 2024,Envelope Air Leakage Rate (q50),m3/hr-m2,0.40338230724,345
+envelope,envelope.window_u_value,Window U-value,code_minumum,Code Minumum,Window U-value (Installed),Btu/hr-ft2-F,0.316992802874,346
+envelope,envelope.window_u_value,Window U-value,improved,Improved,Window U-value (Installed),Btu/hr-ft2-F,0.237739544685,346
+envelope,envelope.window_u_value,Window U-value,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Window U-value (Installed),Btu/hr-ft2-F,0.237739544685,346
+envelope,envelope.window_u_value,Window U-value,r_52_walls,+R-52 Walls,Window U-value (Installed),Btu/hr-ft2-F,0.237739544685,346
+envelope,envelope.window_u_value,Window U-value,r_80_roof,+R-80 Roof,Window U-value (Installed),Btu/hr-ft2-F,0.237739544685,346
+envelope,envelope.window_u_value,Window U-value,phius_core_2024,Phius CORE 2024,Window U-value (Installed),Btu/hr-ft2-F,0.149680368919,346
+envelope,envelope.window_shgc,Window SHGC,code_minumum,Code Minumum,Window SHGC,-,0.48,347
+envelope,envelope.window_shgc,Window SHGC,improved,Improved,Window SHGC,-,0.48,347
+envelope,envelope.window_shgc,Window SHGC,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Window SHGC,-,0.48,347
+envelope,envelope.window_shgc,Window SHGC,r_52_walls,+R-52 Walls,Window SHGC,-,0.48,347
+envelope,envelope.window_shgc,Window SHGC,r_80_roof,+R-80 Roof,Window SHGC,-,0.48,347
+envelope,envelope.window_shgc,Window SHGC,phius_core_2024,Phius CORE 2024,Window SHGC,-,0.48,347
+systems,systems.ventilation_system,Ventilation System,code_minumum,Code Minumum,Ventilation System,,2-Extract air unit,350
+systems,systems.ventilation_system,Ventilation System,improved,Improved,Ventilation System,,1-Balanced PH ventilation with HR,350
+systems,systems.ventilation_system,Ventilation System,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Ventilation System,,1-Balanced PH ventilation with HR,350
+systems,systems.ventilation_system,Ventilation System,r_52_walls,+R-52 Walls,Ventilation System,,1-Balanced PH ventilation with HR,350
+systems,systems.ventilation_system,Ventilation System,r_80_roof,+R-80 Roof,Ventilation System,,1-Balanced PH ventilation with HR,350
+systems,systems.ventilation_system,Ventilation System,phius_core_2024,Phius CORE 2024,Ventilation System,,1-Balanced PH ventilation with HR,350
+systems,systems.ventilation_unit_hr_efficiency,Ventilation Unit HR Efficiency,code_minumum,Code Minumum,Ventilation Unit HR Efficiency,%,,351
+systems,systems.ventilation_unit_hr_efficiency,Ventilation Unit HR Efficiency,improved,Improved,Ventilation Unit HR Efficiency,%,0.756876060308,351
+systems,systems.ventilation_unit_hr_efficiency,Ventilation Unit HR Efficiency,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Ventilation Unit HR Efficiency,%,0.756876060308,351
+systems,systems.ventilation_unit_hr_efficiency,Ventilation Unit HR Efficiency,r_52_walls,+R-52 Walls,Ventilation Unit HR Efficiency,%,0.756876060308,351
+systems,systems.ventilation_unit_hr_efficiency,Ventilation Unit HR Efficiency,r_80_roof,+R-80 Roof,Ventilation Unit HR Efficiency,%,0.756876060308,351
+systems,systems.ventilation_unit_hr_efficiency,Ventilation Unit HR Efficiency,phius_core_2024,Phius CORE 2024,Ventilation Unit HR Efficiency,%,0.785642684722,351
+systems,systems.ventilation_unit_er_efficiency,Ventilation Unit ER Efficiency,code_minumum,Code Minumum,Ventilation Unit ER Efficiency,%,,352
+systems,systems.ventilation_unit_er_efficiency,Ventilation Unit ER Efficiency,improved,Improved,Ventilation Unit ER Efficiency,%,0.68,352
+systems,systems.ventilation_unit_er_efficiency,Ventilation Unit ER Efficiency,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Ventilation Unit ER Efficiency,%,0.68,352
+systems,systems.ventilation_unit_er_efficiency,Ventilation Unit ER Efficiency,r_52_walls,+R-52 Walls,Ventilation Unit ER Efficiency,%,0.68,352
+systems,systems.ventilation_unit_er_efficiency,Ventilation Unit ER Efficiency,r_80_roof,+R-80 Roof,Ventilation Unit ER Efficiency,%,0.68,352
+systems,systems.ventilation_unit_er_efficiency,Ventilation Unit ER Efficiency,phius_core_2024,Phius CORE 2024,Ventilation Unit ER Efficiency,%,0.68,352
+systems,systems.system_hr_efficiency,System HR Efficiency,code_minumum,Code Minumum,System HR Efficiency,%,,353
+systems,systems.system_hr_efficiency,System HR Efficiency,improved,Improved,System HR Efficiency,%,0.756876060308,353
+systems,systems.system_hr_efficiency,System HR Efficiency,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,System HR Efficiency,%,0.756876060308,353
+systems,systems.system_hr_efficiency,System HR Efficiency,r_52_walls,+R-52 Walls,System HR Efficiency,%,0.756876060308,353
+systems,systems.system_hr_efficiency,System HR Efficiency,r_80_roof,+R-80 Roof,System HR Efficiency,%,0.756876060308,353
+systems,systems.system_hr_efficiency,System HR Efficiency,phius_core_2024,Phius CORE 2024,System HR Efficiency,%,0.785642684722,353
+systems,systems.cold_air_duct_length_ea,Cold Air Duct Length (ea),code_minumum,Code Minumum,Cold Air Duct Length (ea),m,5,354
+systems,systems.cold_air_duct_length_ea,Cold Air Duct Length (ea),improved,Improved,Cold Air Duct Length (ea),m,5,354
+systems,systems.cold_air_duct_length_ea,Cold Air Duct Length (ea),r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Cold Air Duct Length (ea),m,5,354
+systems,systems.cold_air_duct_length_ea,Cold Air Duct Length (ea),r_52_walls,+R-52 Walls,Cold Air Duct Length (ea),m,5,354
+systems,systems.cold_air_duct_length_ea,Cold Air Duct Length (ea),r_80_roof,+R-80 Roof,Cold Air Duct Length (ea),m,5,354
+systems,systems.cold_air_duct_length_ea,Cold Air Duct Length (ea),phius_core_2024,Phius CORE 2024,Cold Air Duct Length (ea),m,2.5,354
+systems,systems.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,code_minumum,Code Minumum,Cold Air Duct Insulation Thickness,mm,25,355
+systems,systems.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,improved,Improved,Cold Air Duct Insulation Thickness,mm,25,355
+systems,systems.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Cold Air Duct Insulation Thickness,mm,25,355
+systems,systems.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,r_52_walls,+R-52 Walls,Cold Air Duct Insulation Thickness,mm,25,355
+systems,systems.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,r_80_roof,+R-80 Roof,Cold Air Duct Insulation Thickness,mm,25,355
+systems,systems.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,phius_core_2024,Phius CORE 2024,Cold Air Duct Insulation Thickness,mm,52,355
+systems,systems.heating_system,Heating System,code_minumum,Code Minumum,Heating System,,Heat pump(s),356
+systems,systems.heating_system,Heating System,improved,Improved,Heating System,,Heat pump(s),356
+systems,systems.heating_system,Heating System,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Heating System,,Heat pump(s),356
+systems,systems.heating_system,Heating System,r_52_walls,+R-52 Walls,Heating System,,Heat pump(s),356
+systems,systems.heating_system,Heating System,r_80_roof,+R-80 Roof,Heating System,,Heat pump(s),356
+systems,systems.heating_system,Heating System,phius_core_2024,Phius CORE 2024,Heating System,,Heat pump(s),356
+systems,systems.cooling_system,Cooling System,code_minumum,Code Minumum,Cooling System,,Elec. Heat Pump,357
+systems,systems.cooling_system,Cooling System,improved,Improved,Cooling System,,Elec. Heat Pump,357
+systems,systems.cooling_system,Cooling System,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Cooling System,,Elec. Heat Pump,357
+systems,systems.cooling_system,Cooling System,r_52_walls,+R-52 Walls,Cooling System,,Elec. Heat Pump,357
+systems,systems.cooling_system,Cooling System,r_80_roof,+R-80 Roof,Cooling System,,Elec. Heat Pump,357
+systems,systems.cooling_system,Cooling System,phius_core_2024,Phius CORE 2024,Cooling System,,Elec. Heat Pump,357
+systems,systems.dhw_system,DHW System,code_minumum,Code Minumum,DHW System,,Heat pump(s),358
+systems,systems.dhw_system,DHW System,improved,Improved,DHW System,,Heat pump(s),358
+systems,systems.dhw_system,DHW System,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,DHW System,,Heat pump(s),358
+systems,systems.dhw_system,DHW System,r_52_walls,+R-52 Walls,DHW System,,Heat pump(s),358
+systems,systems.dhw_system,DHW System,r_80_roof,+R-80 Roof,DHW System,,Heat pump(s),358
+systems,systems.dhw_system,DHW System,phius_core_2024,Phius CORE 2024,DHW System,,Heat pump(s),358
+certification_limits,certification_limits.heat_demand_limit,Heat Demand Limit,code_minumum,Code Minumum,Heat Demand Limit,kWh/m2,29,363
+certification_limits,certification_limits.heat_demand_limit,Heat Demand Limit,improved,Improved,Heat Demand Limit,kWh/m2,29,363
+certification_limits,certification_limits.heat_demand_limit,Heat Demand Limit,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Heat Demand Limit,kWh/m2,29,363
+certification_limits,certification_limits.heat_demand_limit,Heat Demand Limit,r_52_walls,+R-52 Walls,Heat Demand Limit,kWh/m2,29,363
+certification_limits,certification_limits.heat_demand_limit,Heat Demand Limit,r_80_roof,+R-80 Roof,Heat Demand Limit,kWh/m2,29,363
+certification_limits,certification_limits.heat_demand_limit,Heat Demand Limit,phius_core_2024,Phius CORE 2024,Heat Demand Limit,kWh/m2,29,363
+certification_limits,certification_limits.sensible_cooling_demand_limit,Sensible Cooling Demand Limit,code_minumum,Code Minumum,Sensible Cooling Demand Limit,kWh/m2,15,364
+certification_limits,certification_limits.sensible_cooling_demand_limit,Sensible Cooling Demand Limit,improved,Improved,Sensible Cooling Demand Limit,kWh/m2,15,364
+certification_limits,certification_limits.sensible_cooling_demand_limit,Sensible Cooling Demand Limit,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Sensible Cooling Demand Limit,kWh/m2,15,364
+certification_limits,certification_limits.sensible_cooling_demand_limit,Sensible Cooling Demand Limit,r_52_walls,+R-52 Walls,Sensible Cooling Demand Limit,kWh/m2,15,364
+certification_limits,certification_limits.sensible_cooling_demand_limit,Sensible Cooling Demand Limit,r_80_roof,+R-80 Roof,Sensible Cooling Demand Limit,kWh/m2,15,364
+certification_limits,certification_limits.sensible_cooling_demand_limit,Sensible Cooling Demand Limit,phius_core_2024,Phius CORE 2024,Sensible Cooling Demand Limit,kWh/m2,15,364
+certification_limits,certification_limits.latent_cooling_demand_limit,Latent Cooling Demand Limit,code_minumum,Code Minumum,Latent Cooling Demand Limit,kWh/m2,11.4985659624,365
+certification_limits,certification_limits.latent_cooling_demand_limit,Latent Cooling Demand Limit,improved,Improved,Latent Cooling Demand Limit,kWh/m2,11.4985659624,365
+certification_limits,certification_limits.latent_cooling_demand_limit,Latent Cooling Demand Limit,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Latent Cooling Demand Limit,kWh/m2,11.4985659624,365
+certification_limits,certification_limits.latent_cooling_demand_limit,Latent Cooling Demand Limit,r_52_walls,+R-52 Walls,Latent Cooling Demand Limit,kWh/m2,11.4985659624,365
+certification_limits,certification_limits.latent_cooling_demand_limit,Latent Cooling Demand Limit,r_80_roof,+R-80 Roof,Latent Cooling Demand Limit,kWh/m2,11.4985659624,365
+certification_limits,certification_limits.latent_cooling_demand_limit,Latent Cooling Demand Limit,phius_core_2024,Phius CORE 2024,Latent Cooling Demand Limit,kWh/m2,11.4985659624,365
+certification_limits,certification_limits.total_cooling_demand_limit,Total Cooling Demand Limit,code_minumum,Code Minumum,Total Cooling Demand Limit,kWh/m2,26.4985659624,366
+certification_limits,certification_limits.total_cooling_demand_limit,Total Cooling Demand Limit,improved,Improved,Total Cooling Demand Limit,kWh/m2,26.4985659624,366
+certification_limits,certification_limits.total_cooling_demand_limit,Total Cooling Demand Limit,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Total Cooling Demand Limit,kWh/m2,26.4985659624,366
+certification_limits,certification_limits.total_cooling_demand_limit,Total Cooling Demand Limit,r_52_walls,+R-52 Walls,Total Cooling Demand Limit,kWh/m2,26.4985659624,366
+certification_limits,certification_limits.total_cooling_demand_limit,Total Cooling Demand Limit,r_80_roof,+R-80 Roof,Total Cooling Demand Limit,kWh/m2,26.4985659624,366
+certification_limits,certification_limits.total_cooling_demand_limit,Total Cooling Demand Limit,phius_core_2024,Phius CORE 2024,Total Cooling Demand Limit,kWh/m2,26.4985659624,366
+certification_limits,certification_limits.peak_heat_load_limit,Peak Heat Load Limit,code_minumum,Code Minumum,Peak Heat Load Limit,W/m2,18,367
+certification_limits,certification_limits.peak_heat_load_limit,Peak Heat Load Limit,improved,Improved,Peak Heat Load Limit,W/m2,18,367
+certification_limits,certification_limits.peak_heat_load_limit,Peak Heat Load Limit,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Peak Heat Load Limit,W/m2,18,367
+certification_limits,certification_limits.peak_heat_load_limit,Peak Heat Load Limit,r_52_walls,+R-52 Walls,Peak Heat Load Limit,W/m2,18,367
+certification_limits,certification_limits.peak_heat_load_limit,Peak Heat Load Limit,r_80_roof,+R-80 Roof,Peak Heat Load Limit,W/m2,18,367
+certification_limits,certification_limits.peak_heat_load_limit,Peak Heat Load Limit,phius_core_2024,Phius CORE 2024,Peak Heat Load Limit,W/m2,18,367
+certification_limits,certification_limits.peak_cooling_load_limit,Peak Cooling Load Limit,code_minumum,Code Minumum,Peak Cooling Load Limit,W/m2,9.7792326766,368
+certification_limits,certification_limits.peak_cooling_load_limit,Peak Cooling Load Limit,improved,Improved,Peak Cooling Load Limit,W/m2,9.7792326766,368
+certification_limits,certification_limits.peak_cooling_load_limit,Peak Cooling Load Limit,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Peak Cooling Load Limit,W/m2,9.7792326766,368
+certification_limits,certification_limits.peak_cooling_load_limit,Peak Cooling Load Limit,r_52_walls,+R-52 Walls,Peak Cooling Load Limit,W/m2,9.7792326766,368
+certification_limits,certification_limits.peak_cooling_load_limit,Peak Cooling Load Limit,r_80_roof,+R-80 Roof,Peak Cooling Load Limit,W/m2,9.7792326766,368
+certification_limits,certification_limits.peak_cooling_load_limit,Peak Cooling Load Limit,phius_core_2024,Phius CORE 2024,Peak Cooling Load Limit,W/m2,9.7792326766,368
+certification_limits,certification_limits.pe_limit,PE Limit,code_minumum,Code Minumum,PE Limit,kWh/m2,0,369
+certification_limits,certification_limits.pe_limit,PE Limit,improved,Improved,PE Limit,kWh/m2,0,369
+certification_limits,certification_limits.pe_limit,PE Limit,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,PE Limit,kWh/m2,0,369
+certification_limits,certification_limits.pe_limit,PE Limit,r_52_walls,+R-52 Walls,PE Limit,kWh/m2,0,369
+certification_limits,certification_limits.pe_limit,PE Limit,r_80_roof,+R-80 Roof,PE Limit,kWh/m2,0,369
+certification_limits,certification_limits.pe_limit,PE Limit,phius_core_2024,Phius CORE 2024,PE Limit,kWh/m2,0,369
+certification_limits,certification_limits.per_limit,PER Limit,code_minumum,Code Minumum,PER Limit,kWh/m2,0,370
+certification_limits,certification_limits.per_limit,PER Limit,improved,Improved,PER Limit,kWh/m2,0,370
+certification_limits,certification_limits.per_limit,PER Limit,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,PER Limit,kWh/m2,0,370
+certification_limits,certification_limits.per_limit,PER Limit,r_52_walls,+R-52 Walls,PER Limit,kWh/m2,0,370
+certification_limits,certification_limits.per_limit,PER Limit,r_80_roof,+R-80 Roof,PER Limit,kWh/m2,0,370
+certification_limits,certification_limits.per_limit,PER Limit,phius_core_2024,Phius CORE 2024,PER Limit,kWh/m2,0,370
+certification_limits,certification_limits.phius_net_source_energy_limit,PHIUS Net Source Energy Limit,code_minumum,Code Minumum,PHIUS Net Source Energy Limit,kWh/m2,101.63484692,371
+certification_limits,certification_limits.phius_net_source_energy_limit,PHIUS Net Source Energy Limit,improved,Improved,PHIUS Net Source Energy Limit,kWh/m2,101.63484692,371
+certification_limits,certification_limits.phius_net_source_energy_limit,PHIUS Net Source Energy Limit,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,PHIUS Net Source Energy Limit,kWh/m2,101.63484692,371
+certification_limits,certification_limits.phius_net_source_energy_limit,PHIUS Net Source Energy Limit,r_52_walls,+R-52 Walls,PHIUS Net Source Energy Limit,kWh/m2,101.63484692,371
+certification_limits,certification_limits.phius_net_source_energy_limit,PHIUS Net Source Energy Limit,r_80_roof,+R-80 Roof,PHIUS Net Source Energy Limit,kWh/m2,101.63484692,371
+certification_limits,certification_limits.phius_net_source_energy_limit,PHIUS Net Source Energy Limit,phius_core_2024,Phius CORE 2024,PHIUS Net Source Energy Limit,kWh/m2,101.63484692,371
+heating_demand,heating_demand.walls_ag,Walls (AG),code_minumum,Code Minumum,Walls (AG),kWh,11574.1837679,376
+heating_demand,heating_demand.walls_ag,Walls (AG),improved,Improved,Walls (AG),kWh,9246.08962671,376
+heating_demand,heating_demand.walls_ag,Walls (AG),r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Walls (AG),kWh,7689.61121493,376
+heating_demand,heating_demand.walls_ag,Walls (AG),r_52_walls,+R-52 Walls,Walls (AG),kWh,5191.41065335,376
+heating_demand,heating_demand.walls_ag,Walls (AG),r_80_roof,+R-80 Roof,Walls (AG),kWh,5171.4711368,376
+heating_demand,heating_demand.walls_ag,Walls (AG),phius_core_2024,Phius CORE 2024,Walls (AG),kWh,3939.16025494,376
+heating_demand,heating_demand.walls_bg,Walls (BG),code_minumum,Code Minumum,Walls (BG),kWh,,377
+heating_demand,heating_demand.walls_bg,Walls (BG),improved,Improved,Walls (BG),kWh,,377
+heating_demand,heating_demand.walls_bg,Walls (BG),r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Walls (BG),kWh,,377
+heating_demand,heating_demand.walls_bg,Walls (BG),r_52_walls,+R-52 Walls,Walls (BG),kWh,,377
+heating_demand,heating_demand.walls_bg,Walls (BG),r_80_roof,+R-80 Roof,Walls (BG),kWh,,377
+heating_demand,heating_demand.walls_bg,Walls (BG),phius_core_2024,Phius CORE 2024,Walls (BG),kWh,,377
+heating_demand,heating_demand.roofs,Roofs,code_minumum,Code Minumum,Roofs,kWh,4589.8549794,378
+heating_demand,heating_demand.roofs,Roofs,improved,Improved,Roofs,kWh,3948.67484063,378
+heating_demand,heating_demand.roofs,Roofs,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Roofs,kWh,3022.32441553,378
+heating_demand,heating_demand.roofs,Roofs,r_52_walls,+R-52 Walls,Roofs,kWh,3014.96637492,378
+heating_demand,heating_demand.roofs,Roofs,r_80_roof,+R-80 Roof,Roofs,kWh,2317.91686033,378
+heating_demand,heating_demand.roofs,Roofs,phius_core_2024,Phius CORE 2024,Roofs,kWh,2215.00035412,378
+heating_demand,heating_demand.floor_slabs,Floor Slabs,code_minumum,Code Minumum,Floor Slabs,kWh,8470.86841417,379
+heating_demand,heating_demand.floor_slabs,Floor Slabs,improved,Improved,Floor Slabs,kWh,4399.11471868,379
+heating_demand,heating_demand.floor_slabs,Floor Slabs,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Floor Slabs,kWh,4413.65818877,379
+heating_demand,heating_demand.floor_slabs,Floor Slabs,r_52_walls,+R-52 Walls,Floor Slabs,kWh,4434.64655559,379
+heating_demand,heating_demand.floor_slabs,Floor Slabs,r_80_roof,+R-80 Roof,Floor Slabs,kWh,4438.78306029,379
+heating_demand,heating_demand.floor_slabs,Floor Slabs,phius_core_2024,Phius CORE 2024,Floor Slabs,kWh,2276.5276017,379
+heating_demand,heating_demand.windows,Windows,code_minumum,Code Minumum,Windows,kWh,10695.3336436,383
+heating_demand,heating_demand.windows,Windows,improved,Improved,Windows,kWh,8073.92353822,383
+heating_demand,heating_demand.windows,Windows,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Windows,kWh,8033.73850486,383
+heating_demand,heating_demand.windows,Windows,r_52_walls,+R-52 Walls,Windows,kWh,8014.17985858,383
+heating_demand,heating_demand.windows,Windows,r_80_roof,+R-80 Roof,Windows,kWh,7983.39846165,383
+heating_demand,heating_demand.windows,Windows,phius_core_2024,Phius CORE 2024,Windows,kWh,4803.16128215,383
+heating_demand,heating_demand.exterior_door,Exterior door,code_minumum,Code Minumum,Exterior door,kWh,,384
+heating_demand,heating_demand.exterior_door,Exterior door,improved,Improved,Exterior door,kWh,,384
+heating_demand,heating_demand.exterior_door,Exterior door,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Exterior door,kWh,,384
+heating_demand,heating_demand.exterior_door,Exterior door,r_52_walls,+R-52 Walls,Exterior door,kWh,,384
+heating_demand,heating_demand.exterior_door,Exterior door,r_80_roof,+R-80 Roof,Exterior door,kWh,,384
+heating_demand,heating_demand.exterior_door,Exterior door,phius_core_2024,Phius CORE 2024,Exterior door,kWh,,384
+heating_demand,heating_demand.thermal_bridges,Thermal Bridges,code_minumum,Code Minumum,Thermal Bridges,kWh,7480.34691505,385
+heating_demand,heating_demand.thermal_bridges,Thermal Bridges,improved,Improved,Thermal Bridges,kWh,2901.9346846,385
+heating_demand,heating_demand.thermal_bridges,Thermal Bridges,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Thermal Bridges,kWh,2645.77568755,385
+heating_demand,heating_demand.thermal_bridges,Thermal Bridges,r_52_walls,+R-52 Walls,Thermal Bridges,kWh,2391.38640721,385
+heating_demand,heating_demand.thermal_bridges,Thermal Bridges,r_80_roof,+R-80 Roof,Thermal Bridges,kWh,2313.65446763,385
+heating_demand,heating_demand.thermal_bridges,Thermal Bridges,phius_core_2024,Phius CORE 2024,Thermal Bridges,kWh,1058.29077707,385
+heating_demand,heating_demand.tb_perimeter,TB (Perimeter),code_minumum,Code Minumum,TB (Perimeter),kWh,,386
+heating_demand,heating_demand.tb_perimeter,TB (Perimeter),improved,Improved,TB (Perimeter),kWh,,386
+heating_demand,heating_demand.tb_perimeter,TB (Perimeter),r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,TB (Perimeter),kWh,,386
+heating_demand,heating_demand.tb_perimeter,TB (Perimeter),r_52_walls,+R-52 Walls,TB (Perimeter),kWh,,386
+heating_demand,heating_demand.tb_perimeter,TB (Perimeter),r_80_roof,+R-80 Roof,TB (Perimeter),kWh,,386
+heating_demand,heating_demand.tb_perimeter,TB (Perimeter),phius_core_2024,Phius CORE 2024,TB (Perimeter),kWh,,386
+heating_demand,heating_demand.tb_bg,TB (BG),code_minumum,Code Minumum,TB (BG),kWh,,387
+heating_demand,heating_demand.tb_bg,TB (BG),improved,Improved,TB (BG),kWh,,387
+heating_demand,heating_demand.tb_bg,TB (BG),r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,TB (BG),kWh,,387
+heating_demand,heating_demand.tb_bg,TB (BG),r_52_walls,+R-52 Walls,TB (BG),kWh,,387
+heating_demand,heating_demand.tb_bg,TB (BG),r_80_roof,+R-80 Roof,TB (BG),kWh,,387
+heating_demand,heating_demand.tb_bg,TB (BG),phius_core_2024,Phius CORE 2024,TB (BG),kWh,,387
+heating_demand,heating_demand.ventilation,Ventilation,code_minumum,Code Minumum,Ventilation,kWh,12645.2251812,388
+heating_demand,heating_demand.ventilation,Ventilation,improved,Improved,Ventilation,kWh,5280.87500646,388
+heating_demand,heating_demand.ventilation,Ventilation,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Ventilation,kWh,5254.59136168,388
+heating_demand,heating_demand.ventilation,Ventilation,r_52_walls,+R-52 Walls,Ventilation,kWh,5241.79872551,388
+heating_demand,heating_demand.ventilation,Ventilation,r_80_roof,+R-80 Roof,Ventilation,kWh,5221.66567508,388
+heating_demand,heating_demand.ventilation,Ventilation,phius_core_2024,Phius CORE 2024,Ventilation,kWh,3734.94130204,388
+heating_demand,heating_demand.heating_demand,Heating Demand,code_minumum,Code Minumum,Heating Demand,kWh,39892.8883443,389
+heating_demand,heating_demand.heating_demand,Heating Demand,improved,Improved,Heating Demand,kWh,19961.0445664,389
+heating_demand,heating_demand.heating_demand,Heating Demand,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Heating Demand,kWh,17655.9407244,389
+heating_demand,heating_demand.heating_demand,Heating Demand,r_52_walls,+R-52 Walls,Heating Demand,kWh,15314.1039198,389
+heating_demand,heating_demand.heating_demand,Heating Demand,r_80_roof,+R-80 Roof,Heating Demand,kWh,14654.8215945,389
+heating_demand,heating_demand.heating_demand,Heating Demand,phius_core_2024,Phius CORE 2024,Heating Demand,kWh,7591.9434262,389
+heating_demand,heating_demand.north,North,code_minumum,Code Minumum,North,kWh,885.836333466,390
+heating_demand,heating_demand.north,North,improved,Improved,North,kWh,885.836333466,390
+heating_demand,heating_demand.north,North,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,North,kWh,885.836333466,390
+heating_demand,heating_demand.north,North,r_52_walls,+R-52 Walls,North,kWh,885.836333466,390
+heating_demand,heating_demand.north,North,r_80_roof,+R-80 Roof,North,kWh,885.836333466,390
+heating_demand,heating_demand.north,North,phius_core_2024,Phius CORE 2024,North,kWh,631.100494445,390
+heating_demand,heating_demand.east,East,code_minumum,Code Minumum,East,kWh,986.995228845,391
+heating_demand,heating_demand.east,East,improved,Improved,East,kWh,986.995228845,391
+heating_demand,heating_demand.east,East,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,East,kWh,986.995228845,391
+heating_demand,heating_demand.east,East,r_52_walls,+R-52 Walls,East,kWh,986.995228845,391
+heating_demand,heating_demand.east,East,r_80_roof,+R-80 Roof,East,kWh,986.995228845,391
+heating_demand,heating_demand.east,East,phius_core_2024,Phius CORE 2024,East,kWh,680.756965851,391
+heating_demand,heating_demand.south,South,code_minumum,Code Minumum,South,kWh,4127.93892223,392
+heating_demand,heating_demand.south,South,improved,Improved,South,kWh,4127.93892223,392
+heating_demand,heating_demand.south,South,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,South,kWh,4127.93892223,392
+heating_demand,heating_demand.south,South,r_52_walls,+R-52 Walls,South,kWh,4127.93892223,392
+heating_demand,heating_demand.south,South,r_80_roof,+R-80 Roof,South,kWh,4127.93892223,392
+heating_demand,heating_demand.south,South,phius_core_2024,Phius CORE 2024,South,kWh,3384.82246982,392
+heating_demand,heating_demand.west,West,code_minumum,Code Minumum,West,kWh,2456.4321521,393
+heating_demand,heating_demand.west,West,improved,Improved,West,kWh,2456.4321521,393
+heating_demand,heating_demand.west,West,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,West,kWh,2456.4321521,393
+heating_demand,heating_demand.west,West,r_52_walls,+R-52 Walls,West,kWh,2456.4321521,393
+heating_demand,heating_demand.west,West,r_80_roof,+R-80 Roof,West,kWh,2456.4321521,393
+heating_demand,heating_demand.west,West,phius_core_2024,Phius CORE 2024,West,kWh,1957.77451545,393
+heating_demand,heating_demand.horizontal,Horizontal,code_minumum,Code Minumum,Horizontal,kWh,0,394
+heating_demand,heating_demand.horizontal,Horizontal,improved,Improved,Horizontal,kWh,0,394
+heating_demand,heating_demand.horizontal,Horizontal,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Horizontal,kWh,0,394
+heating_demand,heating_demand.horizontal,Horizontal,r_52_walls,+R-52 Walls,Horizontal,kWh,0,394
+heating_demand,heating_demand.horizontal,Horizontal,r_80_roof,+R-80 Roof,Horizontal,kWh,0,394
+heating_demand,heating_demand.horizontal,Horizontal,phius_core_2024,Phius CORE 2024,Horizontal,kWh,0,394
+heating_demand,heating_demand.sum_opaque_areas,Sum opaque areas,code_minumum,Code Minumum,Sum opaque areas,kWh,4542.65631022,395
+heating_demand,heating_demand.sum_opaque_areas,Sum opaque areas,improved,Improved,Sum opaque areas,kWh,3092.55688101,395
+heating_demand,heating_demand.sum_opaque_areas,Sum opaque areas,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Sum opaque areas,kWh,2570.18404259,395
+heating_demand,heating_demand.sum_opaque_areas,Sum opaque areas,r_52_walls,+R-52 Walls,Sum opaque areas,kWh,2145.54569604,395
+heating_demand,heating_demand.sum_opaque_areas,Sum opaque areas,r_80_roof,+R-80 Roof,Sum opaque areas,kWh,1943.5346193,395
+heating_demand,heating_demand.sum_opaque_areas,Sum opaque areas,phius_core_2024,Phius CORE 2024,Sum opaque areas,kWh,1142.51572589,395
+heating_demand,heating_demand.internal_gains,Internal Gains,code_minumum,Code Minumum,Internal Gains,kWh,4251.46240129,396
+heating_demand,heating_demand.internal_gains,Internal Gains,improved,Improved,Internal Gains,kWh,4251.46240129,396
+heating_demand,heating_demand.internal_gains,Internal Gains,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Internal Gains,kWh,4251.46240129,396
+heating_demand,heating_demand.internal_gains,Internal Gains,r_52_walls,+R-52 Walls,Internal Gains,kWh,4251.46240129,396
+heating_demand,heating_demand.internal_gains,Internal Gains,r_80_roof,+R-80 Roof,Internal Gains,kWh,4251.46240129,396
+heating_demand,heating_demand.internal_gains,Internal Gains,phius_core_2024,Phius CORE 2024,Internal Gains,kWh,3409.58865846,396
+cooling_demand,cooling_demand.cooling_demand_2,Cooling Demand,code_minumum,Code Minumum,Cooling Demand,kWh,1614.44629809,399
+cooling_demand,cooling_demand.cooling_demand_2,Cooling Demand,improved,Improved,Cooling Demand,kWh,935.032931368,399
+cooling_demand,cooling_demand.cooling_demand_2,Cooling Demand,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Cooling Demand,kWh,867.042464152,399
+cooling_demand,cooling_demand.cooling_demand_2,Cooling Demand,r_52_walls,+R-52 Walls,Cooling Demand,kWh,827.481315863,399
+cooling_demand,cooling_demand.cooling_demand_2,Cooling Demand,r_80_roof,+R-80 Roof,Cooling Demand,kWh,796.09459192,399
+cooling_demand,cooling_demand.cooling_demand_2,Cooling Demand,phius_core_2024,Phius CORE 2024,Cooling Demand,kWh,887.934868362,399
+cooling_demand,cooling_demand.walls_ag,Walls (AG),code_minumum,Code Minumum,Walls (AG),kWh,16945.4897322,400
+cooling_demand,cooling_demand.walls_ag,Walls (AG),improved,Improved,Walls (AG),kWh,13443.9784169,400
+cooling_demand,cooling_demand.walls_ag,Walls (AG),r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Walls (AG),kWh,11196.2415037,400
+cooling_demand,cooling_demand.walls_ag,Walls (AG),r_52_walls,+R-52 Walls,Walls (AG),kWh,5425.5107979,400
+cooling_demand,cooling_demand.walls_ag,Walls (AG),r_80_roof,+R-80 Roof,Walls (AG),kWh,5403.49487417,400
+cooling_demand,cooling_demand.walls_ag,Walls (AG),phius_core_2024,Phius CORE 2024,Walls (AG),kWh,3633.08466382,400
+cooling_demand,cooling_demand.walls_bg,Walls (BG),code_minumum,Code Minumum,Walls (BG),kWh,,401
+cooling_demand,cooling_demand.walls_bg,Walls (BG),improved,Improved,Walls (BG),kWh,,401
+cooling_demand,cooling_demand.walls_bg,Walls (BG),r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Walls (BG),kWh,,401
+cooling_demand,cooling_demand.walls_bg,Walls (BG),r_52_walls,+R-52 Walls,Walls (BG),kWh,,401
+cooling_demand,cooling_demand.walls_bg,Walls (BG),r_80_roof,+R-80 Roof,Walls (BG),kWh,,401
+cooling_demand,cooling_demand.walls_bg,Walls (BG),phius_core_2024,Phius CORE 2024,Walls (BG),kWh,,401
+cooling_demand,cooling_demand.roofs,Roofs,code_minumum,Code Minumum,Roofs,kWh,6719.89852465,402
+cooling_demand,cooling_demand.roofs,Roofs,improved,Improved,Roofs,kWh,5741.44329938,402
+cooling_demand,cooling_demand.roofs,Roofs,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Roofs,kWh,4400.57021261,402
+cooling_demand,cooling_demand.roofs,Roofs,r_52_walls,+R-52 Walls,Roofs,kWh,3150.9224977,402
+cooling_demand,cooling_demand.roofs,Roofs,r_80_roof,+R-80 Roof,Roofs,kWh,2421.91274828,402
+cooling_demand,cooling_demand.roofs,Roofs,phius_core_2024,Phius CORE 2024,Roofs,kWh,2042.89323005,402
+cooling_demand,cooling_demand.floor_slabs,Floor Slabs,code_minumum,Code Minumum,Floor Slabs,kWh,9403.49021664,403
+cooling_demand,cooling_demand.floor_slabs,Floor Slabs,improved,Improved,Floor Slabs,kWh,5018.19331983,403
+cooling_demand,cooling_demand.floor_slabs,Floor Slabs,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Floor Slabs,kWh,5044.37665887,403
+cooling_demand,cooling_demand.floor_slabs,Floor Slabs,r_52_walls,+R-52 Walls,Floor Slabs,kWh,4151.07979897,403
+cooling_demand,cooling_demand.floor_slabs,Floor Slabs,r_80_roof,+R-80 Roof,Floor Slabs,kWh,4158.94674328,403
+cooling_demand,cooling_demand.floor_slabs,Floor Slabs,phius_core_2024,Phius CORE 2024,Floor Slabs,kWh,2373.51101939,403
+cooling_demand,cooling_demand.windows,Windows,code_minumum,Code Minumum,Windows,kWh,15658.7859735,407
+cooling_demand,cooling_demand.windows,Windows,improved,Improved,Windows,kWh,11739.6281206,407
+cooling_demand,cooling_demand.windows,Windows,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Windows,kWh,11697.2983372,407
+cooling_demand,cooling_demand.windows,Windows,r_52_walls,+R-52 Walls,Windows,kWh,8375.56923589,407
+cooling_demand,cooling_demand.windows,Windows,r_80_roof,+R-80 Roof,Windows,kWh,8341.58240951,407
+cooling_demand,cooling_demand.windows,Windows,phius_core_2024,Phius CORE 2024,Windows,kWh,4429.95218845,407
+cooling_demand,cooling_demand.exterior_door,Exterior door,code_minumum,Code Minumum,Exterior door,kWh,,408
+cooling_demand,cooling_demand.exterior_door,Exterior door,improved,Improved,Exterior door,kWh,,408
+cooling_demand,cooling_demand.exterior_door,Exterior door,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Exterior door,kWh,,408
+cooling_demand,cooling_demand.exterior_door,Exterior door,r_52_walls,+R-52 Walls,Exterior door,kWh,,408
+cooling_demand,cooling_demand.exterior_door,Exterior door,r_80_roof,+R-80 Roof,Exterior door,kWh,,408
+cooling_demand,cooling_demand.exterior_door,Exterior door,phius_core_2024,Phius CORE 2024,Exterior door,kWh,,408
+cooling_demand,cooling_demand.thermal_bridges,Thermal Bridges,code_minumum,Code Minumum,Thermal Bridges,kWh,10951.799659,409
+cooling_demand,cooling_demand.thermal_bridges,Thermal Bridges,improved,Improved,Thermal Bridges,kWh,4219.46453496,409
+cooling_demand,cooling_demand.thermal_bridges,Thermal Bridges,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Thermal Bridges,kWh,3852.30705877,409
+cooling_demand,cooling_demand.thermal_bridges,Thermal Bridges,r_52_walls,+R-52 Walls,Thermal Bridges,kWh,2499.22297437,409
+cooling_demand,cooling_demand.thermal_bridges,Thermal Bridges,r_80_roof,+R-80 Roof,Thermal Bridges,kWh,2417.45911864,409
+cooling_demand,cooling_demand.thermal_bridges,Thermal Bridges,phius_core_2024,Phius CORE 2024,Thermal Bridges,kWh,976.060820887,409
+cooling_demand,cooling_demand.tb_perimeter,TB (Perimeter),code_minumum,Code Minumum,TB (Perimeter),kWh,,410
+cooling_demand,cooling_demand.tb_perimeter,TB (Perimeter),improved,Improved,TB (Perimeter),kWh,,410
+cooling_demand,cooling_demand.tb_perimeter,TB (Perimeter),r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,TB (Perimeter),kWh,,410
+cooling_demand,cooling_demand.tb_perimeter,TB (Perimeter),r_52_walls,+R-52 Walls,TB (Perimeter),kWh,,410
+cooling_demand,cooling_demand.tb_perimeter,TB (Perimeter),r_80_roof,+R-80 Roof,TB (Perimeter),kWh,,410
+cooling_demand,cooling_demand.tb_perimeter,TB (Perimeter),phius_core_2024,Phius CORE 2024,TB (Perimeter),kWh,,410
+cooling_demand,cooling_demand.tb_bg,TB (BG),code_minumum,Code Minumum,TB (BG),kWh,,411
+cooling_demand,cooling_demand.tb_bg,TB (BG),improved,Improved,TB (BG),kWh,,411
+cooling_demand,cooling_demand.tb_bg,TB (BG),r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,TB (BG),kWh,,411
+cooling_demand,cooling_demand.tb_bg,TB (BG),r_52_walls,+R-52 Walls,TB (BG),kWh,,411
+cooling_demand,cooling_demand.tb_bg,TB (BG),r_80_roof,+R-80 Roof,TB (BG),kWh,,411
+cooling_demand,cooling_demand.tb_bg,TB (BG),phius_core_2024,Phius CORE 2024,TB (BG),kWh,,411
+cooling_demand,cooling_demand.ventilation_basic,Ventilation (Basic),code_minumum,Code Minumum,Ventilation (Basic),kWh,5761.9153759,412
+cooling_demand,cooling_demand.ventilation_basic,Ventilation (Basic),improved,Improved,Ventilation (Basic),kWh,3846.0760544,412
+cooling_demand,cooling_demand.ventilation_basic,Ventilation (Basic),r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Ventilation (Basic),kWh,3950.11220351,412
+cooling_demand,cooling_demand.ventilation_basic,Ventilation (Basic),r_52_walls,+R-52 Walls,Ventilation (Basic),kWh,3425.46590963,412
+cooling_demand,cooling_demand.ventilation_basic,Ventilation (Basic),r_80_roof,+R-80 Roof,Ventilation (Basic),kWh,3443.69779867,412
+cooling_demand,cooling_demand.ventilation_basic,Ventilation (Basic),phius_core_2024,Phius CORE 2024,Ventilation (Basic),kWh,3256.47972606,412
+cooling_demand,cooling_demand.ventilation_addn_l,Ventilation (Addn'l),code_minumum,Code Minumum,Ventilation (Addn'l),kWh,2637.98098235,413
+cooling_demand,cooling_demand.ventilation_addn_l,Ventilation (Addn'l),improved,Improved,Ventilation (Addn'l),kWh,2952.2395119,413
+cooling_demand,cooling_demand.ventilation_addn_l,Ventilation (Addn'l),r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Ventilation (Addn'l),kWh,3032.09743092,413
+cooling_demand,cooling_demand.ventilation_addn_l,Ventilation (Addn'l),r_52_walls,+R-52 Walls,Ventilation (Addn'l),kWh,2584.72185041,413
+cooling_demand,cooling_demand.ventilation_addn_l,Ventilation (Addn'l),r_80_roof,+R-80 Roof,Ventilation (Addn'l),kWh,2598.47891682,413
+cooling_demand,cooling_demand.ventilation_addn_l,Ventilation (Addn'l),phius_core_2024,Phius CORE 2024,Ventilation (Addn'l),kWh,2773.69769929,413
+cooling_demand,cooling_demand.north,North,code_minumum,Code Minumum,North,kWh,1242.53851158,414
+cooling_demand,cooling_demand.north,North,improved,Improved,North,kWh,1242.53851158,414
+cooling_demand,cooling_demand.north,North,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,North,kWh,1242.53851158,414
+cooling_demand,cooling_demand.north,North,r_52_walls,+R-52 Walls,North,kWh,1142.52606918,414
+cooling_demand,cooling_demand.north,North,r_80_roof,+R-80 Roof,North,kWh,1142.52606918,414
+cooling_demand,cooling_demand.north,North,phius_core_2024,Phius CORE 2024,North,kWh,1080.3405469,414
+cooling_demand,cooling_demand.east,East,code_minumum,Code Minumum,East,kWh,1456.39424076,415
+cooling_demand,cooling_demand.east,East,improved,Improved,East,kWh,1456.39424076,415
+cooling_demand,cooling_demand.east,East,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,East,kWh,1456.39424076,415
+cooling_demand,cooling_demand.east,East,r_52_walls,+R-52 Walls,East,kWh,1356.76038379,415
+cooling_demand,cooling_demand.east,East,r_80_roof,+R-80 Roof,East,kWh,1356.76038379,415
+cooling_demand,cooling_demand.east,East,phius_core_2024,Phius CORE 2024,East,kWh,1280.58712803,415
+cooling_demand,cooling_demand.south,South,code_minumum,Code Minumum,South,kWh,3789.73939464,416
+cooling_demand,cooling_demand.south,South,improved,Improved,South,kWh,3789.73939464,416
+cooling_demand,cooling_demand.south,South,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,South,kWh,3789.73939464,416
+cooling_demand,cooling_demand.south,South,r_52_walls,+R-52 Walls,South,kWh,3114.19255892,416
+cooling_demand,cooling_demand.south,South,r_80_roof,+R-80 Roof,South,kWh,3114.19255892,416
+cooling_demand,cooling_demand.south,South,phius_core_2024,Phius CORE 2024,South,kWh,2776.93718107,416
+cooling_demand,cooling_demand.west,West,code_minumum,Code Minumum,West,kWh,2613.91025849,417
+cooling_demand,cooling_demand.west,West,improved,Improved,West,kWh,2613.91025849,417
+cooling_demand,cooling_demand.west,West,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,West,kWh,2613.91025849,417
+cooling_demand,cooling_demand.west,West,r_52_walls,+R-52 Walls,West,kWh,2242.04120915,417
+cooling_demand,cooling_demand.west,West,r_80_roof,+R-80 Roof,West,kWh,2242.04120915,417
+cooling_demand,cooling_demand.west,West,phius_core_2024,Phius CORE 2024,West,kWh,2044.50750573,417
+cooling_demand,cooling_demand.horizontal,Horizontal,code_minumum,Code Minumum,Horizontal,kWh,0,418
+cooling_demand,cooling_demand.horizontal,Horizontal,improved,Improved,Horizontal,kWh,0,418
+cooling_demand,cooling_demand.horizontal,Horizontal,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Horizontal,kWh,0,418
+cooling_demand,cooling_demand.horizontal,Horizontal,r_52_walls,+R-52 Walls,Horizontal,kWh,0,418
+cooling_demand,cooling_demand.horizontal,Horizontal,r_80_roof,+R-80 Roof,Horizontal,kWh,0,418
+cooling_demand,cooling_demand.horizontal,Horizontal,phius_core_2024,Phius CORE 2024,Horizontal,kWh,0,418
+cooling_demand,cooling_demand.sum_opaque_areas,Sum opaque areas,code_minumum,Code Minumum,Sum opaque areas,kWh,5579.47976064,419
+cooling_demand,cooling_demand.sum_opaque_areas,Sum opaque areas,improved,Improved,Sum opaque areas,kWh,3797.81306188,419
+cooling_demand,cooling_demand.sum_opaque_areas,Sum opaque areas,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Sum opaque areas,kWh,3147.01403151,419
+cooling_demand,cooling_demand.sum_opaque_areas,Sum opaque areas,r_52_walls,+R-52 Walls,Sum opaque areas,kWh,2330.11190964,419
+cooling_demand,cooling_demand.sum_opaque_areas,Sum opaque areas,r_80_roof,+R-80 Roof,Sum opaque areas,kWh,2093.13979639,419
+cooling_demand,cooling_demand.sum_opaque_areas,Sum opaque areas,phius_core_2024,Phius CORE 2024,Sum opaque areas,kWh,1507.66116592,419
+cooling_demand,cooling_demand.internal_gains,Internal Gains,code_minumum,Code Minumum,Internal Gains,kWh,8992.94314204,420
+cooling_demand,cooling_demand.internal_gains,Internal Gains,improved,Improved,Internal Gains,kWh,5121.39860222,420
+cooling_demand,cooling_demand.internal_gains,Internal Gains,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Internal Gains,kWh,5121.39860222,420
+cooling_demand,cooling_demand.internal_gains,Internal Gains,r_52_walls,+R-52 Walls,Internal Gains,kWh,4251.46240129,420
+cooling_demand,cooling_demand.internal_gains,Internal Gains,r_80_roof,+R-80 Roof,Internal Gains,kWh,4251.46240129,420
+cooling_demand,cooling_demand.internal_gains,Internal Gains,phius_core_2024,Phius CORE 2024,Internal Gains,kWh,3858.58798797,420
+site_energy,site_energy.heating,Heating,code_minumum,Code Minumum,Heating,kWh,28262.6964033,423
+site_energy,site_energy.heating,Heating,improved,Improved,Heating,kWh,14728.6248263,423
+site_energy,site_energy.heating,Heating,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Heating,kWh,13145.917326,423
+site_energy,site_energy.heating,Heating,r_52_walls,+R-52 Walls,Heating,kWh,11538.3755079,423
+site_energy,site_energy.heating,Heating,r_80_roof,+R-80 Roof,Heating,kWh,11085.8129132,423
+site_energy,site_energy.heating,Heating,phius_core_2024,Phius CORE 2024,Heating,kWh,6450.67704384,423
+site_energy,site_energy.cooling,Cooling,code_minumum,Code Minumum,Cooling,kWh,1076.72020056,424
+site_energy,site_energy.cooling,Cooling,improved,Improved,Cooling,kWh,823.439588272,424
+site_energy,site_energy.cooling,Cooling,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Cooling,kWh,790.532509412,424
+site_energy,site_energy.cooling,Cooling,r_52_walls,+R-52 Walls,Cooling,kWh,766.96923818,424
+site_energy,site_energy.cooling,Cooling,r_80_roof,+R-80 Roof,Cooling,kWh,752.828124722,424
+site_energy,site_energy.cooling,Cooling,phius_core_2024,Phius CORE 2024,Cooling,kWh,758.855034191,424
+site_energy,site_energy.dhw,DHW,code_minumum,Code Minumum,DHW,kWh,2112.88596089,425
+site_energy,site_energy.dhw,DHW,improved,Improved,DHW,kWh,2058.99368609,425
+site_energy,site_energy.dhw,DHW,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,DHW,kWh,2049.17265365,425
+site_energy,site_energy.dhw,DHW,r_52_walls,+R-52 Walls,DHW,kWh,2037.48643947,425
+site_energy,site_energy.dhw,DHW,r_80_roof,+R-80 Roof,DHW,kWh,2033.58195833,425
+site_energy,site_energy.dhw,DHW,phius_core_2024,Phius CORE 2024,DHW,kWh,2053.22863238,425
+site_energy,site_energy.dishwashing,Dishwashing,code_minumum,Code Minumum,Dishwashing,kWh,330.83875,426
+site_energy,site_energy.dishwashing,Dishwashing,improved,Improved,Dishwashing,kWh,330.83875,426
+site_energy,site_energy.dishwashing,Dishwashing,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Dishwashing,kWh,330.83875,426
+site_energy,site_energy.dishwashing,Dishwashing,r_52_walls,+R-52 Walls,Dishwashing,kWh,330.83875,426
+site_energy,site_energy.dishwashing,Dishwashing,r_80_roof,+R-80 Roof,Dishwashing,kWh,330.83875,426
+site_energy,site_energy.dishwashing,Dishwashing,phius_core_2024,Phius CORE 2024,Dishwashing,kWh,330.83875,426
+site_energy,site_energy.clothes_washing,Clothes Washing,code_minumum,Code Minumum,Clothes Washing,kWh,433.458675,427
+site_energy,site_energy.clothes_washing,Clothes Washing,improved,Improved,Clothes Washing,kWh,433.458675,427
+site_energy,site_energy.clothes_washing,Clothes Washing,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Clothes Washing,kWh,433.458675,427
+site_energy,site_energy.clothes_washing,Clothes Washing,r_52_walls,+R-52 Walls,Clothes Washing,kWh,433.458675,427
+site_energy,site_energy.clothes_washing,Clothes Washing,r_80_roof,+R-80 Roof,Clothes Washing,kWh,433.458675,427
+site_energy,site_energy.clothes_washing,Clothes Washing,phius_core_2024,Phius CORE 2024,Clothes Washing,kWh,433.458675,427
+site_energy,site_energy.clothes_drying,Clothes Drying,code_minumum,Code Minumum,Clothes Drying,kWh,12.3769125,428
+site_energy,site_energy.clothes_drying,Clothes Drying,improved,Improved,Clothes Drying,kWh,12.3769125,428
+site_energy,site_energy.clothes_drying,Clothes Drying,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Clothes Drying,kWh,12.3769125,428
+site_energy,site_energy.clothes_drying,Clothes Drying,r_52_walls,+R-52 Walls,Clothes Drying,kWh,12.3769125,428
+site_energy,site_energy.clothes_drying,Clothes Drying,r_80_roof,+R-80 Roof,Clothes Drying,kWh,12.3769125,428
+site_energy,site_energy.clothes_drying,Clothes Drying,phius_core_2024,Phius CORE 2024,Clothes Drying,kWh,12.3769125,428
+site_energy,site_energy.refrigerator,Refrigerator,code_minumum,Code Minumum,Refrigerator,kWh,730,429
+site_energy,site_energy.refrigerator,Refrigerator,improved,Improved,Refrigerator,kWh,730,429
+site_energy,site_energy.refrigerator,Refrigerator,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Refrigerator,kWh,730,429
+site_energy,site_energy.refrigerator,Refrigerator,r_52_walls,+R-52 Walls,Refrigerator,kWh,730,429
+site_energy,site_energy.refrigerator,Refrigerator,r_80_roof,+R-80 Roof,Refrigerator,kWh,730,429
+site_energy,site_energy.refrigerator,Refrigerator,phius_core_2024,Phius CORE 2024,Refrigerator,kWh,730,429
+site_energy,site_energy.cooking,Cooking,code_minumum,Code Minumum,Cooking,kWh,0,430
+site_energy,site_energy.cooking,Cooking,improved,Improved,Cooking,kWh,0,430
+site_energy,site_energy.cooking,Cooking,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Cooking,kWh,0,430
+site_energy,site_energy.cooking,Cooking,r_52_walls,+R-52 Walls,Cooking,kWh,0,430
+site_energy,site_energy.cooking,Cooking,r_80_roof,+R-80 Roof,Cooking,kWh,0,430
+site_energy,site_energy.cooking,Cooking,phius_core_2024,Phius CORE 2024,Cooking,kWh,0,430
+site_energy,site_energy.phi_lighting,PHI Lighting,code_minumum,Code Minumum,PHI Lighting,kWh,0,431
+site_energy,site_energy.phi_lighting,PHI Lighting,improved,Improved,PHI Lighting,kWh,0,431
+site_energy,site_energy.phi_lighting,PHI Lighting,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,PHI Lighting,kWh,0,431
+site_energy,site_energy.phi_lighting,PHI Lighting,r_52_walls,+R-52 Walls,PHI Lighting,kWh,0,431
+site_energy,site_energy.phi_lighting,PHI Lighting,r_80_roof,+R-80 Roof,PHI Lighting,kWh,0,431
+site_energy,site_energy.phi_lighting,PHI Lighting,phius_core_2024,Phius CORE 2024,PHI Lighting,kWh,0,431
+site_energy,site_energy.phi_consumer_elec,PHI Consumer Elec.,code_minumum,Code Minumum,PHI Consumer Elec.,kWh,60.5,432
+site_energy,site_energy.phi_consumer_elec,PHI Consumer Elec.,improved,Improved,PHI Consumer Elec.,kWh,60.5,432
+site_energy,site_energy.phi_consumer_elec,PHI Consumer Elec.,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,PHI Consumer Elec.,kWh,60.5,432
+site_energy,site_energy.phi_consumer_elec,PHI Consumer Elec.,r_52_walls,+R-52 Walls,PHI Consumer Elec.,kWh,60.5,432
+site_energy,site_energy.phi_consumer_elec,PHI Consumer Elec.,r_80_roof,+R-80 Roof,PHI Consumer Elec.,kWh,60.5,432
+site_energy,site_energy.phi_consumer_elec,PHI Consumer Elec.,phius_core_2024,Phius CORE 2024,PHI Consumer Elec.,kWh,60.5,432
+site_energy,site_energy.phi_small_appliances,PHI Small Appliances,code_minumum,Code Minumum,PHI Small Appliances,kWh,0,433
+site_energy,site_energy.phi_small_appliances,PHI Small Appliances,improved,Improved,PHI Small Appliances,kWh,0,433
+site_energy,site_energy.phi_small_appliances,PHI Small Appliances,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,PHI Small Appliances,kWh,0,433
+site_energy,site_energy.phi_small_appliances,PHI Small Appliances,r_52_walls,+R-52 Walls,PHI Small Appliances,kWh,0,433
+site_energy,site_energy.phi_small_appliances,PHI Small Appliances,r_80_roof,+R-80 Roof,PHI Small Appliances,kWh,0,433
+site_energy,site_energy.phi_small_appliances,PHI Small Appliances,phius_core_2024,Phius CORE 2024,PHI Small Appliances,kWh,0,433
+site_energy,site_energy.phius_int_lighting,Phius Int. Lighting,code_minumum,Code Minumum,Phius Int. Lighting,kWh,881.210460071,434
+site_energy,site_energy.phius_int_lighting,Phius Int. Lighting,improved,Improved,Phius Int. Lighting,kWh,881.210460071,434
+site_energy,site_energy.phius_int_lighting,Phius Int. Lighting,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Phius Int. Lighting,kWh,881.210460071,434
+site_energy,site_energy.phius_int_lighting,Phius Int. Lighting,r_52_walls,+R-52 Walls,Phius Int. Lighting,kWh,881.210460071,434
+site_energy,site_energy.phius_int_lighting,Phius Int. Lighting,r_80_roof,+R-80 Roof,Phius Int. Lighting,kWh,881.210460071,434
+site_energy,site_energy.phius_int_lighting,Phius Int. Lighting,phius_core_2024,Phius CORE 2024,Phius Int. Lighting,kWh,881.210460071,434
+site_energy,site_energy.phius_ext_lighting,Phius Ext. Lighting,code_minumum,Code Minumum,Phius Ext. Lighting,kWh,47.3936556642,435
+site_energy,site_energy.phius_ext_lighting,Phius Ext. Lighting,improved,Improved,Phius Ext. Lighting,kWh,47.3936556642,435
+site_energy,site_energy.phius_ext_lighting,Phius Ext. Lighting,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Phius Ext. Lighting,kWh,47.3936556642,435
+site_energy,site_energy.phius_ext_lighting,Phius Ext. Lighting,r_52_walls,+R-52 Walls,Phius Ext. Lighting,kWh,47.3936556642,435
+site_energy,site_energy.phius_ext_lighting,Phius Ext. Lighting,r_80_roof,+R-80 Roof,Phius Ext. Lighting,kWh,47.3936556642,435
+site_energy,site_energy.phius_ext_lighting,Phius Ext. Lighting,phius_core_2024,Phius CORE 2024,Phius Ext. Lighting,kWh,47.3936556642,435
+site_energy,site_energy.phius_mel,Phius MEL,code_minumum,Code Minumum,Phius MEL,kWh,2545.45813235,436
+site_energy,site_energy.phius_mel,Phius MEL,improved,Improved,Phius MEL,kWh,2545.45813235,436
+site_energy,site_energy.phius_mel,Phius MEL,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Phius MEL,kWh,2545.45813235,436
+site_energy,site_energy.phius_mel,Phius MEL,r_52_walls,+R-52 Walls,Phius MEL,kWh,2545.45813235,436
+site_energy,site_energy.phius_mel,Phius MEL,r_80_roof,+R-80 Roof,Phius MEL,kWh,2545.45813235,436
+site_energy,site_energy.phius_mel,Phius MEL,phius_core_2024,Phius CORE 2024,Phius MEL,kWh,2545.45813235,436
+site_energy,site_energy.aux_elec,Aux Elec,code_minumum,Code Minumum,Aux Elec,kWh,5125.88608923,437
+site_energy,site_energy.aux_elec,Aux Elec,improved,Improved,Aux Elec,kWh,595.553132026,437
+site_energy,site_energy.aux_elec,Aux Elec,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Aux Elec,kWh,595.553132026,437
+site_energy,site_energy.aux_elec,Aux Elec,r_52_walls,+R-52 Walls,Aux Elec,kWh,595.553132026,437
+site_energy,site_energy.aux_elec,Aux Elec,r_80_roof,+R-80 Roof,Aux Elec,kWh,595.553132026,437
+site_energy,site_energy.aux_elec,Aux Elec,phius_core_2024,Phius CORE 2024,Aux Elec,kWh,183.530382234,437
+site_energy,site_energy.solar_pv,Solar PV,code_minumum,Code Minumum,Solar PV,kWh,0,438
+site_energy,site_energy.solar_pv,Solar PV,improved,Improved,Solar PV,kWh,0,438
+site_energy,site_energy.solar_pv,Solar PV,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Solar PV,kWh,0,438
+site_energy,site_energy.solar_pv,Solar PV,r_52_walls,+R-52 Walls,Solar PV,kWh,0,438
+site_energy,site_energy.solar_pv,Solar PV,r_80_roof,+R-80 Roof,Solar PV,kWh,0,438
+site_energy,site_energy.solar_pv,Solar PV,phius_core_2024,Phius CORE 2024,Solar PV,kWh,0,438
+primary_energy,primary_energy.heating,Heating,code_minumum,Code Minumum,Heating,kWh,50872.8535259,441
+primary_energy,primary_energy.heating,Heating,improved,Improved,Heating,kWh,26511.5246873,441
+primary_energy,primary_energy.heating,Heating,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Heating,kWh,23662.6511868,441
+primary_energy,primary_energy.heating,Heating,r_52_walls,+R-52 Walls,Heating,kWh,20769.0759141,441
+primary_energy,primary_energy.heating,Heating,r_80_roof,+R-80 Roof,Heating,kWh,19954.4632437,441
+primary_energy,primary_energy.heating,Heating,phius_core_2024,Phius CORE 2024,Heating,kWh,11611.2186789,441
+primary_energy,primary_energy.cooling,Cooling,code_minumum,Code Minumum,Cooling,kWh,1938.09636101,442
+primary_energy,primary_energy.cooling,Cooling,improved,Improved,Cooling,kWh,1482.19125889,442
+primary_energy,primary_energy.cooling,Cooling,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Cooling,kWh,1422.95851694,442
+primary_energy,primary_energy.cooling,Cooling,r_52_walls,+R-52 Walls,Cooling,kWh,1380.54462872,442
+primary_energy,primary_energy.cooling,Cooling,r_80_roof,+R-80 Roof,Cooling,kWh,1355.0906245,442
+primary_energy,primary_energy.cooling,Cooling,phius_core_2024,Phius CORE 2024,Cooling,kWh,1365.93906154,442
+primary_energy,primary_energy.dhw,DHW,code_minumum,Code Minumum,DHW,kWh,3803.1947296,443
+primary_energy,primary_energy.dhw,DHW,improved,Improved,DHW,kWh,3706.18863496,443
+primary_energy,primary_energy.dhw,DHW,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,DHW,kWh,3688.51077657,443
+primary_energy,primary_energy.dhw,DHW,r_52_walls,+R-52 Walls,DHW,kWh,3667.47559105,443
+primary_energy,primary_energy.dhw,DHW,r_80_roof,+R-80 Roof,DHW,kWh,3660.44752499,443
+primary_energy,primary_energy.dhw,DHW,phius_core_2024,Phius CORE 2024,DHW,kWh,3695.81153829,443
+primary_energy,primary_energy.dishwashing,Dishwashing,code_minumum,Code Minumum,Dishwashing,kWh,595.50975,444
+primary_energy,primary_energy.dishwashing,Dishwashing,improved,Improved,Dishwashing,kWh,595.50975,444
+primary_energy,primary_energy.dishwashing,Dishwashing,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Dishwashing,kWh,595.50975,444
+primary_energy,primary_energy.dishwashing,Dishwashing,r_52_walls,+R-52 Walls,Dishwashing,kWh,595.50975,444
+primary_energy,primary_energy.dishwashing,Dishwashing,r_80_roof,+R-80 Roof,Dishwashing,kWh,595.50975,444
+primary_energy,primary_energy.dishwashing,Dishwashing,phius_core_2024,Phius CORE 2024,Dishwashing,kWh,595.50975,444
+primary_energy,primary_energy.clothes_washing,Clothes Washing,code_minumum,Code Minumum,Clothes Washing,kWh,780.225615,445
+primary_energy,primary_energy.clothes_washing,Clothes Washing,improved,Improved,Clothes Washing,kWh,780.225615,445
+primary_energy,primary_energy.clothes_washing,Clothes Washing,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Clothes Washing,kWh,780.225615,445
+primary_energy,primary_energy.clothes_washing,Clothes Washing,r_52_walls,+R-52 Walls,Clothes Washing,kWh,780.225615,445
+primary_energy,primary_energy.clothes_washing,Clothes Washing,r_80_roof,+R-80 Roof,Clothes Washing,kWh,780.225615,445
+primary_energy,primary_energy.clothes_washing,Clothes Washing,phius_core_2024,Phius CORE 2024,Clothes Washing,kWh,780.225615,445
+primary_energy,primary_energy.clothes_drying,Clothes Drying,code_minumum,Code Minumum,Clothes Drying,kWh,22.2784425,446
+primary_energy,primary_energy.clothes_drying,Clothes Drying,improved,Improved,Clothes Drying,kWh,22.2784425,446
+primary_energy,primary_energy.clothes_drying,Clothes Drying,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Clothes Drying,kWh,22.2784425,446
+primary_energy,primary_energy.clothes_drying,Clothes Drying,r_52_walls,+R-52 Walls,Clothes Drying,kWh,22.2784425,446
+primary_energy,primary_energy.clothes_drying,Clothes Drying,r_80_roof,+R-80 Roof,Clothes Drying,kWh,22.2784425,446
+primary_energy,primary_energy.clothes_drying,Clothes Drying,phius_core_2024,Phius CORE 2024,Clothes Drying,kWh,22.2784425,446
+primary_energy,primary_energy.refrigerator,Refrigerator,code_minumum,Code Minumum,Refrigerator,kWh,1314,447
+primary_energy,primary_energy.refrigerator,Refrigerator,improved,Improved,Refrigerator,kWh,1314,447
+primary_energy,primary_energy.refrigerator,Refrigerator,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Refrigerator,kWh,1314,447
+primary_energy,primary_energy.refrigerator,Refrigerator,r_52_walls,+R-52 Walls,Refrigerator,kWh,1314,447
+primary_energy,primary_energy.refrigerator,Refrigerator,r_80_roof,+R-80 Roof,Refrigerator,kWh,1314,447
+primary_energy,primary_energy.refrigerator,Refrigerator,phius_core_2024,Phius CORE 2024,Refrigerator,kWh,1314,447
+primary_energy,primary_energy.cooking,Cooking,code_minumum,Code Minumum,Cooking,kWh,0,448
+primary_energy,primary_energy.cooking,Cooking,improved,Improved,Cooking,kWh,0,448
+primary_energy,primary_energy.cooking,Cooking,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Cooking,kWh,0,448
+primary_energy,primary_energy.cooking,Cooking,r_52_walls,+R-52 Walls,Cooking,kWh,0,448
+primary_energy,primary_energy.cooking,Cooking,r_80_roof,+R-80 Roof,Cooking,kWh,0,448
+primary_energy,primary_energy.cooking,Cooking,phius_core_2024,Phius CORE 2024,Cooking,kWh,0,448
+primary_energy,primary_energy.phi_lighting,PHI Lighting,code_minumum,Code Minumum,PHI Lighting,kWh,0,449
+primary_energy,primary_energy.phi_lighting,PHI Lighting,improved,Improved,PHI Lighting,kWh,0,449
+primary_energy,primary_energy.phi_lighting,PHI Lighting,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,PHI Lighting,kWh,0,449
+primary_energy,primary_energy.phi_lighting,PHI Lighting,r_52_walls,+R-52 Walls,PHI Lighting,kWh,0,449
+primary_energy,primary_energy.phi_lighting,PHI Lighting,r_80_roof,+R-80 Roof,PHI Lighting,kWh,0,449
+primary_energy,primary_energy.phi_lighting,PHI Lighting,phius_core_2024,Phius CORE 2024,PHI Lighting,kWh,0,449
+primary_energy,primary_energy.phi_consumer_elec,PHI Consumer Elec.,code_minumum,Code Minumum,PHI Consumer Elec.,kWh,108.9,450
+primary_energy,primary_energy.phi_consumer_elec,PHI Consumer Elec.,improved,Improved,PHI Consumer Elec.,kWh,108.9,450
+primary_energy,primary_energy.phi_consumer_elec,PHI Consumer Elec.,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,PHI Consumer Elec.,kWh,108.9,450
+primary_energy,primary_energy.phi_consumer_elec,PHI Consumer Elec.,r_52_walls,+R-52 Walls,PHI Consumer Elec.,kWh,108.9,450
+primary_energy,primary_energy.phi_consumer_elec,PHI Consumer Elec.,r_80_roof,+R-80 Roof,PHI Consumer Elec.,kWh,108.9,450
+primary_energy,primary_energy.phi_consumer_elec,PHI Consumer Elec.,phius_core_2024,Phius CORE 2024,PHI Consumer Elec.,kWh,108.9,450
+primary_energy,primary_energy.phi_small_appliances,PHI Small Appliances,code_minumum,Code Minumum,PHI Small Appliances,kWh,0,451
+primary_energy,primary_energy.phi_small_appliances,PHI Small Appliances,improved,Improved,PHI Small Appliances,kWh,0,451
+primary_energy,primary_energy.phi_small_appliances,PHI Small Appliances,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,PHI Small Appliances,kWh,0,451
+primary_energy,primary_energy.phi_small_appliances,PHI Small Appliances,r_52_walls,+R-52 Walls,PHI Small Appliances,kWh,0,451
+primary_energy,primary_energy.phi_small_appliances,PHI Small Appliances,r_80_roof,+R-80 Roof,PHI Small Appliances,kWh,0,451
+primary_energy,primary_energy.phi_small_appliances,PHI Small Appliances,phius_core_2024,Phius CORE 2024,PHI Small Appliances,kWh,0,451
+primary_energy,primary_energy.phius_int_lighting,Phius Int. Lighting,code_minumum,Code Minumum,Phius Int. Lighting,kWh,1586.17882813,452
+primary_energy,primary_energy.phius_int_lighting,Phius Int. Lighting,improved,Improved,Phius Int. Lighting,kWh,1586.17882813,452
+primary_energy,primary_energy.phius_int_lighting,Phius Int. Lighting,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Phius Int. Lighting,kWh,1586.17882813,452
+primary_energy,primary_energy.phius_int_lighting,Phius Int. Lighting,r_52_walls,+R-52 Walls,Phius Int. Lighting,kWh,1586.17882813,452
+primary_energy,primary_energy.phius_int_lighting,Phius Int. Lighting,r_80_roof,+R-80 Roof,Phius Int. Lighting,kWh,1586.17882813,452
+primary_energy,primary_energy.phius_int_lighting,Phius Int. Lighting,phius_core_2024,Phius CORE 2024,Phius Int. Lighting,kWh,1586.17882813,452
+primary_energy,primary_energy.phius_ext_lighting,Phius Ext. Lighting,code_minumum,Code Minumum,Phius Ext. Lighting,kWh,85.3085801955,453
+primary_energy,primary_energy.phius_ext_lighting,Phius Ext. Lighting,improved,Improved,Phius Ext. Lighting,kWh,85.3085801955,453
+primary_energy,primary_energy.phius_ext_lighting,Phius Ext. Lighting,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Phius Ext. Lighting,kWh,85.3085801955,453
+primary_energy,primary_energy.phius_ext_lighting,Phius Ext. Lighting,r_52_walls,+R-52 Walls,Phius Ext. Lighting,kWh,85.3085801955,453
+primary_energy,primary_energy.phius_ext_lighting,Phius Ext. Lighting,r_80_roof,+R-80 Roof,Phius Ext. Lighting,kWh,85.3085801955,453
+primary_energy,primary_energy.phius_ext_lighting,Phius Ext. Lighting,phius_core_2024,Phius CORE 2024,Phius Ext. Lighting,kWh,85.3085801955,453
+primary_energy,primary_energy.phius_mel,Phius MEL,code_minumum,Code Minumum,Phius MEL,kWh,4581.82463824,454
+primary_energy,primary_energy.phius_mel,Phius MEL,improved,Improved,Phius MEL,kWh,4581.82463824,454
+primary_energy,primary_energy.phius_mel,Phius MEL,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Phius MEL,kWh,4581.82463824,454
+primary_energy,primary_energy.phius_mel,Phius MEL,r_52_walls,+R-52 Walls,Phius MEL,kWh,4581.82463824,454
+primary_energy,primary_energy.phius_mel,Phius MEL,r_80_roof,+R-80 Roof,Phius MEL,kWh,4581.82463824,454
+primary_energy,primary_energy.phius_mel,Phius MEL,phius_core_2024,Phius CORE 2024,Phius MEL,kWh,4581.82463824,454
+primary_energy,primary_energy.aux_elec,Aux Elec,code_minumum,Code Minumum,Aux Elec,kWh,9226.59496061,455
+primary_energy,primary_energy.aux_elec,Aux Elec,improved,Improved,Aux Elec,kWh,1071.99563765,455
+primary_energy,primary_energy.aux_elec,Aux Elec,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Aux Elec,kWh,1071.99563765,455
+primary_energy,primary_energy.aux_elec,Aux Elec,r_52_walls,+R-52 Walls,Aux Elec,kWh,1071.99563765,455
+primary_energy,primary_energy.aux_elec,Aux Elec,r_80_roof,+R-80 Roof,Aux Elec,kWh,1071.99563765,455
+primary_energy,primary_energy.aux_elec,Aux Elec,phius_core_2024,Phius CORE 2024,Aux Elec,kWh,330.354688022,455
+primary_energy,primary_energy.solar_pv,Solar PV,code_minumum,Code Minumum,Solar PV,kWh,0,456
+primary_energy,primary_energy.solar_pv,Solar PV,improved,Improved,Solar PV,kWh,0,456
+primary_energy,primary_energy.solar_pv,Solar PV,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Solar PV,kWh,0,456
+primary_energy,primary_energy.solar_pv,Solar PV,r_52_walls,+R-52 Walls,Solar PV,kWh,0,456
+primary_energy,primary_energy.solar_pv,Solar PV,r_80_roof,+R-80 Roof,Solar PV,kWh,0,456
+primary_energy,primary_energy.solar_pv,Solar PV,phius_core_2024,Phius CORE 2024,Solar PV,kWh,0,456
+certification_results,certification_results.heat_demand,Heat Demand,code_minumum,Code Minumum,Heat Demand,kWh/m2,156.695945896,459
+certification_results,certification_results.heat_demand,Heat Demand,improved,Improved,Heat Demand,kWh/m2,78.4053220816,459
+certification_results,certification_results.heat_demand,Heat Demand,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Heat Demand,kWh/m2,69.3510659998,459
+certification_results,certification_results.heat_demand,Heat Demand,r_52_walls,+R-52 Walls,Heat Demand,kWh/m2,60.1525258977,459
+certification_results,certification_results.heat_demand,Heat Demand,r_80_roof,+R-80 Roof,Heat Demand,kWh/m2,57.5629197832,459
+certification_results,certification_results.heat_demand,Heat Demand,phius_core_2024,Phius CORE 2024,Heat Demand,kWh/m2,29.8205220462,459
+certification_results,certification_results.sensible_cooling_demand,Sensible Cooling Demand,code_minumum,Code Minumum,Sensible Cooling Demand,kWh/m2,6.34141071949,460
+certification_results,certification_results.sensible_cooling_demand,Sensible Cooling Demand,improved,Improved,Sensible Cooling Demand,kWh/m2,3.67273154954,460
+certification_results,certification_results.sensible_cooling_demand,Sensible Cooling Demand,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Sensible Cooling Demand,kWh/m2,3.40567065186,460
+certification_results,certification_results.sensible_cooling_demand,Sensible Cooling Demand,r_52_walls,+R-52 Walls,Sensible Cooling Demand,kWh/m2,3.2502777533,460
+certification_results,certification_results.sensible_cooling_demand,Sensible Cooling Demand,r_80_roof,+R-80 Roof,Sensible Cooling Demand,kWh/m2,3.12699331337,460
+certification_results,certification_results.sensible_cooling_demand,Sensible Cooling Demand,phius_core_2024,Phius CORE 2024,Sensible Cooling Demand,kWh/m2,3.48773427712,460
+certification_results,certification_results.latent_cooling_demand,Latent Cooling Demand,code_minumum,Code Minumum,Latent Cooling Demand,kWh/m2,0,461
+certification_results,certification_results.latent_cooling_demand,Latent Cooling Demand,improved,Improved,Latent Cooling Demand,kWh/m2,0,461
+certification_results,certification_results.latent_cooling_demand,Latent Cooling Demand,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Latent Cooling Demand,kWh/m2,0,461
+certification_results,certification_results.latent_cooling_demand,Latent Cooling Demand,r_52_walls,+R-52 Walls,Latent Cooling Demand,kWh/m2,0,461
+certification_results,certification_results.latent_cooling_demand,Latent Cooling Demand,r_80_roof,+R-80 Roof,Latent Cooling Demand,kWh/m2,0,461
+certification_results,certification_results.latent_cooling_demand,Latent Cooling Demand,phius_core_2024,Phius CORE 2024,Latent Cooling Demand,kWh/m2,0,461
+certification_results,certification_results.total_cooling_demand,Total Cooling Demand,code_minumum,Code Minumum,Total Cooling Demand,kWh/m2,6.34141071949,462
+certification_results,certification_results.total_cooling_demand,Total Cooling Demand,improved,Improved,Total Cooling Demand,kWh/m2,3.67273154954,462
+certification_results,certification_results.total_cooling_demand,Total Cooling Demand,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Total Cooling Demand,kWh/m2,3.40567065186,462
+certification_results,certification_results.total_cooling_demand,Total Cooling Demand,r_52_walls,+R-52 Walls,Total Cooling Demand,kWh/m2,3.2502777533,462
+certification_results,certification_results.total_cooling_demand,Total Cooling Demand,r_80_roof,+R-80 Roof,Total Cooling Demand,kWh/m2,3.12699331337,462
+certification_results,certification_results.total_cooling_demand,Total Cooling Demand,phius_core_2024,Phius CORE 2024,Total Cooling Demand,kWh/m2,3.48773427712,462
+certification_results,certification_results.peak_heat_load,Peak Heat Load,code_minumum,Code Minumum,Peak Heat Load,W/m2,60.9117748613,463
+certification_results,certification_results.peak_heat_load,Peak Heat Load,improved,Improved,Peak Heat Load,W/m2,35.6774240653,463
+certification_results,certification_results.peak_heat_load,Peak Heat Load,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Peak Heat Load,W/m2,32.5698980943,463
+certification_results,certification_results.peak_heat_load,Peak Heat Load,r_52_walls,+R-52 Walls,Peak Heat Load,W/m2,29.3712509676,463
+certification_results,certification_results.peak_heat_load,Peak Heat Load,r_80_roof,+R-80 Roof,Peak Heat Load,W/m2,28.4845609937,463
+certification_results,certification_results.peak_heat_load,Peak Heat Load,phius_core_2024,Phius CORE 2024,Peak Heat Load,W/m2,17.7350193195,463
+certification_results,certification_results.peak_cooling_load,Peak Cooling Load,code_minumum,Code Minumum,Peak Cooling Load,W/m2,11.4307498196,464
+certification_results,certification_results.peak_cooling_load,Peak Cooling Load,improved,Improved,Peak Cooling Load,W/m2,8.96330605983,464
+certification_results,certification_results.peak_cooling_load,Peak Cooling Load,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Peak Cooling Load,W/m2,8.47213369489,464
+certification_results,certification_results.peak_cooling_load,Peak Cooling Load,r_52_walls,+R-52 Walls,Peak Cooling Load,W/m2,8.09001644563,464
+certification_results,certification_results.peak_cooling_load,Peak Cooling Load,r_80_roof,+R-80 Roof,Peak Cooling Load,W/m2,7.88619216688,464
+certification_results,certification_results.peak_cooling_load,Peak Cooling Load,phius_core_2024,Phius CORE 2024,Peak Cooling Load,W/m2,7.90278606185,464
+certification_results,certification_results.pe_demand,PE Demand,code_minumum,Code Minumum,PE Demand,kWh/m2,294.259750477,465
+certification_results,certification_results.pe_demand,PE Demand,improved,Improved,PE Demand,kWh/m2,164.368101163,465
+certification_results,certification_results.pe_demand,PE Demand,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,PE Demand,kWh/m2,152.875864672,465
+certification_results,certification_results.pe_demand,PE Demand,r_52_walls,+R-52 Walls,PE Demand,kWh/m2,141.260919096,465
+certification_results,certification_results.pe_demand,PE Demand,r_80_roof,+R-80 Roof,PE Demand,kWh/m2,137.933601442,465
+certification_results,certification_results.pe_demand,PE Demand,phius_core_2024,Phius CORE 2024,PE Demand,kWh/m2,102.430445762,465
+certification_results,certification_results.per_demand,PER Demand,code_minumum,Code Minumum,PER Demand,kWh/m2,257.14816308,466
+certification_results,certification_results.per_demand,PER Demand,improved,Improved,PER Demand,kWh/m2,135.850040897,466
+certification_results,certification_results.per_demand,PER Demand,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,PER Demand,kWh/m2,124.128278277,466
+certification_results,certification_results.per_demand,PER Demand,r_52_walls,+R-52 Walls,PER Demand,kWh/m2,112.266809218,466
+certification_results,certification_results.per_demand,PER Demand,r_80_roof,+R-80 Roof,PER Demand,kWh/m2,108.884807342,466
+certification_results,certification_results.per_demand,PER Demand,phius_core_2024,Phius CORE 2024,PER Demand,kWh/m2,73.4985972406,466
+airtightness,airtightness.nv_system,"nV,system",code_minumum,Code Minumum,nV system,%,0.540530525115,470
+airtightness,airtightness.nv_system,"nV,system",improved,Improved,nV system,%,0.540530525115,470
+airtightness,airtightness.nv_system,"nV,system",r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,nV system,%,0.540530525115,470
+airtightness,airtightness.nv_system,"nV,system",r_52_walls,+R-52 Walls,nV system,%,0.540530525115,470
+airtightness,airtightness.nv_system,"nV,system",r_80_roof,+R-80 Roof,nV system,%,0.540530525115,470
+airtightness,airtightness.nv_system,"nV,system",phius_core_2024,Phius CORE 2024,nV system,%,0.540530525115,470
+airtightness,airtightness.hhr,hHR,code_minumum,Code Minumum,hHR,%,0,471
+airtightness,airtightness.hhr,hHR,improved,Improved,hHR,%,0.756876060308,471
+airtightness,airtightness.hhr,hHR,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,hHR,%,0.756876060308,471
+airtightness,airtightness.hhr,hHR,r_52_walls,+R-52 Walls,hHR,%,0.756876060308,471
+airtightness,airtightness.hhr,hHR,r_80_roof,+R-80 Roof,hHR,%,0.756876060308,471
+airtightness,airtightness.hhr,hHR,phius_core_2024,Phius CORE 2024,hHR,%,0.785642684722,471
+airtightness,airtightness.wind_protection_coefficient_e,"Wind protection coefficient, e",code_minumum,Code Minumum,Wind protection coefficient  e,,0.1,472
+airtightness,airtightness.wind_protection_coefficient_e,"Wind protection coefficient, e",improved,Improved,Wind protection coefficient  e,,0.1,472
+airtightness,airtightness.wind_protection_coefficient_e,"Wind protection coefficient, e",r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Wind protection coefficient  e,,0.1,472
+airtightness,airtightness.wind_protection_coefficient_e,"Wind protection coefficient, e",r_52_walls,+R-52 Walls,Wind protection coefficient  e,,0.1,472
+airtightness,airtightness.wind_protection_coefficient_e,"Wind protection coefficient, e",r_80_roof,+R-80 Roof,Wind protection coefficient  e,,0.1,472
+airtightness,airtightness.wind_protection_coefficient_e,"Wind protection coefficient, e",phius_core_2024,Phius CORE 2024,Wind protection coefficient  e,,0.1,472
+airtightness,airtightness.wind_protection_coefficient_f,"Wind protection coefficient, f",code_minumum,Code Minumum,Wind protection coefficient  f,,15,473
+airtightness,airtightness.wind_protection_coefficient_f,"Wind protection coefficient, f",improved,Improved,Wind protection coefficient  f,,15,473
+airtightness,airtightness.wind_protection_coefficient_f,"Wind protection coefficient, f",r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Wind protection coefficient  f,,15,473
+airtightness,airtightness.wind_protection_coefficient_f,"Wind protection coefficient, f",r_52_walls,+R-52 Walls,Wind protection coefficient  f,,15,473
+airtightness,airtightness.wind_protection_coefficient_f,"Wind protection coefficient, f",r_80_roof,+R-80 Roof,Wind protection coefficient  f,,15,473
+airtightness,airtightness.wind_protection_coefficient_f,"Wind protection coefficient, f",phius_core_2024,Phius CORE 2024,Wind protection coefficient  f,,15,473
+airtightness,airtightness.vn50,Vn50,code_minumum,Code Minumum,Vn50,m3,750,474
+airtightness,airtightness.vn50,Vn50,improved,Improved,Vn50,m3,750,474
+airtightness,airtightness.vn50,Vn50,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Vn50,m3,750,474
+airtightness,airtightness.vn50,Vn50,r_52_walls,+R-52 Walls,Vn50,m3,750,474
+airtightness,airtightness.vn50,Vn50,r_80_roof,+R-80 Roof,Vn50,m3,750,474
+airtightness,airtightness.vn50,Vn50,phius_core_2024,Phius CORE 2024,Vn50,m3,750,474
+airtightness,airtightness.vv,VV,code_minumum,Code Minumum,VV,m3,636.4696948,475
+airtightness,airtightness.vv,VV,improved,Improved,VV,m3,636.4696948,475
+airtightness,airtightness.vv,VV,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,VV,m3,636.4696948,475
+airtightness,airtightness.vv,VV,r_52_walls,+R-52 Walls,VV,m3,636.4696948,475
+airtightness,airtightness.vv,VV,r_80_roof,+R-80 Roof,VV,m3,636.4696948,475
+airtightness,airtightness.vv,VV,phius_core_2024,Phius CORE 2024,VV,m3,636.4696948,475
+airtightness,airtightness.gt,Gt,code_minumum,Code Minumum,Gt,kFh/a,100.215484807,476
+airtightness,airtightness.gt,Gt,improved,Improved,Gt,kFh/a,100.872573833,476
+airtightness,airtightness.gt,Gt,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Gt,kFh/a,100.370517091,476
+airtightness,airtightness.gt,Gt,r_52_walls,+R-52 Walls,Gt,kFh/a,100.126158697,476
+airtightness,airtightness.gt,Gt,r_80_roof,+R-80 Roof,Gt,kFh/a,99.7415874637,476
+airtightness,airtightness.gt,Gt,phius_core_2024,Phius CORE 2024,Gt,kFh/a,95.3130180523,476
+r_values,r_values.assembly_01,01ud-Ext_Wall,code_minumum,Code Minumum,01ud-Ext_Wall,m2,#DIV/0!,480
+r_values,r_values.assembly_01,01ud-Ext_Wall,improved,Improved,01ud-Ext_Wall,m2,#DIV/0!,480
+r_values,r_values.assembly_01,01ud-Ext_Wall,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,01ud-Ext_Wall,m2,#DIV/0!,480
+r_values,r_values.assembly_01,01ud-Ext_Wall,r_52_walls,+R-52 Walls,01ud-Ext_Wall,m2,#DIV/0!,480
+r_values,r_values.assembly_01,01ud-Ext_Wall,r_80_roof,+R-80 Roof,01ud-Ext_Wall,m2,#DIV/0!,480
+r_values,r_values.assembly_01,01ud-Ext_Wall,phius_core_2024,Phius CORE 2024,01ud-Ext_Wall,m2,#DIV/0!,480
+r_values,r_values.assembly_03,03ud-Ground_Floor,code_minumum,Code Minumum,03ud-Ground_Floor,m2,#DIV/0!,482
+r_values,r_values.assembly_03,03ud-Ground_Floor,improved,Improved,03ud-Ground_Floor,m2,#DIV/0!,482
+r_values,r_values.assembly_03,03ud-Ground_Floor,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,03ud-Ground_Floor,m2,#DIV/0!,482
+r_values,r_values.assembly_03,03ud-Ground_Floor,r_52_walls,+R-52 Walls,03ud-Ground_Floor,m2,#DIV/0!,482
+r_values,r_values.assembly_03,03ud-Ground_Floor,r_80_roof,+R-80 Roof,03ud-Ground_Floor,m2,#DIV/0!,482
+r_values,r_values.assembly_03,03ud-Ground_Floor,phius_core_2024,Phius CORE 2024,03ud-Ground_Floor,m2,#DIV/0!,482
+r_values,r_values.assembly_04,04ud-Ext_Roof,code_minumum,Code Minumum,04ud-Ext_Roof,m2,#DIV/0!,483
+r_values,r_values.assembly_04,04ud-Ext_Roof,improved,Improved,04ud-Ext_Roof,m2,#DIV/0!,483
+r_values,r_values.assembly_04,04ud-Ext_Roof,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,04ud-Ext_Roof,m2,#DIV/0!,483
+r_values,r_values.assembly_04,04ud-Ext_Roof,r_52_walls,+R-52 Walls,04ud-Ext_Roof,m2,#DIV/0!,483
+r_values,r_values.assembly_04,04ud-Ext_Roof,r_80_roof,+R-80 Roof,04ud-Ext_Roof,m2,#DIV/0!,483
+r_values,r_values.assembly_04,04ud-Ext_Roof,phius_core_2024,Phius CORE 2024,04ud-Ext_Roof,m2,#DIV/0!,483
+r_values,r_values.assembly_06,06ud-Ext_Floor,code_minumum,Code Minumum,06ud-Ext_Floor,m2,#DIV/0!,485
+r_values,r_values.assembly_06,06ud-Ext_Floor,improved,Improved,06ud-Ext_Floor,m2,#DIV/0!,485
+r_values,r_values.assembly_06,06ud-Ext_Floor,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,06ud-Ext_Floor,m2,#DIV/0!,485
+r_values,r_values.assembly_06,06ud-Ext_Floor,r_52_walls,+R-52 Walls,06ud-Ext_Floor,m2,#DIV/0!,485
+r_values,r_values.assembly_06,06ud-Ext_Floor,r_80_roof,+R-80 Roof,06ud-Ext_Floor,m2,#DIV/0!,485
+r_values,r_values.assembly_06,06ud-Ext_Floor,phius_core_2024,Phius CORE 2024,06ud-Ext_Floor,m2,#DIV/0!,485
+r_values,r_values.gt_a,Gt-A,code_minumum,Code Minumum,Gt-A,kFh/y,100.215484807,490
+r_values,r_values.gt_a,Gt-A,improved,Improved,Gt-A,kFh/y,100.872573833,490
+r_values,r_values.gt_a,Gt-A,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Gt-A,kFh/y,100.370517091,490
+r_values,r_values.gt_a,Gt-A,r_52_walls,+R-52 Walls,Gt-A,kFh/y,100.126158697,490
+r_values,r_values.gt_a,Gt-A,r_80_roof,+R-80 Roof,Gt-A,kFh/y,99.7415874637,490
+r_values,r_values.gt_a,Gt-A,phius_core_2024,Phius CORE 2024,Gt-A,kFh/y,95.3130180523,490
+r_values,r_values.gt_b,Gt-B,code_minumum,Code Minumum,Gt-B,kFh/y,50.7398126665,491
+r_values,r_values.gt_b,Gt-B,improved,Improved,Gt-B,kFh/y,65.8758482043,491
+r_values,r_values.gt_b,Gt-B,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Gt-B,kFh/y,66.093633711,491
+r_values,r_values.gt_b,Gt-B,r_52_walls,+R-52 Walls,Gt-B,kFh/y,66.4079302355,491
+r_values,r_values.gt_b,Gt-B,r_80_roof,+R-80 Roof,Gt-B,kFh/y,66.4698735521,491
+r_values,r_values.gt_b,Gt-B,phius_core_2024,Phius CORE 2024,Gt-B,kFh/y,56.3175684903,491
+certification_compliant,certification_compliant.certification_compliant_2,Certification Compliant?,code_minumum,Code Minumum,Certification Compliant?,,-,493
+certification_compliant,certification_compliant.certification_compliant_2,Certification Compliant?,improved,Improved,Certification Compliant?,,-,493
+certification_compliant,certification_compliant.certification_compliant_2,Certification Compliant?,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Certification Compliant?,,-,493
+certification_compliant,certification_compliant.certification_compliant_2,Certification Compliant?,r_52_walls,+R-52 Walls,Certification Compliant?,,-,493
+certification_compliant,certification_compliant.certification_compliant_2,Certification Compliant?,r_80_roof,+R-80 Roof,Certification Compliant?,,-,493
+certification_compliant,certification_compliant.certification_compliant_2,Certification Compliant?,phius_core_2024,Phius CORE 2024,Certification Compliant?,,-,493
+peak_loads,peak_loads.peak_heat_load,Peak Heat Load,code_minumum,Code Minumum,Peak Heat Load,Btuh,52913.4491525,497
+peak_loads,peak_loads.peak_heat_load,Peak Heat Load,improved,Improved,Peak Heat Load,Btuh,30992.6211881,497
+peak_loads,peak_loads.peak_heat_load,Peak Heat Load,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Peak Heat Load,Btuh,28293.1444805,497
+peak_loads,peak_loads.peak_heat_load,Peak Heat Load,r_52_walls,+R-52 Walls,Peak Heat Load,Btuh,25514.511737,497
+peak_loads,peak_loads.peak_heat_load,Peak Heat Load,r_80_roof,+R-80 Roof,Peak Heat Load,Btuh,24744.2530316,497
+peak_loads,peak_loads.peak_heat_load,Peak Heat Load,phius_core_2024,Phius CORE 2024,Peak Heat Load,Btuh,15406.233772,497
+peak_loads,peak_loads.peak_sensible_cooling_load,Peak Sensible Cooling Load,code_minumum,Code Minumum,Peak Sensible Cooling Load,Btuh,9929.77795728,498
+peak_loads,peak_loads.peak_sensible_cooling_load,Peak Sensible Cooling Load,improved,Improved,Peak Sensible Cooling Load,Btuh,7786.33425992,498
+peak_loads,peak_loads.peak_sensible_cooling_load,Peak Sensible Cooling Load,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Peak Sensible Cooling Load,Btuh,7359.65774267,498
+peak_loads,peak_loads.peak_sensible_cooling_load,Peak Sensible Cooling Load,r_52_walls,+R-52 Walls,Peak Sensible Cooling Load,Btuh,7027.71631287,498
+peak_loads,peak_loads.peak_sensible_cooling_load,Peak Sensible Cooling Load,r_80_roof,+R-80 Roof,Peak Sensible Cooling Load,Btuh,6850.65620201,498
+peak_loads,peak_loads.peak_sensible_cooling_load,Peak Sensible Cooling Load,phius_core_2024,Phius CORE 2024,Peak Sensible Cooling Load,Btuh,6865.07115248,498
+peak_loads,peak_loads.peak_latent_cooling_load,Peak Latent Cooling Load,code_minumum,Code Minumum,Peak Latent Cooling Load,Btuh,0,499
+peak_loads,peak_loads.peak_latent_cooling_load,Peak Latent Cooling Load,improved,Improved,Peak Latent Cooling Load,Btuh,0,499
+peak_loads,peak_loads.peak_latent_cooling_load,Peak Latent Cooling Load,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Peak Latent Cooling Load,Btuh,0,499
+peak_loads,peak_loads.peak_latent_cooling_load,Peak Latent Cooling Load,r_52_walls,+R-52 Walls,Peak Latent Cooling Load,Btuh,0,499
+peak_loads,peak_loads.peak_latent_cooling_load,Peak Latent Cooling Load,r_80_roof,+R-80 Roof,Peak Latent Cooling Load,Btuh,0,499
+peak_loads,peak_loads.peak_latent_cooling_load,Peak Latent Cooling Load,phius_core_2024,Phius CORE 2024,Peak Latent Cooling Load,Btuh,0,499
+co2e,co2e.heating,Heating,code_minumum,Code Minumum,Heating,tonsCO2e,8.13554603757,502
+co2e,co2e.heating,Heating,improved,Improved,Heating,tonsCO2e,4.23970181878,502
+co2e,co2e.heating,Heating,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Heating,tonsCO2e,3.78411224767,502
+co2e,co2e.heating,Heating,r_52_walls,+R-52 Walls,Heating,tonsCO2e,3.32137400493,502
+co2e,co2e.heating,Heating,r_80_roof,+R-80 Roof,Heating,tonsCO2e,3.19110179836,502
+co2e,co2e.heating,Heating,phius_core_2024,Phius CORE 2024,Heating,tonsCO2e,1.85685680216,502
+co2e,co2e.cooling,Cooling,code_minumum,Code Minumum,Cooling,tonsCO2e,0.309938819575,503
+co2e,co2e.cooling,Cooling,improved,Improved,Cooling,tonsCO2e,0.237030840369,503
+co2e,co2e.cooling,Cooling,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Cooling,tonsCO2e,0.227558387662,503
+co2e,co2e.cooling,Cooling,r_52_walls,+R-52 Walls,Cooling,tonsCO2e,0.22077559259,503
+co2e,co2e.cooling,Cooling,r_80_roof,+R-80 Roof,Cooling,tonsCO2e,0.216705008597,503
+co2e,co2e.cooling,Cooling,phius_core_2024,Phius CORE 2024,Cooling,tonsCO2e,0.218439881971,503
+co2e,co2e.dhw,DHW,code_minumum,Code Minumum,DHW,tonsCO2e,0.608203858601,504
+co2e,co2e.dhw,DHW,improved,Improved,DHW,tonsCO2e,0.592690721551,504
+co2e,co2e.dhw,DHW,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,DHW,tonsCO2e,0.58986369258,504
+co2e,co2e.dhw,DHW,r_52_walls,+R-52 Walls,DHW,tonsCO2e,0.586499762541,504
+co2e,co2e.dhw,DHW,r_80_roof,+R-80 Roof,DHW,tonsCO2e,0.585375839838,504
+co2e,co2e.dhw,DHW,phius_core_2024,Phius CORE 2024,DHW,tonsCO2e,0.591031224554,504
+co2e,co2e.dishwashing,Dishwashing,code_minumum,Code Minumum,Dishwashing,tonsCO2e,0.0952334428122,505
+co2e,co2e.dishwashing,Dishwashing,improved,Improved,Dishwashing,tonsCO2e,0.0952334428122,505
+co2e,co2e.dishwashing,Dishwashing,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Dishwashing,tonsCO2e,0.0952334428122,505
+co2e,co2e.dishwashing,Dishwashing,r_52_walls,+R-52 Walls,Dishwashing,tonsCO2e,0.0952334428122,505
+co2e,co2e.dishwashing,Dishwashing,r_80_roof,+R-80 Roof,Dishwashing,tonsCO2e,0.0952334428122,505
+co2e,co2e.dishwashing,Dishwashing,phius_core_2024,Phius CORE 2024,Dishwashing,tonsCO2e,0.0952334428122,505
+co2e,co2e.clothes_washing,Clothes Washing,code_minumum,Code Minumum,Clothes Washing,tonsCO2e,0.12477305617,506
+co2e,co2e.clothes_washing,Clothes Washing,improved,Improved,Clothes Washing,tonsCO2e,0.12477305617,506
+co2e,co2e.clothes_washing,Clothes Washing,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Clothes Washing,tonsCO2e,0.12477305617,506
+co2e,co2e.clothes_washing,Clothes Washing,r_52_walls,+R-52 Walls,Clothes Washing,tonsCO2e,0.12477305617,506
+co2e,co2e.clothes_washing,Clothes Washing,r_80_roof,+R-80 Roof,Clothes Washing,tonsCO2e,0.12477305617,506
+co2e,co2e.clothes_washing,Clothes Washing,phius_core_2024,Phius CORE 2024,Clothes Washing,tonsCO2e,0.12477305617,506
+co2e,co2e.clothes_drying,Clothes Drying,code_minumum,Code Minumum,Clothes Drying,tonsCO2e,0.00356275070185,507
+co2e,co2e.clothes_drying,Clothes Drying,improved,Improved,Clothes Drying,tonsCO2e,0.00356275070185,507
+co2e,co2e.clothes_drying,Clothes Drying,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Clothes Drying,tonsCO2e,0.00356275070185,507
+co2e,co2e.clothes_drying,Clothes Drying,r_52_walls,+R-52 Walls,Clothes Drying,tonsCO2e,0.00356275070185,507
+co2e,co2e.clothes_drying,Clothes Drying,r_80_roof,+R-80 Roof,Clothes Drying,tonsCO2e,0.00356275070185,507
+co2e,co2e.clothes_drying,Clothes Drying,phius_core_2024,Phius CORE 2024,Clothes Drying,tonsCO2e,0.00356275070185,507
+co2e,co2e.refrigerator,Refrigerator,code_minumum,Code Minumum,Refrigerator,tonsCO2e,0.2101338288,508
+co2e,co2e.refrigerator,Refrigerator,improved,Improved,Refrigerator,tonsCO2e,0.2101338288,508
+co2e,co2e.refrigerator,Refrigerator,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Refrigerator,tonsCO2e,0.2101338288,508
+co2e,co2e.refrigerator,Refrigerator,r_52_walls,+R-52 Walls,Refrigerator,tonsCO2e,0.2101338288,508
+co2e,co2e.refrigerator,Refrigerator,r_80_roof,+R-80 Roof,Refrigerator,tonsCO2e,0.2101338288,508
+co2e,co2e.refrigerator,Refrigerator,phius_core_2024,Phius CORE 2024,Refrigerator,tonsCO2e,0.2101338288,508
+co2e,co2e.cooking,Cooking,code_minumum,Code Minumum,Cooking,tonsCO2e,0,509
+co2e,co2e.cooking,Cooking,improved,Improved,Cooking,tonsCO2e,0,509
+co2e,co2e.cooking,Cooking,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Cooking,tonsCO2e,0,509
+co2e,co2e.cooking,Cooking,r_52_walls,+R-52 Walls,Cooking,tonsCO2e,0,509
+co2e,co2e.cooking,Cooking,r_80_roof,+R-80 Roof,Cooking,tonsCO2e,0,509
+co2e,co2e.cooking,Cooking,phius_core_2024,Phius CORE 2024,Cooking,tonsCO2e,0,509
+co2e,co2e.phi_lighting,PHI Lighting,code_minumum,Code Minumum,PHI Lighting,tonsCO2e,0,510
+co2e,co2e.phi_lighting,PHI Lighting,improved,Improved,PHI Lighting,tonsCO2e,0,510
+co2e,co2e.phi_lighting,PHI Lighting,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,PHI Lighting,tonsCO2e,0,510
+co2e,co2e.phi_lighting,PHI Lighting,r_52_walls,+R-52 Walls,PHI Lighting,tonsCO2e,0,510
+co2e,co2e.phi_lighting,PHI Lighting,r_80_roof,+R-80 Roof,PHI Lighting,tonsCO2e,0,510
+co2e,co2e.phi_lighting,PHI Lighting,phius_core_2024,Phius CORE 2024,PHI Lighting,tonsCO2e,0,510
+co2e,co2e.phi_consumer_elec,PHI Consumer Elec.,code_minumum,Code Minumum,PHI Consumer Elec.,tonsCO2e,0.01741520088,511
+co2e,co2e.phi_consumer_elec,PHI Consumer Elec.,improved,Improved,PHI Consumer Elec.,tonsCO2e,0.01741520088,511
+co2e,co2e.phi_consumer_elec,PHI Consumer Elec.,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,PHI Consumer Elec.,tonsCO2e,0.01741520088,511
+co2e,co2e.phi_consumer_elec,PHI Consumer Elec.,r_52_walls,+R-52 Walls,PHI Consumer Elec.,tonsCO2e,0.01741520088,511
+co2e,co2e.phi_consumer_elec,PHI Consumer Elec.,r_80_roof,+R-80 Roof,PHI Consumer Elec.,tonsCO2e,0.01741520088,511
+co2e,co2e.phi_consumer_elec,PHI Consumer Elec.,phius_core_2024,Phius CORE 2024,PHI Consumer Elec.,tonsCO2e,0.01741520088,511
+co2e,co2e.phi_small_appliances,PHI Small Appliances,code_minumum,Code Minumum,PHI Small Appliances,tonsCO2e,0,512
+co2e,co2e.phi_small_appliances,PHI Small Appliances,improved,Improved,PHI Small Appliances,tonsCO2e,0,512
+co2e,co2e.phi_small_appliances,PHI Small Appliances,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,PHI Small Appliances,tonsCO2e,0,512
+co2e,co2e.phi_small_appliances,PHI Small Appliances,r_52_walls,+R-52 Walls,PHI Small Appliances,tonsCO2e,0,512
+co2e,co2e.phi_small_appliances,PHI Small Appliances,r_80_roof,+R-80 Roof,PHI Small Appliances,tonsCO2e,0,512
+co2e,co2e.phi_small_appliances,PHI Small Appliances,phius_core_2024,Phius CORE 2024,PHI Small Appliances,tonsCO2e,0,512
+co2e,co2e.phius_int_lighting,Phius Int. Lighting,code_minumum,Code Minumum,Phius Int. Lighting,tonsCO2e,0.253660449251,513
+co2e,co2e.phius_int_lighting,Phius Int. Lighting,improved,Improved,Phius Int. Lighting,tonsCO2e,0.253660449251,513
+co2e,co2e.phius_int_lighting,Phius Int. Lighting,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Phius Int. Lighting,tonsCO2e,0.253660449251,513
+co2e,co2e.phius_int_lighting,Phius Int. Lighting,r_52_walls,+R-52 Walls,Phius Int. Lighting,tonsCO2e,0.253660449251,513
+co2e,co2e.phius_int_lighting,Phius Int. Lighting,r_80_roof,+R-80 Roof,Phius Int. Lighting,tonsCO2e,0.253660449251,513
+co2e,co2e.phius_int_lighting,Phius Int. Lighting,phius_core_2024,Phius CORE 2024,Phius Int. Lighting,tonsCO2e,0.253660449251,513
+co2e,co2e.phius_ext_lighting,Phius Ext. Lighting,code_minumum,Code Minumum,Phius Ext. Lighting,tonsCO2e,0.013642479898,514
+co2e,co2e.phius_ext_lighting,Phius Ext. Lighting,improved,Improved,Phius Ext. Lighting,tonsCO2e,0.013642479898,514
+co2e,co2e.phius_ext_lighting,Phius Ext. Lighting,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Phius Ext. Lighting,tonsCO2e,0.013642479898,514
+co2e,co2e.phius_ext_lighting,Phius Ext. Lighting,r_52_walls,+R-52 Walls,Phius Ext. Lighting,tonsCO2e,0.013642479898,514
+co2e,co2e.phius_ext_lighting,Phius Ext. Lighting,r_80_roof,+R-80 Roof,Phius Ext. Lighting,tonsCO2e,0.013642479898,514
+co2e,co2e.phius_ext_lighting,Phius Ext. Lighting,phius_core_2024,Phius CORE 2024,Phius Ext. Lighting,tonsCO2e,0.013642479898,514
+co2e,co2e.phius_mel,Phius MEL,code_minumum,Code Minumum,Phius MEL,tonsCO2e,0.732721730687,515
+co2e,co2e.phius_mel,Phius MEL,improved,Improved,Phius MEL,tonsCO2e,0.732721730687,515
+co2e,co2e.phius_mel,Phius MEL,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Phius MEL,tonsCO2e,0.732721730687,515
+co2e,co2e.phius_mel,Phius MEL,r_52_walls,+R-52 Walls,Phius MEL,tonsCO2e,0.732721730687,515
+co2e,co2e.phius_mel,Phius MEL,r_80_roof,+R-80 Roof,Phius MEL,tonsCO2e,0.732721730687,515
+co2e,co2e.phius_mel,Phius MEL,phius_core_2024,Phius CORE 2024,Phius MEL,tonsCO2e,0.732721730687,515
+co2e,co2e.aux_elec,Aux Elec,code_minumum,Code Minumum,Aux Elec,tonsCO2e,2.95101936965,516
+co2e,co2e.aux_elec,Aux Elec,improved,Improved,Aux Elec,tonsCO2e,0.342865369552,516
+co2e,co2e.aux_elec,Aux Elec,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Aux Elec,tonsCO2e,0.342865369552,516
+co2e,co2e.aux_elec,Aux Elec,r_52_walls,+R-52 Walls,Aux Elec,tonsCO2e,0.342865369552,516
+co2e,co2e.aux_elec,Aux Elec,r_80_roof,+R-80 Roof,Aux Elec,tonsCO2e,0.342865369552,516
+co2e,co2e.aux_elec,Aux Elec,phius_core_2024,Phius CORE 2024,Aux Elec,tonsCO2e,0.105660114849,516
+co2e,co2e.ipcc_limit,IPCC Limit,code_minumum,Code Minumum,IPCC Limit,tonsCO2e,5,517
+co2e,co2e.ipcc_limit,IPCC Limit,improved,Improved,IPCC Limit,tonsCO2e,5,517
+co2e,co2e.ipcc_limit,IPCC Limit,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,IPCC Limit,tonsCO2e,5,517
+co2e,co2e.ipcc_limit,IPCC Limit,r_52_walls,+R-52 Walls,IPCC Limit,tonsCO2e,5,517
+co2e,co2e.ipcc_limit,IPCC Limit,r_80_roof,+R-80 Roof,IPCC Limit,tonsCO2e,5,517
+co2e,co2e.ipcc_limit,IPCC Limit,phius_core_2024,Phius CORE 2024,IPCC Limit,tonsCO2e,5,517
+primary_energy_renewable,primary_energy_renewable.heating,Heating,code_minumum,Code Minumum,Heating,kWh,52285.988346,520
+primary_energy_renewable,primary_energy_renewable.heating,Heating,improved,Improved,Heating,kWh,27247.9559286,520
+primary_energy_renewable,primary_energy_renewable.heating,Heating,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Heating,kWh,24319.9470531,520
+primary_energy_renewable,primary_energy_renewable.heating,Heating,r_52_walls,+R-52 Walls,Heating,kWh,21345.9946895,520
+primary_energy_renewable,primary_energy_renewable.heating,Heating,r_80_roof,+R-80 Roof,Heating,kWh,20508.7538894,520
+primary_energy_renewable,primary_energy_renewable.heating,Heating,phius_core_2024,Phius CORE 2024,Heating,kWh,11933.7525311,520
+primary_energy_renewable,primary_energy_renewable.cooling,Cooling,code_minumum,Code Minumum,Cooling,kWh,1453.57227075,521
+primary_energy_renewable,primary_energy_renewable.cooling,Cooling,improved,Improved,Cooling,kWh,1111.64344417,521
+primary_energy_renewable,primary_energy_renewable.cooling,Cooling,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Cooling,kWh,1067.21888771,521
+primary_energy_renewable,primary_energy_renewable.cooling,Cooling,r_52_walls,+R-52 Walls,Cooling,kWh,1035.40847154,521
+primary_energy_renewable,primary_energy_renewable.cooling,Cooling,r_80_roof,+R-80 Roof,Cooling,kWh,1016.31796837,521
+primary_energy_renewable,primary_energy_renewable.cooling,Cooling,phius_core_2024,Phius CORE 2024,Cooling,kWh,1024.45429616,521
+primary_energy_renewable,primary_energy_renewable.dhw,DHW,code_minumum,Code Minumum,DHW,kWh,2535.46315306,522
+primary_energy_renewable,primary_energy_renewable.dhw,DHW,improved,Improved,DHW,kWh,2470.7924233,522
+primary_energy_renewable,primary_energy_renewable.dhw,DHW,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,DHW,kWh,2459.00718438,522
+primary_energy_renewable,primary_energy_renewable.dhw,DHW,r_52_walls,+R-52 Walls,DHW,kWh,2444.98372737,522
+primary_energy_renewable,primary_energy_renewable.dhw,DHW,r_80_roof,+R-80 Roof,DHW,kWh,2440.29834999,522
+primary_energy_renewable,primary_energy_renewable.dhw,DHW,phius_core_2024,Phius CORE 2024,DHW,kWh,2463.87435886,522
+primary_energy_renewable,primary_energy_renewable.dishwashing,Dishwashing,code_minumum,Code Minumum,Dishwashing,kWh,397.0065,523
+primary_energy_renewable,primary_energy_renewable.dishwashing,Dishwashing,improved,Improved,Dishwashing,kWh,397.0065,523
+primary_energy_renewable,primary_energy_renewable.dishwashing,Dishwashing,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Dishwashing,kWh,397.0065,523
+primary_energy_renewable,primary_energy_renewable.dishwashing,Dishwashing,r_52_walls,+R-52 Walls,Dishwashing,kWh,397.0065,523
+primary_energy_renewable,primary_energy_renewable.dishwashing,Dishwashing,r_80_roof,+R-80 Roof,Dishwashing,kWh,397.0065,523
+primary_energy_renewable,primary_energy_renewable.dishwashing,Dishwashing,phius_core_2024,Phius CORE 2024,Dishwashing,kWh,397.0065,523
+primary_energy_renewable,primary_energy_renewable.clothes_washing,Clothes Washing,code_minumum,Code Minumum,Clothes Washing,kWh,520.15041,524
+primary_energy_renewable,primary_energy_renewable.clothes_washing,Clothes Washing,improved,Improved,Clothes Washing,kWh,520.15041,524
+primary_energy_renewable,primary_energy_renewable.clothes_washing,Clothes Washing,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Clothes Washing,kWh,520.15041,524
+primary_energy_renewable,primary_energy_renewable.clothes_washing,Clothes Washing,r_52_walls,+R-52 Walls,Clothes Washing,kWh,520.15041,524
+primary_energy_renewable,primary_energy_renewable.clothes_washing,Clothes Washing,r_80_roof,+R-80 Roof,Clothes Washing,kWh,520.15041,524
+primary_energy_renewable,primary_energy_renewable.clothes_washing,Clothes Washing,phius_core_2024,Phius CORE 2024,Clothes Washing,kWh,520.15041,524
+primary_energy_renewable,primary_energy_renewable.clothes_drying,Clothes Drying,code_minumum,Code Minumum,Clothes Drying,kWh,14.852295,525
+primary_energy_renewable,primary_energy_renewable.clothes_drying,Clothes Drying,improved,Improved,Clothes Drying,kWh,14.852295,525
+primary_energy_renewable,primary_energy_renewable.clothes_drying,Clothes Drying,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Clothes Drying,kWh,14.852295,525
+primary_energy_renewable,primary_energy_renewable.clothes_drying,Clothes Drying,r_52_walls,+R-52 Walls,Clothes Drying,kWh,14.852295,525
+primary_energy_renewable,primary_energy_renewable.clothes_drying,Clothes Drying,r_80_roof,+R-80 Roof,Clothes Drying,kWh,14.852295,525
+primary_energy_renewable,primary_energy_renewable.clothes_drying,Clothes Drying,phius_core_2024,Phius CORE 2024,Clothes Drying,kWh,14.852295,525
+primary_energy_renewable,primary_energy_renewable.refrigerator,Refrigerator,code_minumum,Code Minumum,Refrigerator,kWh,876,526
+primary_energy_renewable,primary_energy_renewable.refrigerator,Refrigerator,improved,Improved,Refrigerator,kWh,876,526
+primary_energy_renewable,primary_energy_renewable.refrigerator,Refrigerator,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Refrigerator,kWh,876,526
+primary_energy_renewable,primary_energy_renewable.refrigerator,Refrigerator,r_52_walls,+R-52 Walls,Refrigerator,kWh,876,526
+primary_energy_renewable,primary_energy_renewable.refrigerator,Refrigerator,r_80_roof,+R-80 Roof,Refrigerator,kWh,876,526
+primary_energy_renewable,primary_energy_renewable.refrigerator,Refrigerator,phius_core_2024,Phius CORE 2024,Refrigerator,kWh,876,526
+primary_energy_renewable,primary_energy_renewable.cooking,Cooking,code_minumum,Code Minumum,Cooking,kWh,0,527
+primary_energy_renewable,primary_energy_renewable.cooking,Cooking,improved,Improved,Cooking,kWh,0,527
+primary_energy_renewable,primary_energy_renewable.cooking,Cooking,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Cooking,kWh,0,527
+primary_energy_renewable,primary_energy_renewable.cooking,Cooking,r_52_walls,+R-52 Walls,Cooking,kWh,0,527
+primary_energy_renewable,primary_energy_renewable.cooking,Cooking,r_80_roof,+R-80 Roof,Cooking,kWh,0,527
+primary_energy_renewable,primary_energy_renewable.cooking,Cooking,phius_core_2024,Phius CORE 2024,Cooking,kWh,0,527
+primary_energy_renewable,primary_energy_renewable.phi_lighting,PHI Lighting,code_minumum,Code Minumum,PHI Lighting,kWh,0,528
+primary_energy_renewable,primary_energy_renewable.phi_lighting,PHI Lighting,improved,Improved,PHI Lighting,kWh,0,528
+primary_energy_renewable,primary_energy_renewable.phi_lighting,PHI Lighting,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,PHI Lighting,kWh,0,528
+primary_energy_renewable,primary_energy_renewable.phi_lighting,PHI Lighting,r_52_walls,+R-52 Walls,PHI Lighting,kWh,0,528
+primary_energy_renewable,primary_energy_renewable.phi_lighting,PHI Lighting,r_80_roof,+R-80 Roof,PHI Lighting,kWh,0,528
+primary_energy_renewable,primary_energy_renewable.phi_lighting,PHI Lighting,phius_core_2024,Phius CORE 2024,PHI Lighting,kWh,0,528
+primary_energy_renewable,primary_energy_renewable.phi_consumer_elec,PHI Consumer Elec.,code_minumum,Code Minumum,PHI Consumer Elec.,kWh,72.6,529
+primary_energy_renewable,primary_energy_renewable.phi_consumer_elec,PHI Consumer Elec.,improved,Improved,PHI Consumer Elec.,kWh,72.6,529
+primary_energy_renewable,primary_energy_renewable.phi_consumer_elec,PHI Consumer Elec.,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,PHI Consumer Elec.,kWh,72.6,529
+primary_energy_renewable,primary_energy_renewable.phi_consumer_elec,PHI Consumer Elec.,r_52_walls,+R-52 Walls,PHI Consumer Elec.,kWh,72.6,529
+primary_energy_renewable,primary_energy_renewable.phi_consumer_elec,PHI Consumer Elec.,r_80_roof,+R-80 Roof,PHI Consumer Elec.,kWh,72.6,529
+primary_energy_renewable,primary_energy_renewable.phi_consumer_elec,PHI Consumer Elec.,phius_core_2024,Phius CORE 2024,PHI Consumer Elec.,kWh,72.6,529
+primary_energy_renewable,primary_energy_renewable.phi_small_appliances,PHI Small Appliances,code_minumum,Code Minumum,PHI Small Appliances,kWh,0,530
+primary_energy_renewable,primary_energy_renewable.phi_small_appliances,PHI Small Appliances,improved,Improved,PHI Small Appliances,kWh,0,530
+primary_energy_renewable,primary_energy_renewable.phi_small_appliances,PHI Small Appliances,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,PHI Small Appliances,kWh,0,530
+primary_energy_renewable,primary_energy_renewable.phi_small_appliances,PHI Small Appliances,r_52_walls,+R-52 Walls,PHI Small Appliances,kWh,0,530
+primary_energy_renewable,primary_energy_renewable.phi_small_appliances,PHI Small Appliances,r_80_roof,+R-80 Roof,PHI Small Appliances,kWh,0,530
+primary_energy_renewable,primary_energy_renewable.phi_small_appliances,PHI Small Appliances,phius_core_2024,Phius CORE 2024,PHI Small Appliances,kWh,0,530
+primary_energy_renewable,primary_energy_renewable.phius_int_lighting,Phius Int. Lighting,code_minumum,Code Minumum,Phius Int. Lighting,kWh,1057.45255209,531
+primary_energy_renewable,primary_energy_renewable.phius_int_lighting,Phius Int. Lighting,improved,Improved,Phius Int. Lighting,kWh,1057.45255209,531
+primary_energy_renewable,primary_energy_renewable.phius_int_lighting,Phius Int. Lighting,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Phius Int. Lighting,kWh,1057.45255209,531
+primary_energy_renewable,primary_energy_renewable.phius_int_lighting,Phius Int. Lighting,r_52_walls,+R-52 Walls,Phius Int. Lighting,kWh,1057.45255209,531
+primary_energy_renewable,primary_energy_renewable.phius_int_lighting,Phius Int. Lighting,r_80_roof,+R-80 Roof,Phius Int. Lighting,kWh,1057.45255209,531
+primary_energy_renewable,primary_energy_renewable.phius_int_lighting,Phius Int. Lighting,phius_core_2024,Phius CORE 2024,Phius Int. Lighting,kWh,1057.45255209,531
+primary_energy_renewable,primary_energy_renewable.phius_ext_lighting,Phius Ext. Lighting,code_minumum,Code Minumum,Phius Ext. Lighting,kWh,56.872386797,532
+primary_energy_renewable,primary_energy_renewable.phius_ext_lighting,Phius Ext. Lighting,improved,Improved,Phius Ext. Lighting,kWh,56.872386797,532
+primary_energy_renewable,primary_energy_renewable.phius_ext_lighting,Phius Ext. Lighting,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Phius Ext. Lighting,kWh,56.872386797,532
+primary_energy_renewable,primary_energy_renewable.phius_ext_lighting,Phius Ext. Lighting,r_52_walls,+R-52 Walls,Phius Ext. Lighting,kWh,56.872386797,532
+primary_energy_renewable,primary_energy_renewable.phius_ext_lighting,Phius Ext. Lighting,r_80_roof,+R-80 Roof,Phius Ext. Lighting,kWh,56.872386797,532
+primary_energy_renewable,primary_energy_renewable.phius_ext_lighting,Phius Ext. Lighting,phius_core_2024,Phius CORE 2024,Phius Ext. Lighting,kWh,56.872386797,532
+primary_energy_renewable,primary_energy_renewable.phius_mel,Phius MEL,code_minumum,Code Minumum,Phius MEL,kWh,3054.54975882,533
+primary_energy_renewable,primary_energy_renewable.phius_mel,Phius MEL,improved,Improved,Phius MEL,kWh,3054.54975882,533
+primary_energy_renewable,primary_energy_renewable.phius_mel,Phius MEL,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Phius MEL,kWh,3054.54975882,533
+primary_energy_renewable,primary_energy_renewable.phius_mel,Phius MEL,r_52_walls,+R-52 Walls,Phius MEL,kWh,3054.54975882,533
+primary_energy_renewable,primary_energy_renewable.phius_mel,Phius MEL,r_80_roof,+R-80 Roof,Phius MEL,kWh,3054.54975882,533
+primary_energy_renewable,primary_energy_renewable.phius_mel,Phius MEL,phius_core_2024,Phius CORE 2024,Phius MEL,kWh,3054.54975882,533
+primary_energy_renewable,primary_energy_renewable.aux_elec,Aux Elec,code_minumum,Code Minumum,Aux Elec,kWh,6151.06330707,534
+primary_energy_renewable,primary_energy_renewable.aux_elec,Aux Elec,improved,Improved,Aux Elec,kWh,714.663758431,534
+primary_energy_renewable,primary_energy_renewable.aux_elec,Aux Elec,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Aux Elec,kWh,714.663758431,534
+primary_energy_renewable,primary_energy_renewable.aux_elec,Aux Elec,r_52_walls,+R-52 Walls,Aux Elec,kWh,714.663758431,534
+primary_energy_renewable,primary_energy_renewable.aux_elec,Aux Elec,r_80_roof,+R-80 Roof,Aux Elec,kWh,714.663758431,534
+primary_energy_renewable,primary_energy_renewable.aux_elec,Aux Elec,phius_core_2024,Phius CORE 2024,Aux Elec,kWh,220.236458681,534
+primary_energy_renewable,primary_energy_renewable.solar_pv,Solar PV,code_minumum,Code Minumum,Solar PV,kWh,0,535
+primary_energy_renewable,primary_energy_renewable.solar_pv,Solar PV,improved,Improved,Solar PV,kWh,0,535
+primary_energy_renewable,primary_energy_renewable.solar_pv,Solar PV,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Solar PV,kWh,0,535
+primary_energy_renewable,primary_energy_renewable.solar_pv,Solar PV,r_52_walls,+R-52 Walls,Solar PV,kWh,0,535
+primary_energy_renewable,primary_energy_renewable.solar_pv,Solar PV,r_80_roof,+R-80 Roof,Solar PV,kWh,0,535
+primary_energy_renewable,primary_energy_renewable.solar_pv,Solar PV,phius_core_2024,Phius CORE 2024,Solar PV,kWh,0,535
+report_inputs,report_inputs.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),code_minumum,Code Minumum,Envelope Air Leakage Rate (q50),cfm/ft2,0.110286064046,345
+report_inputs,report_inputs.cold_air_duct_length_ea,Cold Air Duct Length (ea),code_minumum,Code Minumum,Cold Air Duct Length (ea),ft,16.404199475,354
+report_inputs,report_inputs.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,code_minumum,Code Minumum,Cold Air Duct Insulation Thickness,inches,0.984251975,355
+report_inputs,report_inputs.heat_demand_annual,Heat Demand,code_minumum,Code Minumum,Heat Demand,kWh/yr,39892.8883443,459
+report_inputs,report_inputs.cooling_demand_annual,Total Cooling Demand,code_minumum,Code Minumum,Cooling Demand,kWh/yr,1614.44629809,462
+report_inputs,report_inputs.total_primary_energy,Total Primary Energy,code_minumum,Code Minumum,Total Primary Energy,kWh/yr,74914.9654312,
+report_inputs,report_inputs.total_site_energy,Total Site Energy,code_minumum,Code Minumum,Total Site Energy,kWh/yr,41619.4252396,
+report_inputs,report_inputs.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),improved,Improved,Envelope Air Leakage Rate (q50),cfm/ft2,0.0367620213485,345
+report_inputs,report_inputs.cold_air_duct_length_ea,Cold Air Duct Length (ea),improved,Improved,Cold Air Duct Length (ea),ft,16.404199475,354
+report_inputs,report_inputs.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,improved,Improved,Cold Air Duct Insulation Thickness,inches,0.984251975,355
+report_inputs,report_inputs.heat_demand_annual,Heat Demand,improved,Improved,Heat Demand,kWh/yr,19961.0445664,459
+report_inputs,report_inputs.cooling_demand_annual,Total Cooling Demand,improved,Improved,Cooling Demand,kWh/yr,935.032931367,462
+report_inputs,report_inputs.total_primary_energy,Total Primary Energy,improved,Improved,Total Primary Energy,kWh/yr,41846.1260729,
+report_inputs,report_inputs.total_site_energy,Total Site Energy,improved,Improved,Total Site Energy,kWh/yr,23247.8478183,
+report_inputs,report_inputs.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Envelope Air Leakage Rate (q50),cfm/ft2,0.0367620213485,345
+report_inputs,report_inputs.cold_air_duct_length_ea,Cold Air Duct Length (ea),r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Cold Air Duct Length (ea),ft,16.404199475,354
+report_inputs,report_inputs.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Cold Air Duct Insulation Thickness,inches,0.984251975,355
+report_inputs,report_inputs.heat_demand_annual,Heat Demand,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Heat Demand,kWh/yr,17655.9407244,459
+report_inputs,report_inputs.cooling_demand_annual,Total Cooling Demand,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Cooling Demand,kWh/yr,867.042464151,462
+report_inputs,report_inputs.total_primary_energy,Total Primary Energy,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Total Primary Energy,kWh/yr,38920.341972,
+report_inputs,report_inputs.total_site_energy,Total Site Energy,r_35_walls_r_59_roof,R-35 Walls / R-59 Roof,Total Site Energy,kWh/yr,21622.4122067,
+report_inputs,report_inputs.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),r_52_walls,+R-52 Walls,Envelope Air Leakage Rate (q50),cfm/ft2,0.0367620213485,345
+report_inputs,report_inputs.cold_air_duct_length_ea,Cold Air Duct Length (ea),r_52_walls,+R-52 Walls,Cold Air Duct Length (ea),ft,16.404199475,354
+report_inputs,report_inputs.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,r_52_walls,+R-52 Walls,Cold Air Duct Insulation Thickness,inches,0.984251975,355
+report_inputs,report_inputs.heat_demand_annual,Heat Demand,r_52_walls,+R-52 Walls,Heat Demand,kWh/yr,15314.1039198,459
+report_inputs,report_inputs.cooling_demand_annual,Total Cooling Demand,r_52_walls,+R-52 Walls,Cooling Demand,kWh/yr,827.481315863,462
+report_inputs,report_inputs.total_primary_energy,Total Primary Energy,r_52_walls,+R-52 Walls,Total Primary Energy,kWh/yr,35963.3176256,
+report_inputs,report_inputs.total_site_energy,Total Site Energy,r_52_walls,+R-52 Walls,Total Site Energy,kWh/yr,19979.6209032,
+report_inputs,report_inputs.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),r_80_roof,+R-80 Roof,Envelope Air Leakage Rate (q50),cfm/ft2,0.0367620213485,345
+report_inputs,report_inputs.cold_air_duct_length_ea,Cold Air Duct Length (ea),r_80_roof,+R-80 Roof,Cold Air Duct Length (ea),ft,16.404199475,354
+report_inputs,report_inputs.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,r_80_roof,+R-80 Roof,Cold Air Duct Insulation Thickness,inches,0.984251975,355
+report_inputs,report_inputs.heat_demand_annual,Heat Demand,r_80_roof,+R-80 Roof,Heat Demand,kWh/yr,14654.8215945,459
+report_inputs,report_inputs.cooling_demand_annual,Total Cooling Demand,r_80_roof,+R-80 Roof,Cooling Demand,kWh/yr,796.094591921,462
+report_inputs,report_inputs.total_primary_energy,Total Primary Energy,r_80_roof,+R-80 Roof,Total Primary Energy,kWh/yr,35116.2228849,
+report_inputs,report_inputs.total_site_energy,Total Site Energy,r_80_roof,+R-80 Roof,Total Site Energy,kWh/yr,19509.0127139,
+report_inputs,report_inputs.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),phius_core_2024,Phius CORE 2024,Envelope Air Leakage Rate (q50),cfm/ft2,0.0220572128091,345
+report_inputs,report_inputs.cold_air_duct_length_ea,Cold Air Duct Length (ea),phius_core_2024,Phius CORE 2024,Cold Air Duct Length (ea),ft,8.2020997375,354
+report_inputs,report_inputs.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,phius_core_2024,Phius CORE 2024,Cold Air Duct Insulation Thickness,inches,2.047244108,355
+report_inputs,report_inputs.heat_demand_annual,Heat Demand,phius_core_2024,Phius CORE 2024,Heat Demand,kWh/yr,7591.94342621,459
+report_inputs,report_inputs.cooling_demand_annual,Total Cooling Demand,phius_core_2024,Phius CORE 2024,Cooling Demand,kWh/yr,887.934868361,462
+report_inputs,report_inputs.total_primary_energy,Total Primary Energy,phius_core_2024,Phius CORE 2024,Total Primary Energy,kWh/yr,26077.5498208,
+report_inputs,report_inputs.total_site_energy,Total Site Energy,phius_core_2024,Phius CORE 2024,Total Site Energy,kWh/yr,14487.5276782,

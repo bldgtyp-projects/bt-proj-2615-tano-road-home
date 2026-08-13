@@ -7,20 +7,20 @@ phase: Design Analysis
 report_date: '2026-08-04'
 prepared_by: bldgtyp, llc
 contact_email: ed@bldgtyp.com
-target_standard: TBD
-certification_program: TBD
-certification_path: TBD
-recommended_variant_id: null
+target_standard: Phius CORE 2024
+certification_program: Phius CORE 2024
+certification_path: Phius CORE 2024
+recommended_variant_id: phius_core_2024
 building:
-  address: TBD
-  city: TBD
-  state: TBD
-  climate_zone: TBD
-  building_type: TBD
-  total_num_occupants: null
+  address: 90 Tano Rd
+  city: Santa Fe
+  state: NM
+  climate_zone: ASHRAE 5B
+  building_type: single-family residential
+  total_num_occupants: '5'
 source_files:
-  phpp_path: ../07_PHPP/2615-Tano-Rd-260804.xlsx
-  cad_files_received_date: null
+  phpp_path: ../07_PHPP/2615-Tano-Rd-260805.xlsx
+  cad_files_received_date: July 31, 2026 
   data_dir: data
   assets_dir: public/assets
 publishing:
@@ -29,10 +29,13 @@ publishing:
   access:
     mode: public
     allowed_emails: []
+custom_pages:
+- slug: resilience
+  label: Resilience
 narrative:
   certification:
-    target: null
-    ph_ach_limit: null
+    target: Phius CORE 2024
+    ph_ach_limit: '1.0'
     phi_lcd_limit: null
     enph_hd_limit: null
     enph_per_limit: null
@@ -40,45 +43,53 @@ narrative:
     enph_ag_ext_limit: null
     enph_ag_int_limit: null
     enph_uw_limit: null
-    phius_hd_limit: null
-    phius_cd_limit: null
-    phius_hl_limit: null
-    phius_cl_limit: null
-    phius_nse_limit: null
-    phius_cfm50_limit: null
+    phius_hd_limit: '9.2'
+    phius_cd_limit: '8.4'
+    phius_hl_limit: '5.7'
+    phius_cl_limit: '3.1'
+    phius_nse_limit: '5,175'
+    phius_cfm50_limit: '0.06'
   climate:
-    weather_station_name: null
-    weather_station_url: null
-    state_name: null
-    state_name_abbreviation: null
-    ashrae_location_name: null
-    ashrae_design_temps: null
-    ashrae_winter_design_temp_F: null
-    ashrae_winter_design_temp_C: null
+    weather_station_name: 'US0141a-Santa Fe :: 723656 :: PHPP'
+    weather_station_url: https://energyplus-weather.s3.amazonaws.com/north_and_central_america_wmo_region_4/USA/NM/USA_NM_Santa.Fe.County.Muni.AP.723656_TMY3/USA_NM_Santa.Fe.County.Muni.AP.723656_TMY3.zip
+    state_name: New Mexico
+    state_name_abbreviation: NM
+    ashrae_location_name: Zone 5(B)
+    ashrae_design_temps: "10.2\xB0F (-12.1\xB0C)"
+    ashrae_winter_design_temp_F: '10.2'
+    ashrae_winter_design_temp_C: '-12.1'
   energy_code:
-    name: null
-    zone: null
-    link: null
-    code_base_url: null
-    code_airtightness_url: null
-    u_val_link: null
-    ach_link: null
-    ach_limit: null
-    window_min_u_value: null
+    name: 2021 New Mexico Residential Energy Conservation Code
+    zone: Zone 5(B)
+    link: https://www.srca.nm.gov/parts/title14/14.007.0006.html
+    code_base_url: https://up.codes/viewer/new_mexico/iecc-2021/chapter/RE_4/re-residential-energy-efficiency
+    code_airtightness_url: https://up.codes/viewer/new_mexico/iecc-2021/chapter/RE_4/re-residential-energy-efficiency#R402.4.1.3
+    u_val_link: https://up.codes/viewer/new_mexico/iecc-2021/chapter/RE_4/re-residential-energy-efficiency#R402.1.2
+    ach_link: https://up.codes/viewer/new_mexico/iecc-2021/chapter/RE_4/re-residential-energy-efficiency#R402.4.1.3
+    ach_limit: '3.0'
+    window_min_u_value: '0.32'
   co2:
-    subregion_name: null
-    epa_subgrid_name: null
-    occupancy: null
-    target_tons: null
-    taget_co2_per_person: null
+    subregion_name: WECC Southwest eGRID (2023)
+    epa_subgrid_name: WECC Southwest (AZNM)
+    occupancy: 5
+    target_tons: 5
+    taget_co2_per_person: 1.0
   windows:
-    ph_window_u_value: null
-    ph_window_r_value: null
-    comfort_target_r_value: null
-    comfort_target_u_value: null
+    ph_window_u_value: 0.22
+    ph_window_r_value: 4.5
+    comfort_target_r_value: 4.5
+    comfort_target_u_value: 0.22
   mechanical:
     erv:
-      manufacturer_name: null
-      type_name: null
-      link: null
-  user_defined: {}
+      manufacturer_name: Zehnder America
+      type_name: ComfoAir Q600 ERV
+      link: https://zehnderamerica.com/products/ventilator/comfoair-q/
+  user_defined:
+    icfa_ft2: '2,740'
+    envelope_area_ft2: '12,008'
+    envelope_to_icfa_ratio: '4.4'
+    window_area_total_ft2: '638'
+    window_area_north_ft2: '132'
+    window_area_east_ft2: '216'
+    window_area_south_ft2: '147'
+    window_area_west_ft2: '143'

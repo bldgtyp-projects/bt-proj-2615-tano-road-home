@@ -28,6 +28,17 @@ Output Emission Rates used are from the <strong><Var k="narrative.co2.epa_subgri
 the [EPA eGRID Data Explorer](https://www.epa.gov/egrid/data-explorer). Source Energy Factors for all fuel types are taken
 from the [EPA EnergyStar Portfolio Manager Technical Reference (2023)](https://www.energystar.gov/buildings/tools-and-resources/portfolio-manager-technical-reference-source-energy).
 
+For this project, the code-minimum baseline lands at roughly **13.5 tons-CO<sub>2e</sub>/year**, or about 2.7 tons per
+occupant for building operation alone, well over the benchmark. The base **B.Public** package brings that down to
+6.4 tons, and the full **+R-80 Roof** package to **5.8 tons**, close to the
+<Var k="narrative.co2.target_tons" />-ton target. The **Phius CORE 2024** variant reaches **4.2 tons/year**, comfortably
+inside it.
+
+This comparison assumes today's grid. The <strong><Var k="narrative.co2.epa_subgrid_name" /></strong> subregion is
+decarbonizing quickly, and New Mexico's Energy Transition Act targets a carbon-free grid by 2045. Because this building
+is entirely electric, its operational emissions will fall further over its life without any action by the owners.
+On-site PV, discussed in the [Renewable Energy](#renewable-energy) section, would speed that up.
+
 <div class="btwr-callout">
     While CO<sub>2e</sub> emissions are calculated within the Passive House energy modeling software (PHPP), CO<sub>2e</sub> is not one of
     the certification metrics for Passive House projects. The following is for informational purposes only.

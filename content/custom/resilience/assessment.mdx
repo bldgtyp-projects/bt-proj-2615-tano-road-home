@@ -1,0 +1,45 @@
+---
+kicker: "01"
+title: "Resilience Assessment"
+dek: "Frame the outage simulations, accepted criteria, and limits of the available outputs."
+---
+
+In addition to the whole-building annual-energy consumption model created using the 
+[Passive House Planning Package (PHPP)](https://passivehouse.com/en/home/planning-tools/), the home was 
+also assessed using a detailed hourly model for ‘resiliency’ during two test-periods:
+
+1. The home was simulated during a **summer heat-wave event** along with a power-outage which lasts for a full week.
+2. The home was simulated during a **winter storm event** along with a power-outage which lasts for a full week.
+
+These ‘stress-test’ simulations evaluate the ability of the building to maintain safe and healthy interior conditions while 
+relying only on ‘Passive’ measures alone, as all space conditioning equipment is considered inoperable for these test-periods. 
+These test-periods align with the [Phius REVIVE protocol](https://www.phius.org/phius-revive-2024), including all rules 
+which define occupancy, weather-conditions, and habitability thresholds. Note in particular that test-period weather 
+conditions are established which follow the **Phius REVIVE** requirements.
+
+- [Phius REVIVE 2024 Standard v24.1.1.pdf (7.7 MB)](https://www.phius.org/phius-revive-2024-standard-document)
+
+Each simulation window runs for nine days: one day of normal operation before the event, the seven-day 
+outage itself, and one day of recovery after power is restored. For the simulation in this case, the model is 
+split into four zones which follow the main occupied areas of the home. Those are the **Kitchen / Living** wing, the 
+**Owner's Suite**, the **Office** wing, and the **Casita** wing, with the resilience results being reported 
+for each zone separately.
+
+<div class="btwr-callout">
+  <strong>Design implication</strong>
+  <span>
+    Both the Summer Heat Index and the Winter SET criteria **pass**, and in both cases with a very wide margin. The 
+    high-desert climate of Santa Fe, with its large day-to-night temperature swing and low humidity, works strongly 
+    in the home's favor during the summer event, while the insulation and airtightness levels carry the winter event. 
+    No envelope or glazing modifications are recommended on resilience grounds at this time.
+  </span>
+</div>
+
+{/* TODO: add the EnergyPlus zone-diagram export (see 2613 Ayers Home for the reference format).
+    Place the PDF + optimized PNG at public/assets/resilience/zone-diagram.* and then restore:
+
+<img
+  src="/assets/resilience/zone-diagram.optimized.png"
+  alt="Diagram showing the EnergyPlus Phius REVIVE Model Zoning with labels."
+/>
+*/}

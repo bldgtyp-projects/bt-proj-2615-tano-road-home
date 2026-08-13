@@ -4,27 +4,45 @@ title: "Model Variants"
 dek: "Compare the design options that define the energy-model decision space."
 ---
 
-As shown in the results below, in order to assess the building performance we have tested the building in five distinct
-configurations (variants):
+As shown in the results below, in order to assess the building performance we have tested the building in six distinct
+configurations (variants). Variants 3 through 5 are cumulative: each one carries forward the improvements of the one
+before it.
 
 1. **Code-Minimum:** A version which meets but does not exceed the **<VarLink
 hrefKey="narrative.energy_code.code_base_url" target="_blank" rel="noopener noreferrer"><Var
 k="narrative.energy_code.name" /> / <Var k="narrative.energy_code.zone" /></VarLink>** code minimums for assembly
 R-values, window U-values, airtightness and equipment efficiencies. This variant assumes a typical residential
 "extract-only" (bath fan) ventilation system, and that the building uses all-electric appliances and equipment for
-heating, cooling, hot-water and cooking.
+heating, cooling, hot-water and cooking. Modeled at R-10 sub-slab, U-0.32 windows, and 3.0 ACH50.
 
-2. **Improved Envelope:** This variant improves the window U-values, assembly R-values, and total airtightness of the
-building beyond the "code-minimum" levels, but not quite to full "Passive House" level. 
+2. **Improved:** This variant improves the window U-values, assembly R-values, and total airtightness of the
+building beyond the "code-minimum" levels, but not quite to full "Passive House" level. Windows improve to U-0.24,
+airtightness to 1.0 ACH50, and the sub-slab insulation to R-25. This variant also introduces a dedicated balanced
+fresh-air ventilation system with heat and moisture recovery (ERV), modeled at 76% effective heat recovery and 68%
+moisture recovery.
 
-3. **Improved HVAC:** This variant includes a dedicated fresh-air ventilation system with heat recovery (HRV). This 
-system is assumed to be a "basic" HRV with 70% heat-recovery (unit). This variant shows a slight increase in the overall 
-site-energy, due to the increased fan-energy needed.
+3. **R-35 Walls / R-59 Roof:** A variant which uses the **B.Public** wall (R-35) and roof (R-59) panel system for
+the envelope of the home. As modeled, these panels deliver an effective whole-assembly R-33.5 at the walls and R-58.5
+at the roof. All other inputs match the "Improved" case.
 
-4. **PHI EnerPHit 'By Component' [RECOMMENDED]:** A variant which meets the stringent Passive House Institute (PHI) EnerPHit
-(Energy Retrofit) standard's prescriptive targets for envelope U-values, airtightness, windows, and equipment efficiencies.
-This variant also includes a high performance ERV system for fresh-air ventilation.
+4. **+R-52 Walls:** A variant which upgrades all wall surfaces to the **B.Public** R-52 wall panel option
+(effective R-49.5).
 
-5. **PHI EnerPHit 'By Demand' :** A version which increases assembly R-values, window U-values, and mechanical system efficiencies 
-to meet the PHI-EnerPHit 'by Demand'  energy performance certification criteria. Due to the higher level of wall insulation required
-at the existing brick masonry, this variant is not recommended in this case.
+5. **+R-80 Roof:** A variant which also upgrades all roof surfaces to the **B.Public** R-80 roof panel
+option (effective R-75.8). This is the full B.Public upgrade package.
+
+6. **Phius CORE 2024:** A version configured to pursue the rigorous **Phius CORE 2024** certification standard. On top
+of the full B.Public package this variant adds 4" of continuous exterior mineral wool at the walls (effective R-62),
+raises the sub-slab insulation to R-41, upgrades the windows to U-0.15 triple glazing, tightens the thermal-bridge
+allowance from 10% to 5%, and halves the exterior ventilation duct runs while doubling their insulation thickness
+(which lifts effective heat recovery from 76% to 79%).
+
+<div class="btwr-callout">
+  <strong>Note on airtightness</strong>
+  <span>
+    Variants 2 through 5 are all modeled at 1.0 ACH50 and variant 6 at 0.6 ACH50. As discussed in the
+    <a href="/building_envelope/#building-airtightness">Building Airtightness</a> section, 1.0 ACH50 already
+    clears the Phius area-based airtightness limit for this building by a wide margin, so the difference between
+    those two numbers is a small energy refinement rather than a certification requirement.
+  </span>
+</div>

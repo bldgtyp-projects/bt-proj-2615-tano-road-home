@@ -10,14 +10,49 @@ radiation_caption: "Winter solar radiation by window orientation."
 
 Taking into account the climate, orientation, and shading, in the results below we have assessed the average seasonal
 (winter / summer) solar radiation falling upon the windows in the project. The radiation levels will vary by orientation
-and as can be observed, shading obstructions also have a strong effect on the final level of solar radiation any
+and, as can be observed, shading obstructions also have a strong effect on the final level of solar radiation any
 individual window receives.
 
-- Very good solar radiation is observed along the south facade which will help to reduce the wintertime heating energy
-  need significantly.
-- Very limited solar gain observed on all north side glazing. Given the large amount of glazing and the limited solar radiation, 
-any small reduction in north-side glazing area (5% - 10%) would benefit the overall energy balance of the home.
-- While the high levels of solar gain on the south do help reduce heating energy demand, it is possible that at some
-  times this solar gain may be unwanted. It is recommended to ensure that all south-facing glazing, in particular the upper level
-  windows in the dormers, are outfitted with robust user-operable blinds / shades to ensure against any thermal discomfort. 
-  While external shades are preferred, internal shades are a good option as well and can still help with glare and overheating issues.
+The home has <Var k="narrative.user_defined.window_area_total_ft2" /> ft² of glazing in total. How that area is
+distributed, and how much useful winter heat each orientation actually delivers, is the core finding of this section:
+
+| Orientation | Glazing area | Share of total | Heating-season gain | Gain per ft² of glass |
+| --- | ---: | ---: | ---: | ---: |
+| South | <Var k="narrative.user_defined.window_area_south_ft2" /> ft² | 23% | 3,385 kWh | **23.0 kWh/ft²** |
+| West | <Var k="narrative.user_defined.window_area_west_ft2" /> ft² | 22% | 1,958 kWh | 13.7 kWh/ft² |
+| North | <Var k="narrative.user_defined.window_area_north_ft2" /> ft² | 21% | 631 kWh | 4.8 kWh/ft² |
+| East | <Var k="narrative.user_defined.window_area_east_ft2" /> ft² | 34% | 681 kWh | **3.2 kWh/ft²** |
+
+*(Modeled gains shown for the Phius CORE 2024 variant.)*
+
+Two things stand out.
+
+South glass is roughly seven times as productive as east glass here, and there is the least of it. A square foot of
+south glazing delivers 23.0 kWh over the heating season; a square foot of east glazing delivers 3.2. Yet east is the
+largest single orientation on the building at 34% of total glazing area, while south is 23%. The glazing is
+distributed almost the opposite of the way the climate would reward.
+
+The south glass is also underperforming its own potential. The climate file shows an unobstructed south-facing
+vertical surface in Santa Fe receiving about 13.7 kWh/ft² in January alone. After glazing losses, the south windows on
+this building deliver well under what an unshaded south window would. The difference comes from the garage wing, the
+opposing courtyard walls, and the portals overhead, as described in the [Site Shading](#site-shading) section. In the
+radiation study above, only the large slider bank shows meaningful winter gain.
+
+### What this means for the results
+
+Across the whole building, heating-season solar gains total roughly 6,700 kWh against roughly 18,000 kWh of envelope
+and ventilation losses. A compact, well-oriented house of the same floor area in this climate would typically both
+lose considerably less and gain considerably more. That combination, rather than the quality of the construction, is
+what separates this project from the Phius CORE 2024 heating-demand limit.
+
+### Recommendations
+
+- Where glazing area is still being adjusted, move it south. Even modest reallocation from the east and north
+  elevations to the south elevation improves the winter balance materially, at no change in total glass area, cost, or
+  daylight.
+- Reduce north glazing where it is not doing architectural work. North glass returns 4.8 kWh/ft² of gain against a
+  full winter's worth of loss. A 5% to 10% reduction in north glazing area would improve the overall energy balance of
+  the home.
+- Keep south glass unshaded in winter. Where a portal or overhang covers south glazing, check whether it can be
+  detailed to admit the low December sun while still blocking the high June sun. The two angles differ by about 47° at
+  this latitude, which is usually enough geometry to work with.

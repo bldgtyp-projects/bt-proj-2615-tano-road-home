@@ -6,7 +6,7 @@ dek: "Define the airtightness target and the control-layer strategy."
 ---
 
 The primary role of airtightness in buildings is to avoid interstitial condensation and mold/moisture damage to the
-structure during the winter and shoulder-season months. Additionally, in hot climates, airtightness plays an important
+structure during the winter and shoulder-season months. In hot climates, airtightness plays an important
 role in restricting warm outdoor air and moisture vapor ingress from the exterior. This helps reduce energy consumption
 needed for cooling and dehumidification while improving occupant comfort and building resiliency.
 
@@ -24,3 +24,35 @@ In order to meet the recommended building performance level, this project should
 than <strong><Var k="narrative.certification.ph_ach_limit" /> ACH@50Pa</strong>. Improving airtightness to this low
 level is one of the best ways to improve performance, increase comfort and durability, and reduce the risk of
 uncontrolled wintertime air leakage.
+
+### Two ways of measuring the same thing
+
+Understanding why the target sits where it does matters here, because the two common metrics point in opposite
+directions on a building with this geometry.
+
+**ACH50** normalizes leakage to interior *volume*. Passive House work in the US and Europe has historically used
+0.6 ACH50 as a shorthand target. **CFM50/ft²** normalizes leakage to enclosure *area*, and this is what
+**Phius CORE 2024** actually requires, at <Var k="narrative.certification.phius_cfm50_limit" /> CFM50/ft² of gross
+enclosure area.
+
+Because this home has an unusually large enclosure relative to its volume, those two metrics diverge sharply. The
+<Var k="narrative.certification.ph_ach_limit" /> ACH50 target recommended here corresponds to about
+**0.037 CFM50/ft²**, already well inside the Phius limit with roughly 40% margin to spare. Hitting the
+Phius area-based limit exactly would take only about 1.6 ACH50.
+
+<div class="btwr-callout">
+  <strong>Design implication</strong>
+  <span>
+    Airtightness is one of the few areas where this building's geometry works in its favor. The
+    <Var k="narrative.certification.ph_ach_limit" /> ACH50 target is a realistic, well-precedented result for
+    panelized construction with a continuous, detailed air barrier, and it satisfies the Phius requirement
+    comfortably. There is no need to chase 0.6 ACH50 on certification grounds. Going further, to the 0.6 ACH50
+    modeled in the Phius CORE variant, still saves energy and is worth pursuing if the construction achieves it,
+    but treat it as a bonus rather than a pass/fail requirement.
+  </span>
+</div>
+
+The air barrier must be continuous across every wing, at every junction between panel systems, and, most demandingly
+on this plan, at each of the many corners, offsets, and roof-to-wall transitions created by the pinwheel massing. A
+spread-out building has many more linear feet of air-barrier joint per square foot of floor than a compact one, so
+sequencing and inspection of that layer deserve more attention here than they would on a simple box.

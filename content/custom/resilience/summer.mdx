@@ -1,0 +1,43 @@
+---
+kicker: "02"
+title: "Summer Heat Index"
+dek: "Track the occupied-zone Heat Index through the declared seven-day outage."
+---
+
+import summerHeatIndexHtml from "./summer_heat_index.html?raw";
+import summerHeatIndexEnhancement from "./summer_heat_index.js?raw";
+
+The **Phius REVIVE** protocol suggests that during the simulation test-period the [Heat Index](https://bigladdersoftware.com/epx/docs/22-2/engineering-reference/resilience-metrics.html#heat-index) temperature should be 
+used to evaluate the overall perceived thermal habitability of the zone. In the results shown below, the Heat Index 
+for each zone is plotted for the entire test-period summer week. Minimum compliance with the **Phius REVIVE** standard 
+requires that the building demonstrate:
+
+- 0-hours of **Heat Index** in the ‘Extreme Danger’ zone ( > 52 °C [125 °F]).
+
+<div class="btwr-callout">
+  <strong>Result</strong>
+  <span>
+The home passes this threshold with a very large margin. Across the full seven-day outage the peak Heat Index in any 
+zone reaches only 26.8 °C [80.3 °F]: zero hours in the ‘Extreme Danger’ zone, zero hours in the ‘Danger’ zone, and 
+zero hours in the ‘Warning’ zone. The peak only just brushes the bottom of the ‘Caution’ band, and does so for a 
+handful of afternoon hours. This occurs even though the outdoor air peaks at 38.4 °C [101.1 °F] during the event. 
+The well-insulated, airtight envelope, the low outdoor humidity, and the large Santa Fe day-to-night temperature 
+swing together keep the interior dry-bulb temperature at or below 26.7 °C [80.1 °F] for the whole outage. Nights 
+fall to roughly 11 °C [52 °F], which lets the house be flushed and re-cooled each night.
+  </span>
+</div>
+
+<div
+  class="btwr-plotly-embed"
+  role="group"
+  aria-label="Summer Heat Index, dry-bulb temperature, and relative humidity plots"
+  set:html={summerHeatIndexHtml}
+/>
+
+<script is:inline set:html={summerHeatIndexEnhancement}></script>
+
+### More Details for the Summer Period:
+- [Heat Index](/downloads/resilience/summer_heat_index.html)
+- [Outdoor Environment](/downloads/resilience/summer_outdoor_environment.html)
+- [Fresh Air Ventilation](/downloads/resilience/summer_ventilation.html)
+- [Energy Flow](/downloads/resilience/summer_energy_flow.html)
