@@ -24,60 +24,37 @@ modeling assumptions, the results, and our recommendations.
 ### What we recommend
 
 Build to the **+R-52 Walls** package: the **B.Public** R-52 wall panel (effective R-49.5), the R-59 roof panel
-(effective R-58.5), an R-25 sub-slab assembly, U-0.22 windows, 1.0 ACH50 airtightness, and a balanced ERV. Do not
-pursue Phius certification. The reasoning for both halves of that recommendation is below.
+(effective R-58.5), an R-25 sub-slab assembly, U-0.22 windows, 1.0 ACH50, and a balanced ERV. Do not pursue Phius
+certification.
 
 ### What the model shows
 
-The B.Public panel system works well for this building and climate. Moving from the code-minimum baseline to the base
+The B.Public panel system works well for this building and climate. Moving from code-minimum to the base
 **R-35 wall / R-59 roof** package cuts total site energy roughly in half, from 50.6 to 26.1 kBtu/ft²·yr. Upgrading the
 walls to the **R-52 panel** takes that to **24.1 kBtu/ft²·yr** and drops annual CO<sub>2e</sub> emissions from 15.2 to
-6.6 tons/year. That is an excellent building: comfortable, durable, quiet, and less than half the energy use of a
-code-compliant house on the same plan.
+6.6 tons/year: an excellent building, at less than half the energy use of a code-compliant house on the same plan.
 
-Past that point the curve flattens hard. Adding the **R-80 roof** panel on top of the R-52 walls saves a further
-0.6 kBtu/ft²·yr, the smallest return of any upgrade tested in this report. It is worth taking if the panel premium
-is small, since it is a factory substitution with no detailing consequences, but it should be decided on price rather
-than on energy. See [Ext. Roof](/building_envelope/#recommended-assemblies).
+Past that point the curve flattens hard. The **R-80 roof** panel saves a further 0.6 kBtu/ft²·yr, the smallest return
+of any upgrade tested here, and should be decided on panel price rather than on energy. The full **Phius CORE 2024**
+variant reaches 17.5 kBtu/ft²·yr and 4.7 tons CO<sub>2e</sub>/year, inside the 5-ton benchmark described in the
+[CO2 Emissions](/energy_model/#co2-emissions) section, but needs R-62 effective walls, an R-41 sub-slab assembly,
+U-0.15 windows, and 0.6 ACH50 to get there.
 
-The full **Phius CORE 2024** variant goes further still, with site energy down to 17.5 kBtu/ft²·yr and only 4.7 tons
-CO<sub>2e</sub>/year. That sits inside the 5-ton benchmark described in the
-[CO2 Emissions](/energy_model/#co2-emissions) section. It gets there with R-62 effective walls, an R-41
-sub-slab assembly, U-0.15 windows, 0.6 ACH50 airtightness, and a shortened, heavily insulated ventilation
-duct run.
+### Why we do not recommend certification
 
-### Why we do not recommend pursuing certification
+Certification is achievable here, but the Phius variant passes heating demand by only 3.1% (8.90 against
+9.19 kBtu/ft²·yr), peak heating load by 5.0%, and net source energy by 2.4%. PV can buy back source-energy margin; the
+other two are pure envelope, and the heating-demand figure additionally depends on a 2% thermal-bridge allowance not
+yet backed by 2D calculation. The underlying cause is fixed by the site plan: the 4.4 enclosure-to-floor-area ratio and
+the self-shaded south glass follow from the program and massing, so the envelope is compensating for geometry. That is
+why the Phius package needs 3" of site-applied mineral wool over finished panels, double the sub-slab foam, and a
+considerably more expensive window. The decision also cannot be deferred, since sub-slab depth and window plane are
+both early, irreversible commitments.
 
-Certification is achievable on this building. We do not think it is worth what it costs here, for three reasons.
-
-1. **The margins are very thin.** The Phius CORE 2024 variant passes heating demand by 3.1% (8.90 against
-   9.19 kBtu/ft²·yr), peak heating load by 5.0%, and net source energy by 2.4%. Source-energy margin can be bought
-   back with PV. The other two cannot: they are pure envelope, and there is no design move left that recovers them.
-2. **One of those margins rests on an uncalculated assumption.** The heating-demand result carries thermal bridges as
-   a 2% allowance rather than as calculated psi-values. On a single-storey pinwheel plan with this much slab perimeter
-   and this many roof-to-wall transitions, explicit 2D modeling could plausibly consume the entire 3.1% margin. That
-   work would need to happen before, not after, committing to the path.
-3. **The cause is fixed by the site plan.** The 4.4 enclosure-to-floor-area ratio and the self-shaded south glass are
-   consequences of the program and the massing, not of the specification. The envelope is being asked to compensate
-   for geometry, which is why the Phius package needs 3" of site-applied mineral wool over already-complete panels,
-   roughly double the sub-slab foam, and a considerably more expensive window.
-
-The practical consequence is that the decision cannot be deferred. The sub-slab insulation depth and the window plane
-are both early, irreversible commitments, so certification is not something this project can add back later at the
-incremental cost of the difference.
-
-### Two things that carry more weight without certification
-
-**Windows.** All three B.Public variants are now modeled at an installed U-0.22, which is exactly the glazing
-performance that Passive House comfort guidance recommends for this climate's winter design conditions. That is a
-deliberate choice: it puts the recommended package on the right side of the radiant-asymmetry threshold without
-reaching for the U-0.15 product the certification path requires. See
-[Window Thermal Comfort](/windows/#window-thermal-comfort).
-
-**Solar PV.** At 6.6 tons CO<sub>2e</sub>/year the recommended package sits above the 5-ton benchmark this report
-uses, and only the Phius variant clears that benchmark on envelope alone. Without certification, on-site PV becomes
-the mechanism that closes the carbon gap rather than an optional extra. A modest array, roughly 3 kW, offsets the
-difference. We recommend carrying PV in the scope; see [Renewable Energy](/energy_model/#renewable-energy).
+Two consequences follow. All three B.Public variants are modeled at **U-0.22**, the level Passive House comfort
+guidance recommends for this climate, so the recommended package clears the radiant-asymmetry threshold without the
+U-0.15 product certification would require. And at 6.6 tons CO<sub>2e</sub>/year it sits above the 5-ton benchmark, so
+**on-site PV**, roughly 3 kW, becomes the mechanism that closes the carbon gap.
 
 ### Resilience
 
